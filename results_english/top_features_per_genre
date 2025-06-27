@@ -1,0 +1,60 @@
+🎭 Genre: Crime
+   POS_INTJ                  → weight: +0.6094
+   POS_PRON                  → weight: +0.5355
+   POS_ADV                   → weight: -0.5349
+   POS_SPACE                 → weight: -0.4596
+   POS_SYM                   → weight: +0.3679
+   POS_SCONJ                 → weight: +0.3246
+   POS_CCONJ                 → weight: -0.1822
+   POS_AUX                   → weight: +0.1774
+   type_token_ratio          → weight: +0.1753
+   POS_PART                  → weight: -0.1473
+
+🎭 Genre: Fiction
+   type_token_ratio          → weight: -0.9221
+   POS_ADV                   → weight: +0.7066
+   POS_INTJ                  → weight: -0.5784
+   POS_NOUN                  → weight: -0.3936
+   POS_SPACE                 → weight: +0.3506
+   POS_SYM                   → weight: -0.3311
+   POS_SCONJ                 → weight: -0.2809
+   POS_ADJ                   → weight: +0.2377
+   POS_ADP                   → weight: -0.2322
+   POS_PRON                  → weight: -0.2260
+
+🎭 Genre: Judiciary
+   avg_sentence_len          → weight: +0.4929
+   POS_ADP                   → weight: +0.2920
+   POS_PRON                  → weight: -0.2283
+   POS_CCONJ                 → weight: +0.1628
+   POS_X                     → weight: +0.1567
+   POS_SYM                   → weight: +0.1449
+   POS_NUM                   → weight: +0.1387
+   POS_INTJ                  → weight: +0.1200
+   POS_AUX                   → weight: +0.1095
+   POS_SPACE                 → weight: -0.1061
+
+🎭 Genre: Poems
+   type_token_ratio          → weight: +0.5042
+   POS_NUM                   → weight: -0.2370
+   POS_AUX                   → weight: -0.2198
+   POS_PART                  → weight: -0.2091
+   POS_SPACE                 → weight: +0.2048
+   POS_ADP                   → weight: +0.1513
+   POS_NOUN                  → weight: -0.1417
+   POS_CCONJ                 → weight: -0.1086
+   POS_X                     → weight: -0.1070
+   POS_SCONJ                 → weight: -0.1015
+
+🎭 Genre: Technical
+   POS_ADP                   → weight: -0.5093
+   type_token_ratio          → weight: -0.5055
+   POS_AUX                   → weight: -0.3986
+   avg_sentence_len          → weight: -0.3268
+   POS_NOUN                  → weight: +0.2940
+   POS_ADJ                   → weight: -0.2704
+   POS_VERB                  → weight: +0.2378
+   POS_PROPN                 → weight: +0.1963
+   POS_SCONJ                 → weight: -0.1880
+   POS_ADV                   → weight: -0.1824
+
