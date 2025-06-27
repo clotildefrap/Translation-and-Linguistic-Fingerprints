@@ -1,0 +1,60 @@
+🎭 Genre: Crime
+   POS_CCONJ                 → weight: -0.4335
+   POS_NOUN                  → weight: -0.4280
+   POS_PRON                  → weight: +0.4218
+   POS_ADJ                   → weight: +0.4126
+   punct_ratio               → weight: +0.3561
+   POS_INTJ                  → weight: +0.3213
+   POS_NUM                   → weight: -0.3069
+   POS_PUNCT                 → weight: +0.2682
+   POS_PROPN                 → weight: -0.2645
+   POS_DET                   → weight: +0.2471
+
+🎭 Genre: Fiction
+   POS_CCONJ                 → weight: +0.6804
+   POS_PROPN                 → weight: +0.4942
+   avg_sentence_len          → weight: -0.4223
+   punct_ratio               → weight: -0.3257
+   POS_PRON                  → weight: -0.3243
+   POS_ADV                   → weight: +0.3078
+   type_token_ratio          → weight: -0.2978
+   POS_ADP                   → weight: -0.2317
+   POS_PUNCT                 → weight: -0.2305
+   POS_SPACE                 → weight: -0.2139
+
+🎭 Genre: Judiciary
+   avg_sentence_len          → weight: +0.2931
+   POS_X                     → weight: +0.2765
+   POS_SPACE                 → weight: -0.1801
+   POS_NUM                   → weight: +0.1768
+   POS_DET                   → weight: +0.1754
+   POS_INTJ                  → weight: -0.1561
+   POS_VERB                  → weight: +0.1532
+   POS_CCONJ                 → weight: -0.1507
+   POS_ADP                   → weight: +0.1497
+   POS_SCONJ                 → weight: +0.1224
+
+🎭 Genre: Poems
+   type_token_ratio          → weight: +0.3952
+   POS_ADJ                   → weight: -0.1605
+   POS_NUM                   → weight: -0.1604
+   POS_SPACE                 → weight: +0.1541
+   POS_ADP                   → weight: -0.1356
+   POS_VERB                  → weight: +0.1348
+   avg_sentence_len          → weight: +0.1180
+   POS_ADV                   → weight: +0.1142
+   POS_PART                  → weight: +0.1104
+   POS_X                     → weight: -0.1086
+
+🎭 Genre: Technical
+   avg_sentence_len          → weight: -0.3726
+   POS_ADV                   → weight: -0.3255
+   POS_SYM                   → weight: +0.3247
+   POS_DET                   → weight: -0.2994
+   POS_VERB                  → weight: -0.2467
+   POS_CCONJ                 → weight: -0.2451
+   type_token_ratio          → weight: -0.2285
+   POS_PUNCT                 → weight: -0.2111
+   POS_NOUN                  → weight: +0.2103
+   POS_ADP                   → weight: +0.1998
+
