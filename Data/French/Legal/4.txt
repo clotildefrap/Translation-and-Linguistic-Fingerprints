@@ -1,0 +1,367 @@
+	
+Journal officiel	
+	
+de l’Union européenne	
+FR	
+Série L	
+2024/1069	16.4.2024
+	
+DIRECTIVE (UE) 2024/1069 DU PARLEMENT EUROPÉEN ET DU CONSEIL	
+du 11 avril 2024	
+	
+sur la protection des personnes qui participent au débat public contre les demandes en justice manifestement infondées ou les procédures judiciaires abusives («poursuites stratégiques altérant le débat public»)	
+	
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L’UNION EUROPÉENNE,	
+vu le traité sur le fonctionnement de l’Union européenne, et notamment son article 81, paragraphe 2, point f), vu la proposition de la Commission européenne,	
+vu l’avis du Comité économique et social européen  (1 ),	
+	
+après transmission du projet d’acte législatif aux parlements nationaux, statuant conformément à la procédure législative ordinaire  (2 ), considérant ce qui suit:	
+	
+L’Union s’est donné pour objectif de maintenir et de développer un espace de liberté, de sécurité et de justice au sein duquel est assurée la libre circulation des personnes. Pour mettre en place cet espace, l’Union doit adopter, entre autres, des mesures relatives à la coopération judiciaire dans les matières civiles ayant une incidence transfrontière et qui sont nécessaires en vue de l’élimination des obstacles au bon déroulement des procédures civiles. Cet objectif devrait être poursuivi, au besoin, en favorisant la compatibilité des règles de procédure civile applicables dans les États membres.	
+L’article 2 du traité sur l’Union européenne dispose que l’Union est fondée sur les valeurs de respect de la dignité humaine, de liberté, de démocratie, d’égalité, de l’État de droit, ainsi que de respect des droits de l’homme, y compris des droits des personnes appartenant à des minorités.	
+L’article 10, paragraphe 3, du traité sur l’Union européenne dispose que tout citoyen de l’Union a le droit de participer à la vie démocratique de l’Union. La charte des droits fondamentaux de l’Union européenne (ci-après dénommée «charte») prévoit notamment le droit au respect de la vie privée et familiale, le droit à la protection des données à caractère personnel, le droit à la liberté d’expression et d’information, qui comprend le respect de la liberté et du pluralisme des médias, le droit à la liberté de réunion et d’association et le droit à un recours effectif et à accéder à un tribunal impartial.	
+Le droit à la liberté d’expression et d’information institué par l’article 11 de la charte comprend la liberté d’opinion et la liberté de recevoir ou de communiquer des informations ou des idées sans qu’il puisse y avoir ingérence d’autorités publiques et sans considération de frontières. Il est nécessaire de donner à l’article 11 de la charte le sens et la portée de l’article 10 correspondant de la convention européenne des droits de l’homme sur le droit à la liberté d’expression, tel qu’il est interprété par la Cour européenne des droits de l’homme.	
+Dans sa résolution du 11 novembre 2021 sur le renforcement de la démocratie ainsi que de la liberté et du pluralisme des médias dans l’Union, le Parlement européen a invité la Commission à proposer un ensemble d’instruments juridiques contraignants et non contraignants pour faire face au nombre croissant de poursuites stratégiques altérant le débat public ou «poursuites-bâillons» concernant les journalistes, les organisations non gouvernementales (ONG), les universitaires et la société civile dans l’Union. Le Parlement a fait part de la nécessité de mesures législatives dans les domaines de la procédure civile et de la procédure pénale, telles qu’un mécanisme de rejet rapide pour les poursuites abusives au civil, le droit au remboursement intégral des dépens exposés par le défendeur et le droit à réparation du préjudice subi. La résolution du 11 novembre 2021 comprenait également un appel en faveur d’une formation appropriée des juges et des praticiens du droit en ce qui concerne les poursuites-bâillons, un fonds spécifique destiné à apporter un soutien financier aux victimes de poursuites-bâillons et un registre, accessible au public, recensant les décisions de justice en la matière. En outre, le Parlement a demandé la révision du règlement (UE) no 1215/2012 du Parlement européen et du Conseil  (3)  et du règlement (CE) no 864/2007 du Parlement européen et du Conseil  (4)  afin de prévenir le «tourisme de la diffamation» ou la	
+	
+«recherche opportuniste de juridiction».	
+JO C 75 du 28.2.2023, p. 143.	
+Position du Parlement européen du 27 février 2024 (non encore parue au Journal officiel) et décision du Conseil du 19 mars 2024.	
+Règlement (UE) no 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire, la reconnaissance et l’exécution des décisions en matière civile et commerciale (JO L 351 du 20.12.2012, p. 1).	
+Règlement (CE) no 864/2007 du Parlement européen et du Conseil du 11 juillet 2007 sur la loi applicable aux obligations non contractuelles (Rome II) (JO L 199 du 31.7.2007, p. 40).	
+	
+L’objectif de la présente directive est d’éliminer les obstacles au bon déroulement des procédures civiles, tout en assurant la protection des personnes physiques et morales qui participent au débat public sur des questions d’intérêt public, y compris les journalistes, les éditeurs, les organisations de médias, les lanceurs d’alerte et les défenseurs des droits de l’homme, ainsi que des organisations de la société civile, des ONG, des syndicats, des artistes, des chercheurs et des universitaires, contre les procédures judiciaires qui sont engagées à leur encontre en vue de les dissuader de participer au débat public.	
+	
+Le droit à la liberté d’expression est un droit fondamental qui doit s’exercer avec un sens du devoir et de la responsabilité, en prenant en considération le droit fondamental des citoyens à disposer d’une information impartiale, ainsi que le respect du droit fondamental à protéger sa réputation, la protection des données à caractère personnel et de la vie privée. En cas de conflit entre ces droits, toutes les parties doivent avoir accès à des tribunaux dans le respect du principe du procès équitable. À cette fin, la présente directive devrait laisser à la juridiction saisie le pouvoir discrétionnaire lui permettant d’apprécier si l’application des garanties pertinentes est appropriée dans le cas d’espèce. Lorsqu’elle exerce ce pouvoir discrétionnaire, la juridiction ne devrait pas appliquer les garanties pertinentes, par exemple lorsque la participation au débat public ne se fait pas de bonne foi dans des cas où, par l’acte de participation au débat public, le défendeur a diffusé de la désinformation ou a formulé des allégations qui sont forgées de toutes pièces afin de nuire à la réputation du requérant.	
+	
+Les journalistes jouent un rôle important dans la facilitation du débat public et dans la communication et la réception d’informations, d’opinions et d’idées. Ils devraient être en mesure d’exercer leurs activités de manière effective et sans crainte afin que les citoyens aient accès à une pluralité de points de vue dans les démocraties européennes. Le journalisme indépendant, professionnel et responsable, ainsi que l’accès à l’information pluraliste, sont des piliers essentiels de la démocratie. Il est essentiel que les journalistes disposent de l’espace nécessaire pour contribuer à un débat ouvert, libre et équitable et pour lutter contre la désinformation, la manipulation de l’information et l’ingérence, conformément à la déontologie journalistique, et qu’ils bénéficient d’une protection lorsqu’ils agissent de bonne foi.	
+	
+La présente directive ne définit pas le terme «journaliste», puisqu’elle a pour objet de protéger toute personne physique ou morale qui participe au débat public. Toutefois, il convient de souligner que le journalisme est exercé par des personnes de tous horizons, y compris des reporters, des analystes, des éditorialistes et des blogueurs, ainsi que d’autres personnes qui publient elles-mêmes le produit de leur travail, sous forme imprimée, sur internet ou d’une autre manière.	
+	
+En particulier, les journalistes d’investigation et les organisations de médias jouent un rôle de premier plan dans la mise au jour de la criminalité organisée, des abus de pouvoir, de la corruption, des violations des droits fondamentaux et de l’extrémisme, ainsi que dans la lutte contre ces phénomènes. Leur travail comporte des risques particulièrement élevés et ils font de plus en plus souvent l’objet d’agressions, de meurtres et de menaces, ainsi que d’intimidations et de harcèlement. Un système solide de garanties et de protection est requis pour permettre aux journalistes d’investigation de remplir leur rôle crucial de «sentinelles» sur les questions d’intérêt public, sans craindre de sanctions pour avoir recherché la vérité et informé le public.	
+	
+Les défenseurs des droits de l’homme devraient pouvoir participer activement à la vie publique et promouvoir l’obligation de rendre des comptes sans crainte d’intimidation. Parmi les défenseurs des droits de l’homme sont inclus des personnes, des groupes et des organisations de la société civile qui promeuvent et protègent les droits de l’homme et les libertés fondamentales universellement reconnus. Les défenseurs des droits de l’homme s’attachent à promouvoir et à protéger les droits civils, politiques, économiques, sociaux, culturels, environnementaux, climatiques, des femmes et des personnes LGBTIQ et à lutter contre les discriminations directes ou indirectes énoncées à l’article 21 de la charte. Compte tenu des politiques de l’Union en matière d’environnement et de climat, il convient également d’accorder une attention particulière aux défenseurs des droits environnementaux, en ce qu’ils jouent un rôle important dans les démocraties européennes.	
+	
+D’autres participants au débat public importants, tels que les universitaires, les chercheurs ou les artistes, méritent également une protection adéquate, en ce qu’ils peuvent également faire l’objet de poursuites-bâillons. Dans une société démocratique, ils devraient pouvoir enseigner, apprendre, mener leurs travaux de recherche, se produire et communiquer sans crainte de représailles. Les universitaires et les chercheurs contribuent de façon déterminante à ce qui se dit sur la scène publique et à la diffusion des savoirs, ils veillent à ce que le débat démocratique puisse avoir lieu en connaissance de cause et ils luttent contre la désinformation.	
+	
+Dans une démocratie saine et prospère, les citoyens doivent pouvoir participer activement au débat public sans ingérence indue d’autorités publiques ou d’autres intérêts puissants, qu’ils soient nationaux ou étrangers. Afin de garantir un véritable débat, les citoyens devraient pouvoir accéder à des informations fiables qui leur permettent de se forger leur propre opinion et d’exercer leur propre jugement dans un espace public où des points de vue différents peuvent être exprimés librement.	
+	
+Pour favoriser cet environnement, il est important de protéger les personnes physiques et morales des procédures judiciaires abusives altérant le débat public. Ces procédures judiciaires ne sont pas engagées pour accéder à la justice, mais pour brider le débat public ainsi que dissuader d’enquêter et de dénoncer les violations du droit de l’Union et du droit national, en recourant généralement au harcèlement et à l’intimidation.	
+	
+Les poursuites-bâillons sont généralement engagées par des entités puissantes, par exemple des particuliers, des groupes de pression, des entreprises, des personnalités politiques et des organes de l’État, dans le but de brider le débat public. Elles impliquent souvent un déséquilibre de pouvoir entre les parties, le requérant ayant une position financière ou politique plus forte que le défendeur. Bien qu’il ne s’agisse pas d’une composante indispensable de ce type d’affaires, le déséquilibre de pouvoir, lorsqu’il existe, accroît considérablement les effets néfastes et l’effet paralysant des procédures judiciaires altérant le débat public. Lorsqu’elle existe, l’utilisation abusive de l’avantage économique ou de l’influence politique du requérant à l’encontre du défendeur, ainsi que l’absence de fondement juridique, est particulièrement préoccupante si les poursuites judiciaires abusives en question sont financées directement ou indirectement par les budgets de l’État et qu’elles sont combinées à d’autres mesures étatiques directes ou indirectes contre les organisations de médias indépendantes, le journalisme indépendant et la société civile.	
+	
+Les procédures judiciaires altérant le débat public peuvent avoir une incidence négative sur la crédibilité et la réputation de personnes physiques et morales qui participent au débat public, et peuvent épuiser leurs ressources financières et autres. En raison de ces procédures, la publication d’informations sur une question d’intérêt public pourrait être retardée, voire empêchée purement et simplement. La longueur des procédures et la pression financière peuvent avoir un effet paralysant sur les personnes physiques et morales qui participent au débat public. L’existence de telles pratiques peut donc avoir un effet dissuasif sur leur travail en contribuant à l’autocensure en prévision d’éventuelles procédures judiciaires, ce qui conduit à l’appauvrissement du débat public au détriment de l’ensemble de la société.	
+	
+Les personnes visées par des procédures judiciaires abusives altérant le débat public peuvent faire l’objet de plusieurs procédures simultanées, parfois engagées devant plusieurs juridictions. La présente directive ne s’applique qu’aux questions de nature civile ou commerciale ayant une incidence transfrontière, bien que les pratiques visant à empêcher, restreindre ou pénaliser le débat public puissent également concerner des affaires administratives ou pénales ou une combinaison de différents types de procédure. Les procédures engagées devant la juridiction d’un État membre contre une personne domiciliée dans un autre État membre sont généralement plus complexes et plus coûteuses pour le défendeur. Les requérants dans les procédures judiciaires altérant le débat public peuvent également recourir à des outils procéduraux pour allonger la durée du litige et en augmenter le coût, ainsi que pour engager la procédure devant une juridiction qu’ils considèrent comme favorable à leur cause, plutôt que devant la juridiction la mieux placée pour connaître de la demande (recherche de la juridiction la plus favorable). La pression financière, la longueur et la diversité des procédures et la menace de sanctions constituent des outils puissants pour intimider et réduire au silence les voix critiques. Ces pratiques font également peser des charges inutiles et néfastes sur les systèmes judiciaires et conduisent à une utilisation abusive de leurs ressources, ce qui constitue un abus de ces systèmes.	
+	
+Les garanties prévues par la présente directive devraient s’appliquer à toute personne physique ou morale en raison de sa participation directe ou indirecte au débat public. Elles devraient également protéger les personnes physiques ou morales qui, à titre professionnel ou personnel, soutiennent ou assistent une autre personne ou lui fournissent des biens ou des services à des fins directement liées au débat public sur une question d’intérêt public, telles que les avocats, les membres de la famille, les fournisseurs d’accès à l’internet, les maisons d’édition ou les imprimeries, qui font l’objet ou sont menacés de poursuites judiciaires pour avoir soutenu, assisté ou fourni des biens ou des services aux personnes visées par des poursuites-bâillons.	
+	
+La présente directive devrait s’appliquer à tout type de demande ou d’action en justice de nature civile ou commerciale ayant une incidence transfrontière et faisant l’objet d’une procédure civile, quelle que soit la nature de la juridiction. Sont compris les procédures en référé et les demandes de mesures conservatoires, les demandes reconventionnelles ou d’autres types particuliers de mesures correctrices disponibles au titre d’autres instruments. Lorsque des actions civiles sont engagées dans le cadre de procédures pénales, la présente directive devrait s’appliquer dans les cas où leur examen est entièrement régi par le droit procédural civil. En revanche, elle ne devrait pas s’appliquer lorsque l’examen de ces actions est régi en totalité ou en partie par le droit de la procédure pénale.	
+	
+La présente directive ne devrait pas s’appliquer aux actions fondées sur la responsabilité de l’État pour des actes ou omissions dans l’exercice de la puissance publique ( acta iure imperii ), ni aux cas où sont mis en cause des fonctionnaires agissant au nom de l’État ou à la responsabilité de l’État, y compris lorsqu’il s’agit d’actes commis par des agents publics officiellement mandatés. Les États membres pourraient étendre le champ d’application des garanties procédurales prévues par la présente directive à de telles actions en vertu du droit national. Conformément à la jurisprudence constante de la Cour de justice de l’Union européenne, les procédures judiciaires sont encore susceptibles de relever de la «matière civile et commerciale» visée dans la présente directive lorsqu’un État ou un organisme public est partie, si les actes ou omissions ne sont pas commis dans l’exercice de la puissance publique. La présente directive ne devrait pas s’appliquer aux poursuites pénales ou à l’arbitrage.	
+	
+La présente directive établit des règles minimales, ce qui permet aux États membres d’adopter ou de maintenir des dispositions plus favorables aux personnes participant au débat public, y compris des dispositions nationales instituant des garanties procédurales plus efficaces, telles qu’un régime de responsabilité préservant et protégeant le droit à la liberté d’expression et d’information. La mise en œuvre de la présente directive ne devrait pas servir à justifier une régression par rapport au niveau de protection existant dans chaque État membre.	
+	
+Le débat public devrait être défini comme toute déclaration exprimée ou activité menée par une personne physique ou morale, dans l’exercice de droits fondamentaux tels que la liberté d’expression et d’information, la liberté des arts et des sciences ou la liberté de réunion et d’association, et sur une question d’intérêt public actuel ou futur, y compris la création, l’exposition, la publicité ou toute autre promotion de communications, publications ou œuvres journalistiques, politiques, scientifiques, universitaires, artistiques ou satiriques et les activités de commercialisation. La notion d’intérêt public futur se réfère au fait qu’une question pourrait ne pas encore être d’intérêt public, mais pourrait le devenir une fois que le public en aura pris connaissance, par exemple au moyen d’une publication. Le débat public peut également comprendre des activités liées à l’exercice du droit à la liberté académique et artistique, à la liberté d’association et de réunion pacifique, comme l’organisation d’activités de lobbying, de manifestations et de protestations ou la participation à de telles activités, ou des activités résultant de l’exercice du droit à une bonne administration et du droit à un recours effectif, telles que les recours devant une juridiction ou un organe administratif et la participation à des audiences publiques. Le débat public devrait également inclure les actions préparatoires, de soutien ou d’assistance qui ont un lien direct et inhérent avec la déclaration ou l’activité qui est ciblée par des poursuites-bâillons en vue d’entraver le débat public. Ces actions devraient avoir directement trait à un acte de participation au débat public spécifique ou être fondées sur un lien contractuel entre la cible réelle d’une poursuite-bâillon et la personne qui mène l’action préparatoire, de soutien ou d’assistance. Intenter une action à l’encontre, non d’un journaliste ou d’un défenseur des droits de l’homme, mais de la plateforme internet sur laquelle ceux-ci publient leurs travaux ou de l’entreprise qui imprime un texte ou d’un commerce qui vend le texte peut être un moyen efficace de brider la participation au débat public, puisque, sans ces services, les opinions ne peuvent être rendues publiques et ne peuvent donc influencer le débat public. En outre, la participation au débat public peut couvrir d’autres activités destinées à informer ou à influencer l’opinion publique ou à favoriser la prise d’actions par le public, notamment les activités menées par des entités privées ou publiques concernant une question d’intérêt public, telles que l’organisation de recherches, d’enquêtes, de campagnes ou d’autres actions collectives, ou la participation à de telles activités.	
+	
+Une question d’intérêt public devrait être définie comme incluant les questions relatives à la jouissance des droits fondamentaux. Elle comprend des questions telles que l’égalité de genre, la protection contre la violence à caractère sexiste, la non-discrimination, la protection de l’État de droit, ainsi que la liberté et le pluralisme des médias. Elle devrait également s’entendre comme incluant la qualité, la sécurité ou d’autres aspects pertinents des biens, des produits ou des services lorsque ces questions concernent la santé publique, la sécurité, l’environnement, le climat ou les droits des consommateurs et les droits des travailleurs. Un litige purement individuel entre un consommateur et un fabricant ou un prestataire de services concernant un bien, un produit ou un service ne devrait être couvert par la notion de question d’intérêt public que lorsque l’affaire présente un élément d’intérêt public, par exemple lorsqu’elle concerne un produit ou un service qui ne respecte pas les normes environnementales ou de sécurité.	
+	
+Les activités d’une personne physique ou morale qui est une personnalité publique devraient également être considérées comme des questions d’intérêt public, puisque le public peut légitimement s’y intéresser. Toutefois, il n’y a pas d’intérêt légitime lorsque le seul but d’une déclaration ou d’une activité concernant une telle personne est de satisfaire la curiosité d’un public particulier à l’égard des détails de la vie privée d’une personne physique.	
+	
+Les questions examinées par un organe législatif, exécutif ou judiciaire ou dans le cadre de toute autre procédure se rapportant à une autorité publique peuvent constituer des exemples de questions d’intérêt public. Des exemples spécifiques de telles questions pourraient être la législation relative aux normes environnementales ou à la sécurité des produits, une autorisation environnementale pour une usine ou une mine polluante, ou une procédure judiciaire ayant un intérêt juridique allant au-delà du cas d’espèce, telle qu’une procédure relative à l’égalité, à la discrimination sur le lieu de travail, à la criminalité contre l’environnement ou au blanchiment d’argent.	
+	
+Les allégations de corruption, de fraude, de détournement de fonds, de blanchiment de capitaux, d’extorsion, de coercition, de harcèlement sexuel et de violence à caractère sexiste, ou de toute autre forme d’intimidation et de criminalité, y compris la criminalité financière et la criminalité environnementale, sont considérées comme des questions d’intérêt public. Lorsque l’acte répréhensible en question est une question d’intérêt public, il ne convient pas de prendre en considération la question de savoir s’il relève, au sens du droit national, des infractions pénales ou administratives.	
+	
+Les activités visant à protéger les valeurs consacrées à l’article 2 du traité sur l’Union européenne, le principe de non-ingérence dans les processus démocratiques, et le fait de fournir ou faciliter l’accès du public à l’information en vue de lutter contre la désinformation, y compris la protection des processus démocratiques contre les ingérences indues, devraient également être considérés comme des questions d’intérêt public.	
+	
+Les procédures judiciaires abusives altérant le débat public impliquent généralement des manœuvres judiciaires déployées par le requérant et utilisées de mauvaise foi, telles que des manœuvres relatives au choix de la juridiction, le recours à une ou plusieurs demandes en justice totalement ou partiellement infondées, l’introduction de demandes en justice excessives, le recours à des manœuvres dilatoires ou la décision de se désister d’une affaire à un stade ultérieur de la procédure, l’ouverture de procédures multiples sur des questions similaires, et des manœuvres visant à occasionner des frais disproportionnés pour le défendeur. Le comportement passé du requérant et, en particulier, les antécédents d’intimidation juridique devraient également être pris en considération pour déterminer si la procédure judiciaire présente un caractère abusif. Ces manœuvres judiciaires, qui vont souvent de pair avec différentes formes d’intimidation, de harcèlement ou de menaces avant ou pendant la procédure, sont utilisées par le requérant à des fins autres que l’accès à la justice ou que le véritable exercice d’un droit et visent à exercer un effet paralysant sur le débat public concernant le sujet en question.	
+	
+Les demandes en justice introduites dans le cadre de procédures judiciaires abusives altérant le débat public peuvent être infondées en tout ou en partie. Cela signifie qu’une demande en justice ne doit pas nécessairement être totalement infondée pour que la procédure soit considérée comme abusive. Par exemple, même une violation mineure des droits de la personnalité qui pourrait donner lieu à une demande d’indemnisation modeste en vertu du droit applicable peut être abusive si un montant ou une réparation manifestement excessifs sont demandés. En revanche, si le requérant présente, dans le cadre d’une procédure judiciaire, des demandes qui sont fondées, cette procédure ne devrait pas être considérée comme abusive aux fins de la présente directive.	
+	
+Lorsque les poursuites-bâillons ont une dimension transfrontière, la complexité et les défis auxquels sont confrontés les défendeurs augmentent, car ils doivent faire face à des procédures engagées dans d’autres juridictions, parfois dans plusieurs juridictions en même temps. Il en résulte des frais et des charges supplémentaires aux conséquences encore plus néfastes. Une question devrait être considérée comme ayant une incidence transfrontière, sauf si les deux parties sont domiciliées dans le même État membre que la juridiction saisie et que tous les autres éléments pertinents relatifs à la situation concernée sont localisés dans cet État membre. Il appartient à la juridiction de déterminer les éléments pertinents de la situation concernée en fonction des circonstances particulières de chaque affaire, en tenant compte, par exemple, le cas échéant, de l’acte particulier de participation au débat public ou des éléments spécifiques indiquant un éventuel abus, en particulier lorsque plusieurs procédures sont engagées devant plusieurs juridictions. Il convient que cette détermination par la juridiction soit menée indépendamment des moyens de communication utilisés.	
+	
+Les défendeurs devraient pouvoir demander les garanties procédurales suivantes: une caution destinée à couvrir les frais de procédure et, le cas échéant, les dommages et intérêts, le rejet rapide des demandes en justice manifestement infondées, et des mesures correctrices, l’allocation des frais et sanctions ou autres mesures appropriées tout aussi effectives. Ces garanties procédurales devraient être appliquées dans le respect du droit à un recours effectif et à accéder à un tribunal impartial énoncé à l’article 47 de la charte, en laissant à la juridiction le pouvoir d’appréciation dans chaque affaire pour examiner comme il convient l’espèce, de sorte à permettre le rejet rapide des demandes en justice manifestement infondées sans limiter l’accès effectif à la justice.	
+	
+Les États membres devraient veiller à ce que toutes les garanties procédurales prévues par la présente directive soient accessibles aux personnes physiques ou morales contre lesquelles des procédures judiciaires ont été engagées en raison de leur participation au débat public et à ce que l’exercice de ces garanties ne soit pas excessivement difficile. Il appartient au droit national d’établir ou de maintenir les règles de procédure, formes et méthodes spécifiques afférentes aux modalités de traitement des demandes de garanties procédurales par la juridiction saisie. Par exemple, les États membres pourraient appliquer les règles de procédure civile existantes en matière de traitement des preuves pour évaluer si les conditions d’application des garanties procédurales sont remplies, ou ils pourraient établir des règles spécifiques en la matière.	
+	
+Pour faire en sorte que les demandes de caution et de rejet rapide soient traitées de manière accélérée, les États membres peuvent fixer des délais pour la tenue des audiences ou pour que la juridiction statue. Ils peuvent également adopter des régimes semblables à ceux qui régissent les procédures relatives aux mesures provisoires. Afin que les procédures se concluent aussi rapidement que possible, les États membres devraient, conformément à leur droit procédural national, s’efforcer de faire en sorte que, lorsque le défendeur a introduit une demande de mesures correctrices au titre de la présente directive, la décision sur cette demande soit également prise de manière accélérée, y compris en recourant aux procédures existantes en vertu du droit national pour le traitement accéléré.	
+	
+Dans certaines procédures judiciaires abusives altérant le débat public, les requérants retirent ou modifient délibérément les demandes en justice ou les actes de procédure afin d’éviter l’allocation des frais à la partie ayant obtenu gain de cause. Cette manœuvre juridique pourrait, dans certains États membres, laisser le défendeur sans possibilité d’être remboursé des frais de procédure. Ces retraits ou modifications, s’ils sont prévus par le droit national, et sans préjudice du principe dispositif dont jouissent les parties, ne devraient donc pas porter atteinte à la possibilité, pour le défendeur, de demander des mesures correctrices en réponse aux procédures judiciaires abusives altérant le débat public, conformément au droit national. Ce qui précède devrait s’entendre sans préjudice de la possibilité pour les États membres de prévoir que les garanties procédurales puissent être adoptées d’office.	
+	
+Afin d’assurer un niveau de protection plus efficace, les associations, organisations, syndicats et autres entités qui ont, conformément aux critères fixés par le droit national, un intérêt légitime à préserver ou à promouvoir les droits des personnes participant au débat public devraient être en mesure de soutenir le défendeur dans les procédures judiciaires afférentes au débat public qui sont engagées, avec l’accord du défendeur. Ce soutien devrait permettre de faire en sorte que l’expertise propre à ces entités puisse être apportée dans les procédures, contribuant ainsi à faire déterminer par une juridiction si une procédure est abusive ou si une demande est manifestement infondée. Ce soutien pourrait, par exemple, prendre la forme d’une fourniture d’informations pertinentes pour l’affaire ou d’une intervention en faveur du défendeur dans le cadre de la procédure, ou toute autre forme prévue par le droit national. Les conditions dans lesquelles les ONG pourraient soutenir le défendeur et les exigences procédurales applicables à ce soutien, notamment, le cas échéant, les délais, devraient être régies par le droit national. Cela devrait être sans préjudice des droits existants de représentation et d’intervention garantis par d’autres dispositions du droit de l’Union ou du droit national. Les États membres qui ne disposent pas de critères pour déterminer l’intérêt légitime peuvent accepter que les entités en général puissent soutenir le défendeur conformément à la présente directive.	
+	
+Afin de donner au défendeur une garantie supplémentaire, il devrait être possible d’accorder le bénéfice d’une caution pour couvrir les frais de procédure estimés, qui peuvent comprendre les frais de représentation en justice engagés par le défendeur ainsi que, si le droit national le prévoit, les dommages et intérêts estimés. Toutefois, il est nécessaire de concilier cette mesure avec le droit d’accès à la justice dont jouit le requérant. La juridiction saisie devrait pouvoir, si elle estime que c’est approprié, ordonner au requérant de constituer une caution s’il existe des éléments indiquant que la procédure est abusive ou s’il existe un risque que le défendeur ne soit pas remboursé, ou bien compte tenu de la situation économique des parties ou d’autres critères analogues établis par le droit national. L’octroi du bénéfice d’une caution n’implique pas de jugement sur le fond, mais sert de mesure conservatoire pour garantir les effets d’une décision finale qui détermine qu’il y a eu un abus de procédure, et couvre les frais et, si le droit national le prévoit, les dommages et intérêts potentiellement causés au défendeur, en particulier lorsqu’il existe un risque qu’un préjudice irréparable soit causé. C’est aux États membres qu’il devrait appartenir de décider si la constitution d’une caution devrait être ordonnée d’office par la juridiction saisie ou sur demande du défendeur. Lorsque le droit national le prévoit, il devrait être possible d’accorder le bénéfice d’une caution à n’importe quel stade de la procédure judiciaire.	
+	
+La décision accordant le rejet rapide devrait être prise sur le fond, à l’issue d’un examen approprié. Les États membres devraient adopter de nouvelles règles ou appliquer les règles existantes en vertu du droit national afin que la juridiction puisse décider de rejeter des demandes en justice manifestement infondées dès qu’elle a reçu les informations nécessaires pour motiver la décision. Un tel rejet devrait avoir lieu au stade le plus précoce possible de la procédure, mais pourrait intervenir à tout moment au cours de la procédure, en fonction de la réception de ces informations par la juridiction, conformément au droit national. La possibilité d’accorder un rejet rapide n’exclut pas l’application de règles nationales qui permettent aux juridictions nationales d’apprécier la recevabilité d’un recours avant même l’ouverture de la procédure.	
+	
+Lorsque le défendeur a demandé le rejet de la demande en justice comme étant manifestement infondée, la juridiction devrait traiter cette requête de manière accélérée conformément au droit national afin d’apprécier au plus tôt si la demande en justice est manifestement infondée, en tenant compte des circonstances particulières de l’espèce.	
+	
+Conformément aux principes généraux de la procédure civile, la charge de la preuve du bien-fondé d’une demande incombe au requérant qui intente une action contre une personne physique ou morale participant au débat public. Lorsque le défendeur a demandé un rejet rapide, le requérant, pour éviter un tel rejet rapide, devrait être tenu d’étayer sa demande au moins dans une mesure telle qu’elle permette à la juridiction de conclure que la demande n’est pas manifestement infondée.	
+	
+Les décisions d’accorder un rejet rapide devraient pouvoir faire l’objet d’un recours. Les décisions de refuser un rejet rapide pourraient également pouvoir faire l’objet d’un recours conformément au droit national.	
+	
+Lorsque la juridiction a jugé la procédure abusive, les frais devraient inclure tous les types de frais de procédure qui peuvent être accordés par le droit national, y compris l’intégralité des frais de représentation en justice engagés par le défendeur, à moins que ces frais ne soient excessifs. Lorsque le droit national ne prévoit pas l’allocation de l’intégralité des frais de représentation en justice au-delà de ce qui est énoncé dans les tableaux de frais légaux, il convient que les États membres veillent à ce que le requérant supporte intégralement ces frais par d’autres moyens disponibles en vertu du droit national. Toutefois, il ne convient pas d’allouer l’intégralité des frais de représentation lorsque ces frais sont excessifs, par exemple lorsque des honoraires disproportionnés ont été convenus. La juridiction devrait statuer sur les frais conformément au droit national.	
+	
+Le fait de donner aux juridictions la possibilité d’infliger des sanctions ou d’imposer d’autres mesures appropriées tout aussi effectives a pour principal objectif de dissuader les requérants potentiels d’engager des procédures judiciaires abusives altérant le débat public. D’autres mesures appropriées, y compris le versement de dommages et intérêts ou la publication de la décision de justice, lorsque le droit national le prévoit, devraient être aussi efficaces que des sanctions. Lorsqu’une juridiction a estimé qu’une procédure est abusive, il convient que ces sanctions ou autres mesures appropriées tout aussi effectives soient déterminées au cas par cas, qu’elles soient proportionnées à la nature de l’abus identifié et au nombre des éléments recensés indiquant l’abus identifié et qu’elles tiennent compte de l’éventualité d’un effet néfaste ou paralysant de ces procédures sur le débat public ou de la situation économique du requérant qui a exploité le déséquilibre de pouvoir. Les États membres décident des modalités de paiement des montants monétaires.	
+	
+Dans le contexte transfrontière, il importe également de prendre conscience de la menace que représentent les poursuites-bâillons engagées dans des pays tiers contre des journalistes, des défenseurs des droits de l’homme et d’autres participants au débat public domiciliés dans l’Union. Les poursuites-bâillons engagées dans des pays tiers peuvent donner lieu à des dommages et intérêts excessifs imposés à des personnes participant au débat public. Les procédures judiciaires engagées dans des pays tiers sont plus complexes et plus coûteuses pour les cibles de poursuites-bâillons. Afin de protéger la démocratie et le droit à la liberté d’expression et d’information dans l’Union et d’éviter que l’efficacité des garanties prévues par la présente directive ne soit compromise par des procédures judiciaires engagées dans d’autres juridictions, il est important de prévoir une protection également contre les demandes en justice manifestement infondées et les procédures judiciaires abusives altérant le débat public engagées dans des pays tiers. Les États membres choisissent de refuser la reconnaissance ou l’exécution d’une décision rendue dans un pays tiers comme étant manifestement contraires à l’ordre public ou sur la base d’un motif de refus distinct.	
+	
+La présente directive crée un nouveau chef de compétence spécial afin de faire en sorte que les cibles des poursuites-bâillons domiciliées dans l’Union disposent d’un recours efficace dans l’Union contre des procédures judiciaires abusives altérant le débat public engagées devant une juridiction d’un pays tiers par un requérant domicilié en dehors de l’Union. Elle devrait s’appliquer indépendamment du fait qu’une décision ait été rendue ou qu’elle soit définitive, étant donné que les cibles de poursuites-bâillons peuvent subir des préjudices et engager des frais dès le début de la procédure judiciaire et ce, le cas échéant, sans qu’aucune décision ne soit rendue, par exemple dans le cas d’un retrait de la demande en justice. Toutefois, les États membres devraient pouvoir décider de limiter l’exercice de la compétence tant que la procédure est toujours pendante dans le pays tiers, conformément au droit national, par exemple en prévoyant une suspension de la procédure dans l’État membre concerné. Ce chef de compétence spécial permet aux cibles de poursuites-bâillons domiciliées dans l’Union de demander, devant les juridictions de leur domicile, réparation de tous dommages et frais exposés, ou raisonnablement susceptibles d’être exposés, en lien avec la procédure devant la juridiction du pays tiers. Ce chef de compétence spécial vise à décourager les poursuites-bâillons engagées dans des pays tiers contre des personnes domiciliées dans l’Union et la décision rendue au cours de ces procédures devrait pouvoir être exécutée, par exemple, lorsqu’un requérant domicilié en dehors de l’Union possède des actifs dans l’Union. La disposition prévue dans la présente directive concernant ce chef de compétence spécial ne devrait pas traiter du droit applicable ni du droit matériel en matière de dommages et intérêts en tant que tels.	
+	
+La présente directive ne devrait pas avoir d’incidence sur l’application des conventions et accords bilatéraux et multilatéraux conclus entre un État tiers et l’Union ou un État membre avant la date d’entrée en vigueur de la présente directive, y compris la convention de Lugano de 2007, conformément à l’article 351 du traité sur le fonctionnement de l’Union européenne.	
+	
+Les États membres devraient mettre à disposition en un seul endroit des informations sur les garanties procédurales disponibles, les mesures correctrices disponibles et les mesures de soutien qui existent, dans le cadre d’un «guichet unique», afin de permettre aux personnes visées par des poursuites-bâillons d’accéder facilement et gratuitement aux informations spécialisées pour les aider à trouver toutes les informations utiles. Il est caractéristique des poursuites-bâillons que les personnes qu’elles visent subissent de graves répercussions financières, des préjudices psychologiques et des atteintes à leur réputation. Occasionner ces préjudices et atteintes constitue l’un des objectifs recherchés par les requérants dans des poursuites-bâillons lorsqu’ils engagent des procédures judiciaires abusives altérant le débat public. Par conséquent, les informations fournies par le biais du «guichet unique» devraient porter sur les mécanismes de soutien existants, par exemple des renseignements sur les organismes et associations concernés qui fournissent une aide juridique ou financière et un soutien psychologique aux cibles des poursuites-bâillons. La présente directive ne définit pas la forme que ce guichet unique doit prendre.	
+	
+L’objectif de la publication des décisions de justice pertinentes est de sensibiliser aux poursuites-bâillons et de fournir une source d’information sur les poursuites-bâillons aux juridictions, aux professionnels du droit et au grand public. Cette publication devrait respecter le droit de l’Union et le droit national en matière de protection des données à caractère personnel et pourrait être assurée par des canaux appropriés tels que les bases de données judiciaires existantes ou le portail européen e-Justice. Afin de limiter la charge administrative, les États membres devraient être tenus de publier à tout le moins les décisions des juridictions nationales d’appel ou des instances suprêmes.	
+	
+Le type de données à collecter par les États membres en vertu de la présente directive, lorsqu’elles sont disponibles, concerne un nombre limité d’éléments clés, tels que le nombre de procédures judiciaires abusives altérant le débat public classées par type de défendeurs et de requérants et par type de demandes qui sont utilisées pour engager de telles procédures judiciaires. Ces données sont nécessaires pour surveiller l’existence et l’augmentation des poursuites-bâillons dans l’Union, car elles fournissent aux autorités et aux autres parties prenantes concernées des informations permettant de quantifier et de mieux appréhender les poursuites-bâillons et elles les aident à apporter le soutien nécessaire aux cibles des poursuites-bâillons. La numérisation de la justice rendrait les données plus facilement disponibles.	
+	
+La recommandation (UE) 2022/758 de la Commission  (5)  s’adresse aux États membres et présente une panoplie complète de mesures comprenant des formations, des activités de sensibilisation, des mesures de soutien aux cibles de procédures judiciaires abusives altérant le débat public, la collecte de données et l’établissement de rapports sur les procédures judiciaires altérant le débat public et leur suivi. Lorsque la Commission élabore un rapport sur l’application de la présente directive, en tenant également compte du contexte national de chaque État membre, y compris la mise en œuvre de la recommandation (UE) 2022/758 de la Commission, elle devrait élaborer un résumé distinct du rapport dans un format facilement accessible, contenant des informations clés sur le recours aux garanties prévues par la présente directive dans les États membres. La Commission devrait publier le rapport et le résumé par des canaux appropriés, y compris le portail européen e-Justice.	
+	
+La présente directive devrait s’entendre sans préjudice de la protection offerte par d’autres instruments du droit de l’Union établissant des règles plus favorables aux personnes physiques et morales qui participent au débat public. En particulier, la présente directive n’a pas vocation à réduire ou limiter des droits tels que le droit à la liberté d’expression et d’information, ni à porter aucunement atteinte à la protection offerte par la directive (UE) 2019/1937 du Parlement européen et du Conseil  (6 ), telle qu’elle est mise en œuvre dans le droit national. En ce qui concerne les situations qui relèvent du champ d’application de la présente directive et de la directive (UE) 2019/1937, la protection offerte par les deux actes devrait s’appliquer.	
+	
+Les règles relatives à la compétence et à la loi applicable dans les affaires visées dans les règlements (UE) no 1215/2012 et (CE) no 864/2007 peuvent être pertinentes dans les affaires de poursuites-bâillons. Par conséquent, il est important que tout réexamen futur de ces règlements analyse également les aspects spécifiques aux poursuites-bâillons quant aux règles relatives à la compétence et à la loi applicable.	
+	
+La présente directive respecte les droits fondamentaux, la charte ainsi que les principes généraux du droit de l’Union. En conséquence, la présente directive devrait être interprétée et mise en œuvre conformément à ces droits fondamentaux, y compris le droit à la liberté d’expression et d’information, ainsi que le droit à un recours effectif et à accéder à un tribunal impartial et le droit d’accès à la justice. Lors de la mise en œuvre de la présente directive, toute autorité publique concernée devrait parvenir, dans les situations où les droits fondamentaux pertinents entrent en conflit, à un juste équilibre entre les différents droits en jeu, conformément au principe de proportionnalité.	
+	
+Conformément aux articles 1er et 2 du protocole no 22 sur la position du Danemark annexé au traité sur l’Union européenne et au traité sur le fonctionnement de l’Union européenne, le Danemark ne participe pas à l’adoption de la présente directive et n’est pas lié par celle-ci ni soumis à son application.	
+	
+Conformément à l’article 3 du protocole no 21 sur la position du Royaume-Uni et de l’Irlande à l’égard de l’espace de liberté, de sécurité et de justice, annexé au traité sur l’Union européenne et au traité sur le fonctionnement de l’Union européenne, l’Irlande a notifié, par lettre du 6 juillet 2022, son souhait de participer à l’adoption et à l’application de la présente directive.	
+	
+Étant donné que les objectifs de la présente directive ne peuvent pas être réalisés de manière suffisante par les États membres en raison des différences entre les droits procéduraux nationaux, mais peuvent, du fait que la présente directive fixe des normes minimales communes pour les garanties procédurales nationales dans les questions transfrontières de nature civile et commerciale, l’être mieux au niveau de l’Union, celle-ci peut prendre des mesures conformément au principe de subsidiarité consacré à l’article 5 du traité sur l’Union européenne. Conformément au principe de proportionnalité énoncé audit article, la présente directive n’excède pas ce qui est nécessaire pour atteindre ces objectifs,	
+Recommandation (UE) 2022/758 de la Commission du 27 avril 2022 sur la protection des journalistes et des défenseurs des droits de l’homme qui participent au débat public contre les procédures judiciaires manifestement infondées ou abusives («poursuites stratégiques altérant le débat public») (JO L 138 du 17.5.2022, p. 30).	
+Directive (UE) 2019/1937 du Parlement européen et du Conseil du 23 octobre 2019 sur la protection des personnes qui signalent des violations du droit de l’Union (JO L 305 du 26.11.2019, p. 17).	
+	
+ONT ADOPTÉ LA PRÉSENTE DIRECTIVE:	
+	
+CHAPITRE I	
+	
+Dispositions générales	
+	
+Article premier	
+Objet	
+	
+La présente directive prévoit des garanties contre les demandes en justice manifestement infondées ou les procédures judiciaires abusives dans les matières civiles ayant une incidence transfrontière engagées contre des personnes physiques et morales, en raison de leur participation au débat public.	
+	
+Article 2	
+	
+Champ d’application	
+	
+La présente directive s’applique aux questions de nature civile ou commerciale ayant une incidence transfrontière et faisant l’objet d’une procédure civile, y compris les procédures en référé, les demandes de mesures conservatoires et les demandes reconventionnelles, quelle que soit la nature de la juridiction. Elle ne couvre notamment pas les matières fiscales, douanières ou administratives, ni la responsabilité de l’État pour des actes ou des omissions commis dans l’exercice de la puissance publique ( acta jure imperii ). La présente directive ne s’applique pas aux poursuites pénales ou à l’arbitrage et s’entend sans préjudice du droit de la procédure pénale.	
+	
+Article 3	
+	
+Prescriptions minimales	
+	
+Les États membres peuvent introduire ou maintenir des dispositions plus favorables pour protéger les personnes participant au débat public contre les demandes en justice manifestement infondées ou les procédures judiciaires abusives altérant le débat public dans les matières civiles, y compris des dispositions nationales qui instituent des garanties procédurales plus efficaces relatives au droit à la liberté d’expression et d’information.	
+	
+La mise en œuvre de la présente directive ne peut, en aucun cas, constituer un motif pour réduire le niveau de protection déjà offert par les États membres dans les matières régies par la présente directive.	
+	
+Article 4	
+	
+Définitions	
+	
+Aux fins de la présente directive, on entend par:	
+	
+«débat public»: toute déclaration exprimée ou toute activité menée par une personne physique ou morale dans l’exercice du droit à la liberté d’expression et d’information, à la liberté des arts et des sciences ou à la liberté de réunion et d’association, ainsi que les actions préparatoires, de soutien ou d’assistance qui y sont directement liées, et qui concerne une question d’intérêt public;	
+	
+«question d’intérêt public»: toute question qui touche le public au point qu’il peut légitimement s’y intéresser, dans des domaines tels que:	
+	
+les droits fondamentaux, la santé publique, la sécurité, l’environnement ou le climat;	
+	
+les activités d’une personne physique ou morale qui est une personnalité publique dans le secteur public ou privé;	
+	
+les questions faisant l’objet d’un examen par un organe législatif, exécutif ou judiciaire, ou toute autre procédure se rapportant à une autorité publique;	
+	
+les allégations de corruption, de fraude, ou de toute autre infraction pénale ou d’infractions administratives en rapport avec ces questions;	
+	
+les activités visant à protéger les valeurs consacrées à l’article 2 du traité sur l’Union européenne, y compris la protection des processus démocratiques contre les interférences indues, notamment en luttant contre la désinformation;	
+	
+«procédures judiciaires abusives altérant le débat public»: des procédures judiciaires qui ne sont pas engagées en vue de faire véritablement valoir ou d’exercer un droit, mais qui ont pour principale finalité d’empêcher, de restreindre ou de pénaliser le débat public, fréquemment en exploitant un déséquilibre de pouvoir entre les parties, et qui tendent à faire aboutir des demandes en justice infondées. Les indications d’une telle finalité incluent par exemple:	
+	
+le caractère disproportionné, excessif ou déraisonnable de la demande en justice ou d’une partie de celle-ci, y compris la valeur excessive du litige;	
+	
+l’existence de procédures multiples engagées par le requérant ou des parties associées concernant des questions similaires;	
+	
+de l’intimidation, du harcèlement ou des menaces de la part du requérant ou de ses représentants, avant ou pendant la procédure, ainsi que tout comportement semblable du requérant dans des cas similaires ou concomitants;	
+	
+le recours de mauvaise foi à des manœuvres procédurales, telles que les manœuvres dilatoires, la recherche frauduleuse ou abusive de la juridiction la plus favorable ou le désistement de mauvaise foi d’une affaire à un stade ultérieur de la procédure.	
+	
+Article 5	
+	
+Questions ayant une incidence transfrontière	
+	
+Aux fins de la présente directive, une question est considérée comme ayant une incidence transfrontière, sauf si les deux parties sont domiciliées dans le même État membre que la juridiction saisie et que tous les autres éléments pertinents relatifs à la situation concernée sont localisés uniquement dans cet État membre.	
+	
+Le domicile est déterminé conformément au règlement (UE) no 1215/2012.	
+	
+CHAPITRE II	
+	
+Règles communes concernant les garanties procédurales	
+	
+Article 6	
+	
+Demandes de garanties procédurales	
+	
+Les États membres veillent à ce que, lorsqu’une procédure judiciaire est engagée contre des personnes physiques ou morales en raison de leur participation au débat public, ces personnes puissent, conformément au droit national, demander:	
+	
+une caution comme prévu à l’article 10;	
+	
+un rejet rapide des demandes en justice manifestement infondées comme prévu au chapitre III;	
+	
+des mesures correctrices en réponse aux procédures judiciaires abusives altérant le débat public comme prévu au chapitre IV.	
+	
+Les États membres peuvent prévoir que les mesures relatives aux garanties procédurales prévues aux chapitres III et IV peuvent être prises d’office par la juridiction saisie.	
+	
+Article 7	
+	
+Traitement accéléré des demandes de garanties procédurales	
+	
+Les États membres veillent à ce que les demandes conformément à l’article 6, paragraphe 1, points a) et b), soient traitées de manière accélérée conformément au droit national, en tenant compte des circonstances de l’espèce, du droit à un recours effectif et du droit à accéder à un tribunal impartial.	
+	
+Les États membres veillent à ce que les demandes conformément à l’article 6, paragraphe 1, point c), soient traitées de manière accélérée, le cas échéant, conformément au droit national, en tenant compte des circonstances de l’espèce, du droit à un recours effectif et du droit à accéder à un tribunal impartial.	
+	
+Article 8	
+	
+Modification ultérieure des demandes en justice ou des actes de procédure	
+	
+Les États membres veillent à ce que, dans les procédures engagées contre des personnes physiques ou morales en raison de leur participation au débat public, toute modification ultérieure des demandes en justice ou des actes de procédure par le requérant, y compris le retrait des demandes en justice, ne porte pas atteinte à la possibilité, pour le défendeur, de demander des mesures correctrices comme cela est prévu au chapitre IV, conformément au droit national.	
+	
+Le premier alinéa s’entend sans préjudice de l’article 6, paragraphe 2.	
+	
+Article 9	
+	
+Soutien au défendeur dans le cadre des procédures judiciaires	
+	
+Les États membres veillent à ce que la juridiction saisie d’une procédure judiciaire engagée contre des personnes physiques ou morales en raison de leur participation au débat public puisse accepter que des associations, des organisations, des syndicats et d’autres entités qui ont, conformément aux critères fixés par leur droit national, un intérêt légitime à assurer la protection ou la promotion des droits des personnes participant au débat public, puissent soutenir le défendeur, avec son accord, ou fournir des informations dans le cadre de cette procédure conformément au droit national.	
+	
+Article 10	
+Caution	
+	
+Les États membres veillent à ce que, dans le cadre d’une procédure judiciaire engagée contre des personnes physiques ou morales en raison de leur participation au débat public, la juridiction saisie puisse exiger, sans préjudice du droit d’accès à la justice, que le requérant constitue une caution pour les frais de procédure estimés, qui peuvent comprendre les frais de représentation en justice engagés par le défendeur ainsi que, si le droit national le prévoit, les dommages et intérêts.	
+	
+CHAPITRE III	
+	
+Rejet rapide des demandes en justice manifestement infondées	
+	
+Article 11	
+	
+Rejet rapide	
+	
+Les États membres veillent à ce que les juridictions puissent rejeter, à l’issue d’un examen approprié, les demandes en justice altérant le débat public comme étant manifestement infondées au stade le plus précoce possible de la procédure, conformément au droit national.	
+	
+Article 12	
+	
+Charge de la preuve et justification des demandes en justice	
+	
+La charge de la preuve quant au bien-fondé de la demande en justice incombe au requérant qui introduit l’action.	
+	
+Les États membres veillent à ce que, si le défendeur a demandé un rejet rapide, il incombe au requérant de motiver la demande en justice afin de permettre à la juridiction d’apprécier si celle-ci n’est pas manifestement infondée.	
+	
+Article 13	
+Recours	
+	
+Les États membres veillent à ce que la décision d’accorder un rejet rapide en vertu de l’article 11 soit susceptible de recours.	
+	
+CHAPITRE IV	
+	
+Mesures correctrices en réponse aux procédures judiciaires abusives altérant le débat public	
+	
+Article 14	
+	
+Allocation des frais	
+	
+Les États membres veillent à ce qu’un requérant qui a engagé une procédure judiciaire abusive altérant le débat public puisse être condamné à supporter tous les types de frais de procédure qui peuvent être alloués au titre du droit national, y compris l’intégralité des frais de représentation en justice engagés par le défendeur, à moins que ces frais ne soient excessifs.	
+	
+Lorsque le droit national ne garantit pas l’allocation de l’intégralité des frais de représentation en justice au-delà de ce qui est énoncé dans les tableaux de frais légaux, les États membres veillent à ce que ces frais soient intégralement couverts, à moins qu’ils ne soient excessifs, par d’autres moyens disponibles en vertu du droit national.	
+	
+Article 15	
+	
+Sanctions ou autres mesures appropriées tout aussi effectives	
+	
+Les États membres veillent à ce que les juridictions saisies de procédures judiciaires abusives altérant le débat public puissent infliger des sanctions effectives, proportionnées et dissuasives ou imposer d’autres mesures appropriées tout aussi effectives, y compris le versement de dommages et intérêts ou la publication de la décision de justice, lorsque cela est prévu par le droit national, à la partie qui a engagé ces procédures.	
+	
+CHAPITRE V	
+	
+Protection contre les décisions rendues dans un pays tiers	
+	
+Article 16	
+	
+Motifs de refus de la reconnaissance et de l’exécution d’une décision rendue dans un pays tiers	
+	
+Les États membres veillent à ce que la reconnaissance et l’exécution d’une décision rendue dans un pays tiers dans le cadre d’une procédure judiciaire altérant le débat public engagée contre une personne physique ou morale domiciliée dans un État membre soient refusées dans le cas où cette procédure est considérée comme manifestement infondée ou abusive en vertu du droit de l’État membre dans lequel cette reconnaissance ou cette exécution est demandée.	
+	
+Article 17	
+	
+Compétence pour les actions liées aux procédures engagées dans un pays tiers	
+	
+Les États membres veillent à ce que, lorsqu’une procédure judiciaire abusive altérant le débat public a été engagée par un requérant domicilié en dehors de l’Union devant une juridiction d’un pays tiers contre une personne physique ou morale domiciliée dans un État membre, cette personne puisse demander, devant les juridictions du lieu où elle est domiciliée, réparation de tous dommages et frais liés à la procédure devant la juridiction du pays tiers.	
+	
+Les États membres peuvent limiter l’exercice de la compétence au titre du paragraphe 1 tant que la procédure est toujours pendante dans le pays tiers.	
+	
+CHAPITRE VI	
+	
+Dispositions finales	
+	
+Article 18	
+	
+Relations avec les conventions et accords bilatéraux et multilatéraux	
+	
+La présente directive n’a pas d’incidence sur l’application des conventions et accords bilatéraux et multilatéraux conclus entre un État tiers et l’Union ou un État membre avant le 6 mai 2024.	
+	
+Article 19	
+	
+Informations et transparence	
+	
+Les États membres veillent à ce que les personnes physiques ou morales participant au débat public visées à l’article 6 aient accès, s’il y a lieu, aux informations relatives aux garanties procédurales et aux mesures correctrices disponibles ainsi qu’aux mesures de soutien existantes, telles que l’aide judiciaire et le soutien financier et psychologique, le cas échéant.	
+	
+Les informations visées au premier alinéa comprennent toute information disponible sur les campagnes de sensibilisation, selon le cas, en coopération avec les organisations de la société civile concernées et d’autres parties prenantes.	
+	
+Ces informations sont fournies en un seul endroit, dans un format facilement accessible, par un canal approprié, tel qu’un centre d’information, un point focal existant ou un portail électronique, y compris le portail européen e-Justice.	
+	
+Les États membres veillent à ce que, dans le cadre de procédures civiles transfrontières, l’aide judiciaire soit fournie conformément à la directive 2003/8/CE du Conseil  (7 ).	
+	
+Les États membres publient, dans un format électronique facilement accessible, tout jugement définitif rendu par leurs juridictions nationales d’appel ou leurs instances suprêmes dans le cadre de procédures relevant du champ d’application de la présente directive. La publication est effectuée conformément au droit national.	
+	
+Article 20	
+	
+Collecte de données	
+	
+Les États membres transmettent, chaque année et lorsqu’elles sont disponibles, à la Commission, de préférence sous une forme agrégée, les données relatives aux demandes et décisions visées aux chapitres II, III, IV et V en ce qui concerne:	
+	
+le nombre de procédures judiciaires abusives altérant le débat public engagées au cours de l’année concernée;	
+	
+le nombre de procédures judiciaires, classées par type de défendeur et de requérant;	
+	
+le type de demandes en justice introduites sur la base de la présente directive.	
+	
+Article 21	
+	
+Réexamen	
+	
+Les États membres, au plus tard le 7 mai 2030, communiquent à la Commission les données disponibles concernant l’application de la présente directive, en particulier les données disponibles montrant comment les personnes visées par des procédures judiciaires altérant le débat public ont eu recours aux garanties prévues par la présente directive. Sur la base des informations communiquées, la Commission présente, au plus tard le 7 mai 2031 puis tous les cinq ans, un rapport au Parlement européen et au Conseil concernant l’application de la présente directive. Ce rapport évalue l’évolution des procédures judiciaires abusives altérant le débat public et l’incidence de la présente directive dans les États membres, tout en tenant compte du contexte national de chaque État membre, y compris de la mise en œuvre de la recommandation (UE) 2022/758. Il est accompagné, si nécessaire, de propositions visant à modifier la présente directive. Ces rapports de la Commission sont rendus publics.	
+	
+Article 22	
+	
+Transposition	
+	
+Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 7 mai 2026. Ils en informent immédiatement la Commission.	
+	
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les États membres déterminent les modalités de cette référence.	
+	
+Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.	
+Directive 2003/8/CE du Conseil du 27 janvier 2003 visant à améliorer l’accès à la justice dans les affaires transfrontalières par l’établissement de règles minimales communes relatives à l’aide judiciaire accordée dans le cadre de telles affaires (JO L 26 du 31.1.2003, p. 41).	
+	
+Article 23	
+	
+Entrée en vigueur	
+	
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au  Journal officiel de l’Union européenne .	
+	
+Article 24	
+	
+Destinataires	
+	
+Les États membres sont destinataires de la présente directive. Fait à Bruxelles, le 11 avril 2024.	
+"Par le Parlement européen La présidente
+R. METSOLA"	"Par le Conseil La présidente
+H. LAHBIB"
