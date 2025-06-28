@@ -1,0 +1,371 @@
+	
+Official Journal	
+	
+of the European Union	
+EN	
+L series	
+2024/1069	16.4.2024
+	
+DIRECTIVE (EU) 2024/1069 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL	
+	
+of 11 April 2024	
+	
+on protecting persons who engage in public participation from manifestly unfounded claims or abusive court proceedings (‘Strategic lawsuits against public participation’)	
+	
+THE EUROPEaN PaRLIaMENT aNd THE COUNCIL OF THE EUROPEaN UNION,	
+	
+Having regard to the Treaty on the Functioning of the European Union, and in particular article 81(2), point (f), thereof, Having regard to the proposal from the European Commission,	
+Having regard to the opinion of the European Economic and Social Committee  (1 ), after transmission of the draft legislative act to the national parliaments,	
+	
+acting in accordance with the ordinary legislative procedure  (2 ), Whereas:	
+	
+The Union has set itself the objective of maintaining and developing an area of freedom, security and justice in which the free movement of persons is ensured. To establish such an area, the Union is to adopt, among others, measures relating to judicial cooperation in civil matters having cross-border implications and which are needed for the elimination of obstacles to the proper functioning of civil proceedings. That objective should be pursued if necessary by promoting the compatibility of the rules on civil procedure that are applicable in the Member States.	
+	
+article 2 of the Treaty on European Union (TEU) states that the Union is founded on the values of respect for human dignity, freedom, democracy, equality, the rule of law and respect for human rights, including the rights of persons belonging to minorities.	
+	
+article 10(3) TEU states that every Union citizen has the right to participate in the democratic life of the Union. The Charter of Fundamental Rights of the European Union (the ‘Charter’) provides, inter alia, for the right to respect for private and family life, to the protection of personal data, to freedom of expression and information, which includes respect for the freedom and pluralism of the media, to freedom of assembly and of association and the right to an effective remedy and to a fair trial.	
+	
+The right to freedom of expression and information as established in article 11 of the Charter includes the right to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. It is necessary to give to article 11 of the Charter the meaning and scope of corresponding article 10 of the European Convention on Human Rights (‘ECHR’) on the right to freedom of expression as interpreted by the European Court of Human Rights (‘ECtHR’).	
+	
+In its resolution of 11 November 2021 on strengthening democracy and media freedom and pluralism in the Union, the European Parliament called on the Commission to propose a package of both soft and hard law to address the increasing number of strategic lawsuits against public participation (‘SLaPPs’) concerning journalists, non-govern- mental organisations (NGOs), academics and civil society in the Union. The Parliament expressed the need for legislative measures in the areas of civil and criminal procedural law, such as an early dismissal mechanism for abusive civil lawsuits, the right to the full award of costs incurred by the defendant, and the right to compensation for damage. The resolution of 11 November 2021 also included a call for adequate training for judges and legal practitioners on SLaPPs, a specific fund to provide financial support for the victims of SLaPPs and a public register of court decisions on SLaPP cases. In addition, Parliament called for the revision of Regulation (EU) No 1215/2012 of the European Parliament and of the Council  (3)  and of Regulation (EC) No 864/2007 of the European Parliament and of the Council  (4)	
+ in order to prevent ‘libel tourism’ or ‘forum shopping’.	
+OJ C 75, 28.2.2023, p. 143.	
+Position of the European Parliament of 27 February 2024 (not yet published in the Official Journal) and decision of the Council of 19 March 2024.	
+Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 december 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 351, 20.12.2012, p. 1).	
+Regulation (EC) No 864/2007 of the European Parliament and of the Council of 11 July 2007 on the law applicable to non-contractual obligations (Rome II) (OJ L 199, 31.7.2007, p. 40).	
+	
+The purpose of this directive is to eliminate obstacles to the proper functioning of civil proceedings, while providing protection for natural and legal persons who engage in public participation on matters of public interest, including journalists, publishers, media organisations, whistleblowers and human rights defenders, as well as civil society organisations, NGOs, trade unions, artists, researchers and academics, against court proceedings initiated against them to deter them from public participation.	
+	
+The right to freedom of expression is a fundamental right that is to be exercised with a sense of duty and responsibility, taking into account people’s fundamental right to obtain impartial information, as well as respect for the fundamental right to protect one’s reputation, protection of personal data and privacy. In cases of a conflict between those rights, all parties are to have access to courts with due respect for the fair trial principle. To that end, this directive should leave the court or tribunal seised of the matter with the discretion to consider whether the application of the relevant safeguards is appropriate in a particular case. In exercising such discretion the court should not apply the relevant safeguards for example where the public participation is not in good faith such as in cases where, through the public participation, the defendant disseminated disinformation or fabricated allegations for the purpose of damaging the claimant’s reputation.	
+	
+Journalists play an important role in facilitating public debate and in the imparting and reception of information, opinions and ideas. They should be able to conduct their activities effectively and without fear in order to ensure that citizens have access to a plurality of views in European democracies. Independent, professional and responsible journalism, as well as access to pluralistic information, are key pillars of democracy. It is essential that journalists are afforded the necessary space to contribute to an open, free and fair debate and to counter disinformation, information manipulation and interference, in accordance with the ethics of journalism, and are afforded protection when acting in good faith.	
+	
+This directive does not provide a definition of a journalist, since the aim is to protect any natural or legal person that engages in public participation. However, it should be underlined that journalism is carried out by a wide range of actors, including reporters, analysts, columnists and bloggers, as well as others who engage in forms of self-publication in print, on the internet or elsewhere.	
+	
+Investigative journalists and media organisations in particular play a key role in uncovering and combating organised crime, abuse of power, corruption, fundamental rights violations and extremism. Their work carries particularly high risks and they are experiencing a growing number of attacks, killings and threats, as well as intimidation and harassment. a robust system of safeguards and protection is required to enable investigative journalists to fulfil their crucial role as watchdogs on matters of public interest, without fear of punishment for searching for the truth and informing the public.	
+	
+Human rights defenders should be able to participate actively in public life and promote accountability without fear of intimidation. Human rights defenders include individuals, groups and organisations in civil society that promote and protect universally recognised human rights and fundamental freedoms. Human rights defenders are committed to promoting and safeguarding civil, political, economic, social, cultural, environmental, climate, women’s and LGBTIQ rights and to fighting against direct or indirect discrimination as set out in article 21 of the Charter. Considering the Union’s environmental and climate policies, attention should also be given to environmental rights defenders as they play an important role in European democracies.	
+	
+Other important participants in public debate, such as academics, researchers or artists, also deserve adequate protection, since they may also be targeted by SLaPPs. In a democratic society, they should be able to teach, learn, research, perform and communicate without fear of reprisal. academics and researchers contribute fundamentally to public discourse and dissemination of knowledge, ensure that democratic debate can take place on an informed basis and counter disinformation.	
+	
+a healthy and thriving democracy requires that people be able to participate actively in public debate without undue interference by public authority or other powerful actors, be they domestic or foreign. In order to ensure meaningful participation, people should be able to access reliable information which enables them to form their own opinions and exercise their own judgment in a public space in which different views can be expressed freely.	
+	
+To foster this environment, it is important to protect natural and legal persons from abusive court proceedings against public participation. Such court proceedings are not initiated for the purpose of access to justice, but to silence public debate and prevent investigation of and reporting on breaches of Union and national law, typically using harassment and intimidation.	
+	
+SLaPPs are typically initiated by powerful entities, for example individuals, lobby groups, corporations, politicians, and state organs in an attempt to silence public debate. They often involve an imbalance of power between the parties, with the claimant having a more powerful financial or political position than the defendant. although not being an indispensable component of such cases, an imbalance of power, where present, significantly increases the harmful effects as well as the chilling effect of court proceedings against public participation. Where present, the misuse of economic advantage or political influence by the claimant against the defendant, along with the lack of legal merit, gives rise to particular concern if the abusive court proceedings in question are funded directly or indirectly from state budgets and are combined with other direct or indirect state measures against independent media organisations, independent journalism and civil society.	
+	
+Court proceedings against public participation may have an adverse impact on the credibility and reputation of natural and legal persons that engage in public participation and may exhaust their financial and other resources. as a result of such proceedings, the publication of information on a matter of public interest could be delayed or prevented altogether. The length of procedures and the financial pressure may have a chilling effect on natural and legal persons that engage in public participation. The existence of such practices may therefore have a deterrent effect with regard to their work by contributing to self-censorship in anticipation of possible future court proceedings, which leads to the impoverishment of public debate to the detriment of society as a whole.	
+	
+Those targeted by abusive court proceedings against public participation may face multiple cases simultaneously, sometimes initiated in several jurisdictions. This directive applies only to matters of a civil or commercial nature having cross-border implications, although practices aimed at preventing, restricting or penalising public participation can also involve administrative or criminal cases or a combination of different types of proceedings. Proceedings initiated in the jurisdiction of one Member State against a person domiciled in another Member State are usually more complex and costly for the defendant. Claimants in court proceedings against public participation may also use procedural tools to increase the length and cost of litigation and to initiate proceedings in a jurisdiction that they perceive to be favourable to their case, instead of in the jurisdiction best placed to hear the claim (forum shopping). The financial pressure, the length and variety of procedures, and the threat of penalties constitute powerful tools to intimidate and silence critical voices. Such practices also place an unnecessary and harmful burden on judicial systems and lead to misuse of their resources, thus constituting an abuse of such systems.	
+	
+The safeguards provided in this directive should apply to any natural or legal person who directly or indirectly engages in public participation. They should also protect natural or legal persons who, either on a professional or on a personal basis, support, assist or provide goods or services to another person for purposes directly linked to public participation on a matter of public interest, such as lawyers, family members, internet providers, publishing houses or print shops, which face or are threatened with court proceedings for supporting, assisting or providing goods or services to persons targeted by SLaPPs.	
+	
+This directive should apply to any type of legal claim or action of a civil or commercial nature with cross-border implications brought in civil proceedings whatever the nature of the court or tribunal. This includes procedures for interim and precautionary measures, counteractions or other particular types of remedies available under other instruments. Where civil claims are brought in criminal proceedings, this directive should apply where the consideration of those claims is fully governed by civil procedural law. However, it should not apply where the consideration of such claims is governed fully or partially by criminal procedural law.	
+	
+This directive should not apply to claims arising out of liability of the state for actions or omissions in the exercise of state authority ( acta iure imperii ) or to claims against officials who act on behalf of the state or to liability for acts of public authorities, including liability of publicly appointed office-holders. Member States could extend the scope of the procedural safeguards provided for in this directive to such claims under national law. In line with established case law of the Court of Justice of the European Union, court proceedings might still fall within the scope of ‘civil and commercial matters’ as referred to in this directive where a state or a public body is a party, if the acts or omissions do not occur in the exercise of state authority. This directive should not apply to criminal matters or arbitration.	
+	
+This directive lays down minimum rules, thus enabling the Member States to adopt or maintain provisions that are more favourable to persons engaging in public participation, including national provisions that establish more effective procedural safeguards, such as a liability regime preserving and protecting the right to freedom of expression and information. The implementation of this directive should not serve to justify any regression in relation to the level of protection that already exists in each Member State.	
+	
+Public participation should be defined as the making of any statement or the carrying out of any activity by a natural or legal person in the exercise of fundamental rights such as freedom of expression and information, freedom of the arts and sciences, or freedom of assembly and association, and concerning a matter of current or future public interest, including the creation, exhibition, advertisement, or other promotion of journalistic, political, scientific, academic, artistic, commentary or satirical communications, publications or works, and marketing activities. Future public interest refers to the fact that a matter might not yet be of public interest, but could become so, once the public becomes aware of it, for example by means of a publication. Public participation can also include activities related to the exercise of academic and artistic freedom, the right to freedom of association and peaceful assembly, such as the organisation of or participation in lobbying activities, demonstrations and protests or activities resulting from the exercise of the right to good administration and the right to an effective remedy, such as claims before courts or administrative bodies and participation in public hearings. Public participation should also include preparatory, supporting or assisting activities that have a direct and inherent link to the statement or activity that is targeted by SLaPPs to stifle public participation. Such activities should directly concern a specific act of public participation or be based on a contractual link between the actual target of a SLaPP and the person providing the preparatory, supporting or assisting activity. Bringing claims not against a journalist or a human rights defender but against the internet platform on which they publish their work or against the company that prints a text or a shop that sells the text can be an effective way of silencing public participation, as without such services opinions cannot be published and thus cannot influence public debate. In addition, public participation can cover other activities meant to inform or influence public opinion or to foster the taking of action by the public, including activities by private or public entities in relation to an issue of public interest, such as the organisation of or participation in research, surveys, campaigns or any other collective actions.	
+	
+a matter of public interest should be defined as including matters relevant to the enjoyment of fundamental rights. It comprises issues such as gender equality, protection from gender-based violence and non-discrimination, protection of the rule of law, media freedom and pluralism. It should also include quality, safety or other relevant aspects of goods, products or services where such matters are relevant to public health, safety, the environment, the climate or to consumer and labour rights. a purely individual dispute between a consumer and a manufacturer or a service provider concerning a good, product or service should be covered by the notion of matter of public interest only where the matter contains an element of public interest, for instance where it concerns a product or service which fails to comply with environmental or safety standards.	
+	
+activities of a natural or legal person that is a public figure should also be considered as matters of public interest, since the public may legitimately take an interest in them. However, there is no legitimate interest where the sole purpose of a statement or activity concerning such a person is to satisfy the curiosity of a particular audience regarding the details of a natural person’s private life.	
+	
+Matters under consideration by a legislative, executive or judicial body or any other official proceedings can be examples of matters of public interest. Specific examples of such matters could be legislation concerning environmental standards or product safety, an environmental licence for a polluting factory or mine, or court proceedings with legal significance beyond the individual case, for instance proceedings concerning equality, discrimination in the workplace, environmental crime or money laundering.	
+	
+allegations of corruption, fraud, embezzlement, money laundering, extortion, coercion, sexual harassment and gender-based violence, or other forms of intimidation and criminality, including financial criminality and environmental crime qualify as matters of public interest. Where the wrongdoing in question is a matter of public interest, it should not be relevant whether it is categorised as a criminal or administrative offence under national law.	
+	
+activities aimed at protecting the values enshrined in article 2 TEU, the principle of non-interference in democratic processes, and providing or facilitating public access to information with a view to fighting disinformation, including the protection of democratic processes against undue interference, also qualify as matters of public interest.	
+	
+abusive court proceedings against public participation typically involve litigation tactics deployed by the claimant and used in bad faith, such as tactics relating to the choice of jurisdiction, relying on one or more fully or partially unfounded claims, making excessive claims, the use of delaying tactics or deciding to discontinue cases at a later stage of the proceedings, initiating multiple proceedings on similar matters, and incurring disproportionate costs for the defendant in the proceedings. The past conduct of the claimant and, in particular, any history of legal intimidation should also be considered when determining whether the court proceedings are abusive in nature. Those litigation tactics, which are often combined with various forms of intimidation, harassment or threats before or during the proceedings, are used by the claimant for purposes other than gaining access to justice or genuinely exercising a right and are aimed at achieving a chilling effect on public participation in relation to the matter at stake.	
+	
+Claims made in abusive court proceedings against public participation can be either fully or partially unfounded. This means that a claim does not necessarily have to be completely unfounded for the proceedings to be considered abusive. For example, even a minor violation of personality rights that could give rise to a modest claim for compensation under the applicable law can still be abusive, if a manifestly excessive amount or remedy is claimed. On the other hand, if the claimant in court proceedings pursues claims that are founded, such proceedings should not be regarded as abusive for the purposes of this directive.	
+	
+Where SLaPPs have a cross-border dimension, the complexity and challenges faced by defendants is increased, as they need to deal with proceedings in other jurisdictions, sometimes in multiple jurisdictions at the same time. This, in turn, results in additional costs and an additional burden with even more adverse consequences. a matter should be considered to have cross-border implications unless both parties are domiciled in the same Member State as the court seised and all other elements relevant to the situation concerned are located in that Member State. It is for the court to determine the elements relevant to the situation concerned depending on the particular circumstances of each case, taking into account for example, as appropriate, the specific act of public participation or the specific elements indicating a possible abuse, in particular where multiple proceedings are initiated in more than one jurisdiction. Such determination by the court should be carried out irrespective of the means of communication used.	
+	
+defendants should be able to apply for the following procedural safeguards: security to cover the costs of the proceedings and, where applicable, to cover damages, early dismissal of manifestly unfounded claims, and remedies, namely the award of costs and penalties or other equally effective appropriate measures. Such procedural safeguards should be applied in accordance with the right to an effective remedy and to a fair trial, as set out in article 47 of the Charter, leaving the court discretion in individual cases to appropriately examine the matter at hand, thereby allowing for the speedy dismissal of manifestly unfounded claims without restricting effective access to justice.	
+	
+Member States should ensure that all the procedural safeguards provided for in this directive are available to natural or legal persons against whom court proceedings have been brought on account of their engagement in public participation and that the exercise of those safeguards is not unduly arduous. It is for national law to lay down or maintain the specific rules of procedure, form and methods for how the court or tribunal seised of the matter should deal with applications for procedural safeguards. For instance, Member States could apply existing civil procedural rules on the handling of evidence to assess whether the conditions for the application of the procedural safeguards are met or they could establish specific rules in that regard.	
+	
+To ensure that applications for security and early dismissal are treated in an accelerated manner, Member States may set time limits for the holding of hearings or for the court to take a decision. They may additionally adopt schemes akin to procedures in relation to provisional measures. In order to conclude the proceedings as swiftly as possible, Member States should, in accordance with their national procedural law, endeavour to ensure that where the defendant has applied for remedies under this directive, the decision on such application is taken in an accelerated manner, including by making use of already existing procedures under national law for accelerated treatment.	
+	
+In some abusive court proceedings against public participation, claimants deliberately withdraw or amend claims or pleadings in order to avoid the court awarding costs to the successful party. That legal tactic could, in some Member States, leave the defendant with no chance of being reimbursed for the costs of the proceedings. Such withdrawals or amendments, if provided for by national law, and without prejudice to the parties’ power to dispose over the proceedings, should therefore not affect the possibility of the defendant applying for remedies against abusive court proceedings against public participation, in accordance with national law. This should be without prejudice to the possibility for Member States to provide that procedural safeguards can be taken  ex officio .	
+	
+In order to provide a more effective level of protection, associations, organisations, trade unions and other entities which have, in accordance with the criteria laid down by national law, a legitimate interest in safeguarding or promoting the rights of persons engaging in public participation, should be able to support the defendant in court proceedings brought in relation to public participation, with the defendant’s approval. That support should ensure that the specific expertise of such entities can be brought to bear in such proceedings, thereby contributing to the assessment by the court of whether a case is abusive or a claim is manifestly unfounded. Such support could, for example, take the form of providing information relevant to the case, intervening in favour of the defendant in court proceedings, or be in any other form as provided for in national law. The conditions under which NGOs could support the defendant and the procedural requirements for such support, such as time limits where appropriate, should be governed by national law. This should be without prejudice to the existing rights of representation and intervention as guaranteed by other Union or national law. Member States that do not have criteria for legitimate interest may accept that entities in general can support the defendant in accordance with this directive.	
+	
+In order to provide the defendant with an additional safeguard, it should be possible to grant security to cover the estimated costs of the proceedings, which may include the costs of legal representation incurred by the defendant, and, if provided for in national law, the estimated damages. However, it is necessary to strike a balance between that measure and the claimant’s right of access to justice. The court or tribunal seised should be able, if it considers it appropriate, to order the claimant to provide security if there are elements that indicate that the proceedings are abusive or if there is a risk of the defendant not being reimbursed or in view of the economic situation of the parties or other such criteria laid down in national law. Granting of security does not entail a judgment on the merits of the case but serves as a precautionary measure to safeguard the effects of a final decision which determines that there has been an abuse of procedure, and to cover the costs and, if provided for in national law, the potential damage caused to the defendant, particularly where there is a risk of irreparable harm. It should be for Member States to decide whether security should be ordered by the court on its own motion or at the request of the defendant. Where national law so provides, it should be possible to grant security at any stage of the court proceedings.	
+	
+The decision that grants early dismissal should be a decision on the merits, after appropriate examination. Member States should adopt new rules or apply existing rules under national law so that the court or tribunal can decide to dismiss manifestly unfounded claims as soon as it has received the information necessary to substantiate the decision. Such dismissal should take place at the earliest possible stage in the proceedings, but that moment could occur at any time during the proceedings depending on when the court or tribunal has received such information, in accordance with national law. The possibility of granting an early dismissal does not preclude the application of national rules which enable national courts or tribunals to assess the admissibility of an action even before the proceedings are initiated.	
+	
+Where the defendant has applied for the dismissal of the claim as manifestly unfounded, the court or tribunal should deal with that application in an accelerated manner, in accordance with national law, to expedite the assessment of whether the claim is manifestly unfounded, taking into account the specific circumstances of the case.	
+	
+In line with general principles of civil procedure, a claimant pursuing a claim against a natural or legal person engaging in public participation bears the burden of proof that such claim is well-founded. Where the defendant has applied for early dismissal, in order to avoid that early dismissal the claimant should have to substantiate the claim at least to such an extent that it enables the court to conclude that the claim is not manifestly unfounded.	
+	
+a decision granting early dismissal should be subject to appeal. a decision refusing early dismissal could also be subject to appeal in accordance with national law.	
+	
+Where the court has found the proceedings to be abusive, costs should include all types of costs of the proceedings that can be awarded under national law, including the full costs of legal representation incurred by the defendant unless such costs are excessive. Where national law does not provide for the award in full of the costs of legal representation beyond what is set out in statutory fee tables, Member States should ensure that the claimant fully bears such costs by other means available under national law. However, the full costs of legal representation should not be awarded where such costs are excessive, for example where disproportionate fees have been agreed. The court should render the decisions on costs in accordance with national law.	
+	
+The main objective of giving courts or tribunals the possibility of imposing penalties or other equally effective appropriate measures is to deter potential claimants from initiating abusive court proceedings against public participation. Other appropriate measures, including the payment of compensation for damage or the publication of the court decision, where provided for in national law, should be as effective as penalties. Where the court has found the proceedings to be abusive, such penalties or other equally effective appropriate measures should be determined on a case by case basis, should be proportionate to the nature of, and to the elements indicating, the abuse identified and should take into account the potential for a harmful or chilling effect of those proceedings on public participation or the economic situation of the claimant that has exploited the imbalance of power. It is for the Member States to decide how any monetary amounts are to be paid.	
+	
+In the cross-border context, it is also important to recognise the threat of SLaPPs in third-countries targeting journalists, human rights defenders and other persons engaged in public participation who are domiciled in the Union. SLaPPs in third-countries may involve excessive damages being awarded against persons engaged in public participation. Court proceedings in third-countries are more complex and costly for the targets of SLaPPs. To protect democracy and the right to freedom of expression and information in the Union and to avoid the safeguards provided by this directive being undermined by recourse to court proceedings in other jurisdictions, it is important to provide protection against manifestly unfounded claims and abusive court proceedings against public participation in third-countries. It is for Member States to choose whether to refuse the recognition and enforcement of a third-country judgment as manifestly contrary to public policy ( ordre public ) or on the basis of a separate ground for refusal.	
+	
+This directive creates a new special ground of jurisdiction in order to ensure that targets of SLaPPs domiciled in the Union have an efficient remedy available in the Union against abusive court proceedings against public participation brought in a court or tribunal of a third-country by a claimant domiciled outside the Union. It should apply irrespective of a decision having been rendered or of a decision being final, as targets of SLaPPs can suffer damage and incur costs from the start of court proceedings and possibly even without any decision being rendered, such as in the case of a withdrawal of the claim. However, Member States should be able to decide to limit the exercise of the jurisdiction while proceedings are still pending in the third-country, in accordance with national law, for example by providing for a stay of the proceedings in the Member State. This special ground of jurisdiction allows the targets of SLaPPs domiciled in the Union to seek, in the courts or tribunals of their domicile, compensation for damage and costs incurred or reasonably expected to be incurred in connection with the proceedings before the court or tribunal of the third-country. That special ground of jurisdiction is aimed to act as a deterrent against SLaPPs brought in third-countries against persons domiciled in the Union and the decision given in such proceedings should be capable of being enforced, for example, where a claimant domiciled outside the Union has assets in the Union. The provision laid down in this directive concerning that special ground of jurisdiction should not deal with applicable law or with substantive law on damages as such.	
+	
+This directive should not affect the application of bilateral and multilateral conventions and agreements between a third State and the Union or a Member State concluded before the date of entry into force of this directive, including the 2007 Lugano Convention, in line with article 351 of the Treaty on the Functioning of the European Union (TFEU).	
+	
+Member States should make available information on available procedural safeguards, remedies and existing support measures in one single place, in a so-called ‘one-stop shop’, in order to provide easy access to dedicated information free of charge to those targeted with SLaPPs to help them find all relevant information. It is typical in SLaPPs that those targeted suffer severe financial repercussions and psychological and reputational harm. Causing such harm is one of the aims of SLaPP claimants when they initiate abusive court proceedings against public participation. Therefore, the information provided through the ‘one-stop shop’ should cover existing support mechanisms, for example information on relevant organisations and associations which provide legal or financial assistance and psychological support to targets of SLaPPs. This directive does not define the form of that one-stop shop.	
+	
+The aim of the publication of relevant court decisions is to raise awareness of and provide a source of information on SLaPPs to courts, legal professionals and the general public. Such publication should respect Union and national law on the protection of personal data and could be ensured via appropriate channels such as existing judicial databases or the European e-Justice Portal. In order to limit the administrative burden, Member States should at least be required to publish judgments of national courts of appeal or of the highest instance.	
+	
+The type of data to be collected by Member States pursuant to this directive, where available, focuses on a limited number of key elements, such as the number of abusive court proceedings against public participation classified on the basis of the types of defendants and claimants and by the types of claims which are used to initiate such court proceedings. Such data are needed to monitor the existence and growth in the number of SLaPPs in the Union, providing authorities and other relevant stakeholders with information to quantify and better understand SLaPPs and helping them to provide the necessary support for targets of SLaPPs. The availability of data would be facilitated by the digitalisation of justice.	
+	
+Commission Recommendation (EU) 2022/758  (5)  is addressed to Member States and provides a comprehensive toolbox of measures including training, awareness-raising, support for targets of abusive court proceedings against public participation, data collection, and the reporting on and monitoring of court proceedings against public participation. Where the Commission prepares a report on the application of this directive, also taking into account the national context of each Member State, including the implementation of Recommendation (EU) 2022/758, it should prepare a separate summary of the report, in an easily accessible format, containing key information on the use of the safeguards provided for in this directive in the Member States. The Commission should publish both the report and the summary via appropriate channels, including the European e-Justice Portal.	
+	
+This directive should be without prejudice to the protection provided by other instruments of Union law establishing more favourable rules for natural and legal persons that engage in public participation. In particular, this directive is not intended to reduce or restrict rights such as the right to freedom of expression and information, nor is it intended to detract in any way from the protection offered by directive (EU) 2019/1937 of the European Parliament and of the Council  (6 ), as implemented in national law. as regards situations that fall within the scope of this directive and of directive (EU) 2019/1937, the protection offered by both acts should apply.	
+	
+The rules on jurisdiction and applicable law set out in Regulations (EU) No 1215/2012 and (EC) No 864/2007 maybe relevant in SLaPP cases. Therefore, it is important that any future review of those Regulations also assess the SLaPP-specific aspects of the rules on jurisdiction and applicable law.	
+	
+This directive complies with fundamental rights, the Charter and general principles of Union law. accordingly, this directive should be interpreted and implemented in accordance with those fundamental rights, including the right to freedom of expression and of information, as well as the right to an effective remedy, to a fair trial and to access to justice. When implementing this directive, all public authorities involved should achieve, in situations where there is a conflict between relevant fundamental rights, a fair balance between the rights concerned, in accordance with the principle of proportionality.	
+	
+In accordance with articles 1 and 2 of Protocol No 22 on the position of denmark, annexed to the TEU and to the TFEU, denmark is not taking part in the adoption of this directive and is not bound by it or subject to its application.	
+	
+In accordance with article 3 of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the TEU and to the TFEU, Ireland has notified, by letter of 6 July 2022, its wish to take part in the adoption and application of this directive.	
+	
+Since the objectives of this directive cannot be sufficiently achieved by the Member States because of the differences between national procedural laws, but can rather, by reason of the fact that this directive sets common minimum standards for national procedural safeguards in cross-border matters of a civil and commercial nature, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in article 5 TEU. In accordance with the principle of proportionality as set out in that article, this directive does not go beyond what is necessary in order to achieve those objectives,	
+Commission Recommendation (EU) 2022/758 of 27 april 2022 on protecting journalists and human rights defenders who engage in public participation from manifestly unfounded or abusive court proceedings (‘Strategic lawsuits against public participation’) (OJ L 138, 17.5.2022, p. 30).	
+directive (EU) 2019/1937 of the European Parliament and of the Council of 23 October 2019 on the protection of persons who report breaches of Union law (OJ L 305, 26.11.2019, p. 17).	
+	
+HaVE adOPTEd THIS dIRECTIVE:	
+	
+CHAPTER I	
+	
+General provisions	
+	
+Article 1	
+	
+Subject matter	
+	
+This directive provides safeguards against manifestly unfounded claims or abusive court proceedings in civil matters with cross-border implications brought against natural and legal persons on account of their engagement in public participation.	
+	
+Article 2	
+Scope	
+	
+This directive shall apply to matters of a civil or commercial nature with cross-border implications brought in civil proceedings, including procedures for interim and precautionary measures and counteractions, whatever the nature of the court or tribunal. It shall not extend, in particular, to revenue, customs or administrative matters or the liability of the state for acts and omissions in the exercise of state authority ( acta iure imperii ). This directive shall not apply to criminal matters or arbitration and shall be without prejudice to criminal procedural law.	
+	
+Article 3	
+	
+Minimum requirements	
+	
+Member States may introduce or maintain provisions that are more favourable to protect persons engaged in public participation against manifestly unfounded claims or abusive court proceedings against public participation in civil matters, including national provisions that establish more effective procedural safeguards relating to the right to freedom of expression and information.	
+	
+The implementation of this directive shall in no circumstances constitute grounds for a reduction in the level of safeguards already afforded by Member States in the matters covered by this directive.	
+	
+Article 4	
+	
+Definitions	
+	
+For the purposes of this directive, the following definitions apply:	
+	
+‘public participation’ means the making of any statement or the carrying out of any activity by a natural or legal person in the exercise of the right to freedom of expression and information, freedom of the arts and sciences, or freedom of assembly and association, and any preparatory, supporting or assisting action directly linked thereto, and which concerns a matter of public interest;	
+	
+‘matter of public interest’ means any matter which affects the public to such an extent that the public may legitimately take an interest in it, in areas such as:	
+	
+fundamental rights, public health, safety, the environment or the climate;	
+	
+activities of a natural or legal person that is a public figure in the public or private sector;	
+	
+matters under consideration by a legislative, executive, or judicial body, or any other official proceedings;	
+	
+allegations of corruption, fraud, or of any other criminal offence, or of administrative offences in relation to such matters;	
+	
+activities aimed at protecting the values enshrined in article 2 of the Treaty on European Union, including the protection of democratic processes against undue interference, in particular by fighting disinformation;	
+	
+‘abusive court proceedings against public participation’ mean court proceedings which are not brought to genuinely assert or exercise a right, but have as their main purpose the prevention, restriction or penalisation of public participation, frequently exploiting an imbalance of power between the parties, and which pursue unfounded claims. Indications of such a purpose include for example:	
+	
+the disproportionate, excessive or unreasonable nature of the claim or part thereof, including the excessive dispute value;	
+	
+the existence of multiple proceedings initiated by the claimant or associated parties in relation to similar matters;	
+	
+intimidation, harassment or threats on the part of the claimant or the claimant’s representatives, before or during the proceedings, as well as similar conduct by the claimant in similar or concurrent cases;	
+	
+the use in bad faith of procedural tactics, such as delaying proceedings, fraudulent or abusive forum shopping or the discontinuation of cases at a later stage of the proceedings in bad faith.	
+	
+Article 5	
+	
+Matters with cross-border implications	
+	
+For the purposes of this directive, a matter is considered to have cross-border implications unless both parties are domiciled in the same Member State as the court seised and all other elements relevant to the situation concerned are located only in that Member State.	
+	
+domicile shall be determined in accordance with Regulation (EU) No 1215/2012.	
+	
+CHAPTER II	
+	
+Common rules on procedural safeguards	
+	
+Article 6	
+	
+Applications for procedural safeguards	
+	
+Member States shall ensure that where court proceedings are brought against natural or legal persons on account of their engagement in public participation, those persons can apply, in accordance with national law, for:	
+	
+security as provided for in article 10;	
+	
+early dismissal of manifestly unfounded claims as provided for in Chapter III;	
+	
+remedies against abusive court proceedings against public participation as provided for in Chapter IV.	
+	
+Member States may provide that measures on procedural safeguards as provided for in Chapters III and IV can be taken  ex officio  by the court or tribunal seised of the matter.	
+	
+Article 7	
+	
+Accelerated treatment of applications for procedural safeguards	
+	
+Member States shall ensure that applications in accordance with article 6(1) points (a) and (b) are treated in an accelerated manner in accordance with national law, taking into account the circumstances of the case, the right to an effective remedy and the right to a fair trial.	
+	
+Member States shall ensure that applications in accordance with article 6(1) point (c) may also be treated in an accelerated manner, where possible, in accordance with national law, taking into account the circumstances of the case, the right to an effective remedy and the right to a fair trial.	
+	
+Article 8	
+	
+Subsequent amendment to claim or pleadings	
+	
+Member States shall ensure that in court proceedings brought against natural or legal persons on account of their engagement in public participation any subsequent amendments to the claims or the pleadings made by the claimant, including the withdrawal of claims, do not affect the possibility for the defendant to apply for remedies as provided for in Chapter IV, in accordance with national law.	
+	
+The first paragraph is without prejudice to article 6(2).	
+	
+Article 9	
+	
+Support for the defendant in court proceedings	
+	
+Member States shall ensure that a court or tribunal seised of court proceedings brought against natural or legal persons on account of their engagement in public participation may accept that associations, organisations, trade unions and other entities which have, in accordance with the criteria laid down by their national law, a legitimate interest in safeguarding or promoting the rights of persons engaging in public participation, may support the defendant, where the defendant so approves, or provide information in those proceedings in accordance with national law.	
+	
+Article 10	
+Security	
+	
+Member States shall ensure that in court proceedings brought against natural or legal persons on account of their engagement in public participation, the court or tribunal seised may require, without prejudice to the right of access to justice, that the claimant provide security for the estimated costs of the proceedings, which may include the costs of legal representation incurred by the defendant, and, if provided for in national law, damages.	
+	
+CHAPTER III	
+	
+Early dismissal of manifestly unfounded claims	
+	
+Article 11	
+	
+Early dismissal	
+	
+Member States shall ensure that courts and tribunals may dismiss, after appropriate examination, claims against public participation as manifestly unfounded, at the earliest possible stage in the proceedings, in accordance with national law.	
+	
+Article 12	
+	
+Burden of proof and substantiation of claims	
+	
+The burden of proving that the claim is well founded rests on the claimant who brings the action.	
+	
+Member States shall ensure that where a defendant has applied for early dismissal, it shall be for the claimant to substantiate the claim in order to enable the court to assess whether it is not manifestly unfounded.	
+	
+Article 13	
+Appeal	
+	
+Member States shall ensure that a decision granting early dismissal pursuant to article 11 is subject to an appeal.	
+	
+CHAPTER IV	
+	
+Remedies against abusive court proceedings against public participation	
+	
+Article 14	
+	
+Award of costs	
+	
+Member States shall ensure that a claimant who has brought abusive court proceedings against public participation can be ordered to bear all types of costs of the proceedings that can be awarded under national law, including the full costs of legal representation incurred by the defendant unless such costs are excessive.	
+	
+Where national law does not guarantee the award in full of the costs of legal representation beyond what is set out in statutory fee tables, Member States shall ensure that such costs are fully covered, unless they are excessive, by other means available under national law.	
+	
+Article 15	
+	
+Penalties or other equally effective appropriate measures	
+	
+Member States shall ensure that courts or tribunals seised of abusive court proceedings against public participation may impose effective, proportionate and dissuasive penalties or other equally effective appropriate measures, including the payment of compensation for damage or the publication of the court decision, where provided for in national law, on the party who brought those proceedings.	
+	
+CHAPTER V	
+	
+Protection against third-country judgments	
+	
+Article 16	
+	
+Grounds for refusal of recognition and enforcement of a third-country judgment	
+	
+Member States shall ensure that the recognition and enforcement of a third-country judgment in court proceedings against public participation by a natural or legal person domiciled in a Member State is refused, if those proceedings are considered manifestly unfounded or abusive under the law of the Member State in which such recognition or enforcement is sought.	
+	
+Article 17	
+	
+Jurisdiction for actions related to third-country proceedings	
+	
+Member States shall ensure that, where abusive court proceedings against public participation have been brought by a claimant domiciled outside the Union in a court or tribunal of a third-country against a natural or legal person domiciled in a Member State, that person may seek, in the courts or tribunals of the place where that person is domiciled, compensation for the damage and the costs incurred in connection with the proceedings before the court or tribunal of the third-country.	
+	
+Member States may limit the exercise of jurisdiction under paragraph 1 while proceedings are still pending in the third-country.	
+	
+CHAPTER VI	
+	
+Final provisions	
+	
+Article 18	
+	
+Relations with bilateral and multilateral conventions and agreements	
+	
+This directive shall not affect the application of bilateral and multilateral conventions and agreements between a third State and the Union or a Member State concluded before 6 May 2024.	
+	
+Article 19	
+	
+Information and transparency	
+	
+Member States shall ensure that natural or legal persons engaging in public participation referred to in article 6 have access, as appropriate, to information on available procedural safeguards and remedies and existing support measures such as legal aid and financial and psychological support, where available.	
+	
+The information referred to in the first subparagraph shall include any available information on awareness-raising campaigns, where appropriate in cooperation with relevant civil society organisations and other stakeholders.	
+	
+Such information shall be provided in one single place in an easily accessible format via an appropriate channel, such as an information centre, an existing focal point or an electronic gateway, including the European e-Justice Portal.	
+	
+Member States shall ensure that legal aid in cross-border civil proceedings is provided in accordance with Council directive 2003/8/EC  (7 ).	
+	
+Member States shall publish in an easily accessible and electronic format any final judgment delivered by their national courts of appeal or of the highest instance in relation to proceedings falling within the scope of this directive. That publication shall be carried out in accordance with national law.	
+	
+Article 20	
+	
+Data collection	
+	
+Member States shall, on an annual basis and where available, submit data on the applications and on decisions referred to in Chapters II, III, IV and V to the Commission, preferably in an aggregated form, with regard to:	
+	
+the number of abusive court proceedings against public participation cases, initiated in the relevant year;	
+	
+the number of court proceedings, classified by type of defendant and of claimant;	
+	
+the type of claim submitted on the basis of this directive.	
+	
+Article 21	
+Review	
+	
+Member States shall, by 7 May 2030, provide the Commission with the available data regarding the application of this directive, in particular available data showing how those targeted by court proceedings against public participation have used the safeguards provided for in this directive. On the basis of the information provided, the Commission shall by 7 May 2031 and every five years thereafter at the latest, submit to the European Parliament and to the Council a report on the application of this directive. That report shall provide an assessment of developments with regard to abusive court proceedings against public participation and the impact of this directive in the Member States while taking into account the national context in each Member State, including the implementation of Recommendation (EU) 2022/758. If necessary, that report shall be accompanied by proposals to amend this directive. The Commission report shall be made public.	
+	
+Article 22	
+	
+Transposition	
+	
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this directive by 7 May 2026. They shall immediately inform the Commission thereof.	
+	
+When Member States adopt those measures, they shall contain a reference to this directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.	
+	
+Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this directive.	
+Council directive 2003/8/EC of 27 January 2003 to improve access to justice in cross-border disputes by establishing minimum common rules relating to legal aid for such disputes (OJ L 26, 31.1.2003, p. 41).	
+	
+Article 23	
+	
+Entry into force	
+	
+This directive shall enter into force on the twentieth day following that of its publication in the  Official Journal of the European Union .	
+	
+Article 24	
+	
+Addressees	
+	
+This directive is addressed to the Member States. done at Brussels, 11 april 2024.	
+"For the European Parliament The President
+R. METSOLa"	"For the Council The President
+H. LaHBIB"
