@@ -1,0 +1,638 @@
+L’accessoire ne fonctionne pas  N’utilisez que des accessoires de jeu compatibles Xbox 360 qui arborent ce logo	
+	
+Si un accessoire n’est pas pris en charge par un jeu spécifique, il se peut que le jeu ne fonctionne pas.	
+Impossible d’enregistrer la partie	
+Pour que vous puissiez enregistrer une partie, le disque dur ou la carte mémoire de la console Xbox 360 doit disposer de suffisamment d’espace libre. Supprimez les éléments non désirés de votre mémoire ou installez une carte mémoire supplémentaire (vendue séparément) pour obtenir	
+plus d’espace.	
+Le disque dur ne fait pas partie de la liste des périphériques de stockage  Si votre disque dur ne fait pas partie de la liste des périphériques de stockage, essayez les étapes suivantes, dans l’ordre :	
+	
+Assurez-vous que le disque dur est correctement inséré dans la baie de disque dur et qu’il est dans l’axe de la console. Éteignez la console et rallumez-la.	
+Éteignez la console et retirez le disque dur. Allumez la console et éteignez-la de nouveau. Réinstallez le disque dur.	
+Si possible, essayez le disque dur sur une autre console ou essayez un autre disque dur sur votre console pour situer le problème.	
+REMARQUE	
+Les disques durs endommagés ne s’afficheront pas dans le Guide Xbox et risquent d’endommager votre console Xbox 360. Les disques durs qui ont été	
+écrasés, immergés ou exposés à une chaleur intense peuvent ne plus être réparables. Ils ne s’afficheront pas dans votre liste de périphériques de stockage.	
+	
+©2007 Microsoft Corporation. Tous droits réservés.	
+Microsoft, Windows, Xbox, Xbox 360, Xbox LIVE, les logos Xbox et les logos Xbox LIVE sont soit des marques de commerce de Microsoft Corporation, soit des marques déposées de Microsoft Corporation, aux États-Unis et/ou dans d’autres pays.	
+	
+Le jeu, le film ou la musique ne	
+commence pas	
+La console ne joue que les disques pris en charge ( jeux Xbox 360, CD audio, DVD vidéo). Insérez le disque à l’aide des directives du présent guide, puis fermez le compartiment à disque. Nettoyez le disque en suivant les instructions du guide Garantie Xbox 360 (Volume 2).	
+L’Anneau de lumière clignote	
+Les voyants de l’Anneau de lumière de la console doivent s’illuminer en continu lorsque celle-ci est allumée, et clignoter lorsque vous appuyez sur le bouton d’éjection. Si les voyants de l’Anneau de lumière clignotent de façon différente pendant le fonctionnement, la console a un problème interne :	
+Les deux voyants de gauche de la console clignotent en rouge : La console surchauffe et ne lira pas de jeu avant d’être refroidie. Placez la console en un endroit bien ventilé et éloigné d’autres sources de chaleur. Une fois la console refroidie, le clignotement cesse et la console Xbox 360 peut être utilisée à nouveau. Pour obtenir de plus amples renseignements, reportez-vous à	
+« Sélectionnez un emplacement pour la console ».	
+Les quatre voyants sur la manette clignotent en vert de façon périodique : Aucune affectation de quadrant de l’Anneau de lumière. La manette n’est pas branchée ou les quatre quadrants sont occupés.	
+Toutes les autres configurations : Un problème interne nécessite une réparation. Communiquez avec le Service à la clientèle de Xbox en composant le numéro fourni sur la couverture arrière du présent guide.	
+La manette sans fil ne fonctionne pas  Allumez la manette sans fil en appuyant sur la touche Guide Xbox et connectez-la à votre console (voir « Ajoutez des manettes sans fil »).	
+	
+Si les voyants tournoient pendant plus de 15 secondes lors de la connexion :	
+Rapprochez la manette de la console.	
+Assurez-vous que les piles sont bonnes.	
+Gardez la console et la manette à une distance minimale d’un mètre des gros objets de métal comme les classeurs et les réfrigérateurs.	
+Des autocollants ou décorations métalliques placés sur la console ou la manette peuvent nuire au fonctionnement de la manette sans fil. Enlevez les décorations et tentez à nouveau d’effectuer la connexion.	
+Assurez-vous que le devant de la console est dirigé vers la manette et éloigné des murs avoisinants.	
+Les téléphones sans fil de 2,4 GHz, les réseaux locaux sans fil, les émetteurs vidéo sans fil, les fours à micro-ondes, certains téléphones mobiles/cellulaires et les casques d’écoute Bluetooth peuvent nuire au fonctionnement de la manette. Éteignez ou déconnectez ces appareils et réessayez la connexion.	
+Si aucune solution ne fonctionne, éteignez votre console, retirez les piles LR6 ou la batterie rechargeable Xbox 360 de la manette et réinsérez-les, puis répétez les étapes de la section « Ajoutez des manettes sans fil ».	
+Le casque ne fonctionne pas	
+Si le casque n’émet aucun son ou si votre voix n’est pas entendue :	
+Assurez-vous que le connecteur de casque est branché correctement.	
+Essayez de régler le volume en utilisant le contrôle du volume sur le connecteur de casque.	
+Assurez-vous que le bouton muet n’a pas été enfoncé.	
+Assurez-vous que la voix n’est pas coupée dans le Guide Xbox.	
+Consultez le guide du jeu pour savoir si vous devez appuyer sur une touche en parlant.	
+	
+DÉPANNAGE	
+Si vous éprouvez des difficultés, procédez comme suit pour dépanner votre console de jeu et de loisirs Xbox 360. Si les étapes de la présente section ne règlent pas votre problème, rendez-vous sur  www.xbox.com/support  ou composez le numéro du Service à la clientèle Xbox	
+	
+fourni sur la couverture arrière.	
+Ne confiez pas votre console Xbox 360 ou	
+ses accessoires à votre détaillant pour	
+les réparations, à moins qu’un représentant du Service à la clientèle de Xbox ne vous	
+y invite.	
+	
+Aucune alimentation	
+Assurez-vous d’avoir une bonne source d’alimentation et vérifiez toutes les connexions entre la prise de courant murale et le bloc d’alimentation, puis entre le bloc d’alimentation et la console (voir « Branchez la console à une source d’alimentation »). Le voyant du bloc d’alimentation s’illumine en vert lorsqu’il fonctionne correctement.	
+Aucune image	
+Branchez le câble A/V approprié (voir	
+« Connectez la console à votre téléviseur et à votre système audio »). Allumez le téléviseur. Sélectionnez l’entrée vidéo du téléviseur (ou du magnétoscope, s’il y a lieu) qui affiche le jeu Xbox 360. L’entrée vidéo est	
+	
+communément appelée Input Select, AUX, Line In, Line, In, Input, Source ou EXT, selon votre type de téléviseur ou de magnétoscope. Pour de plus amples renseignements, consultez le guide de votre téléviseur ou magnétoscope. Ne branchez pas simultanément le câble composantes audio/ vidéo haute définition et le câble audio/vidéo HDMI à la console.	
+Aucun son	
+Vérifiez la connexion du câble audio/vidéo (voir « Connectez la console à votre téléviseur et à votre système audio »). Si vous utilisez le mode audio numérique, assurez-vous que le récepteur est allumé et que la sortie (Digital Output) est bien réglée dans les paramètres audio de votre console. Ne branchez pas simultanément le câble composantes audio/ vidéo haute définition et le câble audio/vidéo HDMI à la console.	
+Mauvaise qualité sonore	
+Nettoyez le disque en suivant les instructions du guide Garantie Xbox 360 (Volume 2).	
+Vérifiez la connexion du câble audio/vidéo (voir « Connectez la console à votre téléviseur et à votre système audio »). N’envoyez des signaux audio Dolby® Digital qu’à des systèmes audio qui prennent en charge le Dolby Digital. Sélectionnez la sortie audio prise en charge par votre système ou votre téléviseur : stéréo ou Dolby® Surround pour haut-parleurs stéréo, mono pour haut- parleurs monophoniques. Si le son n’est émis que par un seul haut-parleur, vérifiez si tous les câbles audio sont bien connectés. Ne branchez le câble adaptateur audio facultatif pour la sortie audio que lorsque le câble audio/vidéo HDMI est branché.	
+Le compartiment à disque ne s’ouvre pas	
+Assurez-vous que la façade amovible du devant de la console est bien installée et alignée. Vérifiez la connexion à la source d’alimentation (voir « Branchez la console à une source d’alimentation »). Allumez la console en appuyant sur le bouton d’alimentation.	
+	
+REMARQUES	
+Lorsque vous éteignez la console, votre manette demeure connectée pour utilisation future.	
+Votre manette ne peut être connectée qu’à une seule console à la fois. Vous pouvez vous connecter à une nouvelle console à tout moment, mais votre connexion à la console connectée précédemment sera perdue.	
+La manette sans fil Xbox 360 fonctionne seulement à une distance maximale de 10 mètres (33 pieds) de la console. Les objets se trouvant entre la manette et la console risquent de réduire cette portée.	
+	
+BRANCHEZ DES ACCESSOIRES SUPPLÉMENTAIRES	
+La console de jeu et de loisirs Xbox 360 fonctionne avec divers accessoires, notamment :	
+Jusqu’à quatre manettes câblées et sans fil et d’autres accessoires de jeu (manettes supplémentaires vendues séparément).	
+Des connecteurs audio/vidéo, par exemple	
+: des câbles vidéo composante et des câbles audio numériques, y compris le câble audio/vidéo S-Vidéo Xbox 360 et le câble audio/vidéo haute définition VGA Xbox 360 (vendus séparément).	
+Des périphériques de réseau Ethernet et de réseaux sans fil à domicile, par exemple l’adaptateur réseau sans fil Xbox 360 (vendu séparément).	
+Des périphériques de stockage, par exemple votre disque dur Xbox 360 (compris), les cartes mémoire Xbox 360 (vendues séparément) et les périphériques de stockage USB.	
+Des périphériques multimédias USB, par exemple des lecteurs de musique et des appareils photo numériques.	
+Des façades Xbox 360 personnalisées (vendues séparément).	
+Recherchez le logo Authentic Xbox Product sur les accessoires Microsoft conçus pour votre console de jeu et de loisirs Xbox 360.	
+	
+En ce qui concerne les périphériques d’autres fabricants, recherchez l’un des logos suivants, lesquels indiquent que le produit a été testé et répond aux rigoureuses exigences de compatibilité lui permettant de fonctionner avec Xbox 360 ou Xbox LIVE. Pour de plus amples renseignements sur les périphériques compatibles, visitez la page  www.xbox.com.	
+	
+	
+AJOUTEZ DES MANETTES SANS FIL	
+Jusqu’à quatre manettes, câblées et sans fil, peuvent être connectées activement à une console en même temps. Chaque manette connectée se voit attribuer un quadrant sur l’Anneau de lumière. Pour que vous puissiez connecter une manette sans fil, au moins un des quadrants doit être libre (éteint). Pour	
+	
+débrancher une manette sans fil, appuyez sur la touche Guide Xbox de cette dernière, maintenez-la enfoncée pendant trois secondes, puis choisissez l’option permettant d’éteindre la manette. Pour débrancher une manette câblée, débranchez le connecteur de câble.	
+	
+Pour connecter votre manette sans fil à votre console :	
+Appuyez sur la touche Guide Xbox et maintenez-la enfoncée jusqu’à ce que la manette s’allume.	
+	
+	
+Assurez-vous que la console est allumée. Si elle est éteinte, appuyez sur le bouton d’alimentation.	
+	
+	
+Appuyez sur le bouton de connexion de la console et relâchez-le.	
+	
+	
+Appuyez sur le bouton de connexion de la manette et relâchez-le.	
+	
+	
+Lorsque l’Anneau de lumière de la manette et celui de la console tournoient et clignotent une fois, la manette est connectée. Le quadrant qui demeure allumé indique la position de la manette.	
+	
+	
+STOCKAGE	
+	
+Grâce au disque dur Xbox 360 (compris) ou à une carte mémoire Xbox 360 (vendue séparément), vous pouvez enregistrer des parties et d’autres fichiers multimédias, ainsi que vous inscrire à Xbox LIVE.	
+Retirez et réinstallez votre disque dur  Votre console Xbox 360 est livrée avec un disque dur intégré. Si vous devez l’enlever, suivez les procédures ci-dessous relatives au retrait et à la réinstallation.	
+	
+Pour retirer votre disque dur :	
+Éteignez votre console.	
+	
+Appuyez sur	
+le bouton situé sur le devant du disque dur et retirez le dispositif de	
+la console.	
+	
+IMPORTAnT	
+Évitez de toucher aux contacts de la baie et du connecteur de disque dur avec vos doigts ou un objet de métal.	
+Pour installer votre disque dur :	
+	
+Éteignez votre console.	
+Positionnez le disque dur sur la baie en vous assurant que	
+son extrémité étroite (le devant) est dirigée vers l’avant de la console et que son extrémité large (l’arrière) est dirigée vers l’arrière de la console.	
+Placez l’arrière du disque dur contre l’arrière de la baie de disque dur. Assurez- vous que l’arête à l’arrière du disque dur s’appuie sous la lèvre à l’arrière de la baie.	
+Poussez le disque dur vers le bas jusqu’à ce qu’il s’enclenche.	
+Personnalisez votre disque dur	
+Vous pouvez personnaliser votre disque dur en lui attribuant un nom.	
+	
+Pour attribuer un nom à votre disque dur :	
+Avec le disque dur connecté à la console Xbox 360, sélectionnez  System ,  Memory .	
+	
+Mettez en surbrillance votre disque dur.	
+Sélectionnez  device Options  et renommez votre disque dur.	
+	
+Une fois votre disque dur personnalisé, vous pouvez l’identifier à l’aide de son nouveau nom.	
+Copiez ou supprimez les éléments enregistrés	
+Vous pouvez copier des éléments de votre disque dur sur une carte mémoire, un PC connecté ou un périphérique connecté à un port USB. Vous pouvez également libérer de l’espace sur votre disque dur en supprimant des éléments.	
+Pour copier ou supprimer un élément de votre disque dur :	
+Avec le disque dur connecté à la console Xbox 360, sélectionnez  System ,  Memory .	
+	
+Sélectionnez votre disque dur.	
+Sélectionnez le type d’élément, puis l’élément spécifique que vous souhaitez copier dans un autre emplacement ou supprimer de votre carte mémoire.	
+REMARQUE	
+Si vous supprimez le contenu d’origine de votre disque dur, il ne pourra être restauré. Avant de supprimer, assurez-vous de ne vouloir conserver aucun contenu.	
+Cartes mémoire  Vous pouvez également connecter jusqu’à deux cartes mémoire mobiles	
+	
+(vendues séparément) aux ports de carte mémoire situés sur le devant de votre console pour obtenir plus d’espace de stockage.	
+Les cartes mémoire sont	
+plus petites que votre disque dur, mais elles sont portatives. Vous pouvez donc facilement emporter votre profil Xbox LIVE ou vos jeux enregistrés vers d’autres consoles Xbox 360. Vous pouvez également emporter votre carte mémoire chez des détaillants participants et télécharger du contenu des stands de démonstration Xbox 360.	
+	
+TRANSMETTEZ DES FICHIERS MULTIMÉDIAS À PARTIR DE VOTRE ORDINATEUR	
+Pour accéder à des fichiers multimédias, notamment des fichiers vidéo, des fichiers audio et des photos, à partir d’un ordinateur fonctionnant sous Windows XP, il faut établir une simple connexion Ethernet du port Ethernet, situé à l’arrière de votre console Xbox 360, à votre ordinateur. Si votre PC ou réseau à domicile est également connecté à Internet haute vitesse, vous pouvez utiliser cette connexion pour accéder à Xbox LIVE.	
+Pour de plus amples renseignements sur ces options de réseau à domicile, voir	
+« Connectez-vous à Xbox LIVE » ou rendez- vous sur  www.xbox.com/setup.	
+	
+Windows Media Connect vous permet de connecter votre console Xbox 360 à un ordinateur fonctionnant sous Windows XP Service Pack 2 (SP2) ou une version plus récente. Si vous possédez un ordinateur fonctionnant sous Windows Media Center, vous pouvez également l’utiliser avec votre console Xbox 360.	
+En plus d’assurer les fonctions normales d’une télécommande DVD, la télécommande multimédia universelle Xbox 360 (vendue séparément) comprend une touche Windows Media Center vous permettant d’accéder à un ordinateur connecté à Windows Media Center.	
+Windows Media Connect	
+Avec Windows Media Connect, vous pouvez transmettre en continu de la musique et des photos stockées dans votre PC fonctionnant sous Windows XP vers votre console Xbox 360, quel que soit son emplacement dans votre domicile. Regardez des diaporamas avec votre téléviseur et faites jouer toute votre musique avec une chaîne audio connectée à votre console à l’aide d’un récepteur audio numérique. Pour en savoir plus sur Windows Media Connect, visitez la page  www.xbox.com/media.	
+	
+Pour installer Windows Media Connect :	
+Rendez-vous sur  www.xbox.com/pcsetup  et téléchargez le logiciel Windows Media Connect vers un ordinateur fonctionnant sous Windows XP SP2 ou une version ultérieure.	
+	
+Connectez votre console à votre ordinateur en utilisant l’une des connexions décrites dans la section « Connectez-vous à	
+Xbox LIVE ».	
+Sélectionnez  Media , puis choisissez des photos ou de la musique stockées dans votre ordinateur. Pour terminer l’installation de Windows Media Connect, suivez les instructions affichées à l’écran.	
+	
+Windows Media Center	
+Votre console Xbox 360 intègre parfaitement jeu et divertissement (par exemple : regarder ou enregistrer des émissions de télévision, regarder des photos numériques et écouter de la musique numérique) et les transmet de votre ordinateur fonctionnant sous Windows Media Center jusqu’à n’importe quel téléviseur de votre domicile. Lorsque vous connectez votre console au même réseau que votre ordinateur fonctionnant sous Windows Media Center, votre système de jeu et de loisirs	
+Xbox 360 vous permet de vivre une expérience incroyable. (Un ordinateur fonctionnant sous Windows Media Center peut prendre en charge jusqu’à cinq consoles.)	
+Pour en savoir plus sur Windows Media Center pour Xbox 360, visitez la page  www.microsoft.com/extender.	
+	
+Pour installer Windows Media Center :	
+Rendez-vous sur  www.xbox.com/pcsetup  et téléchargez la dernière version du logiciel Windows Media Center vers votre ordinateur fonctionnant sous Windows Media Center.	
+	
+Connectez votre console à votre ordinateur Windows Media Center en utilisant l’une des connexions décrites dans la section	
+« Connectez-vous à Xbox LIVE ».	
+Sur votre console Xbox 360, sélectionnez  Media , puis  Windows Media Center . Pour terminer l’installation de Windows Media Center, suivez les instructions affichées à l’écran.	
+	
+PARTAGEZ DES FICHIERS MULTIMÉDIAS D’UN LECTEUR AUDIO, APPAREIL PHOTO OU CAMÉRA	
+	
+	
+Utilisez votre console Xbox 360 pour écouter de la musique, regarder des photos et accéder à d’autres fichiers multimédias provenant d’autres périphériques. Vous pouvez connecter des périphériques USB tels que des lecteurs de musique et des appareils photo numériques aux ports USB de la console Xbox	
+	
+360. Vous pouvez également connecter votre console à un ordinateur fonctionnant sous Windows ou Windows Media Center.	
+Pour obtenir la liste des périphériques de tierce partie pris en charge par la console Xbox 360, visitez la page  www.xbox.com/media.	
+Transmettez en continu de la musique vers votre console	
+Pour transmettre en continu de la musique vers votre console Xbox 360 à partir d’un lecteur audio personnel :	
+Branchez l’appareil à votre console à l’aide d’un câble USB (non compris).	
+Configurez l’appareil pour qu’il transmette	
+des données par le port USB.	
+Sélectionnez  Media ,  Music ,  Portable Device .	
+	
+Sélectionnez la musique ou la sélection que vous désirez.	
+REMARQUE	
+Les enregistrements et les émissions peuvent être protégés par le droit d’auteur. Microsoft n’autorise pas, ni ne cautionne ou tolère l’utilisation de ses produits pour la copie non autorisée. Il est interdit de copier, de reproduire, de distribuer, de présenter publiquement ou de modifier des enregistrements sans autorisation du titulaire du droit d’auteur, à moins que la loi ne	
+le permette.	
+Regardez vos photos	
+Vous pouvez créer des diaporamas et afficher	
+des photos stockées sur votre appareil photo numérique.	
+Pour connecter votre appareil photo numérique :	
+Configurez votre appareil photo numérique pour afficher des photos. Consultez les instructions de votre appareil photo pour savoir comment afficher des photos.	
+Lorsque votre console est allumée, utilisez un câble USB pour connecter votre appareil photo à un port USB de la console.	
+La console détectera votre appareil photo numérique. Pour accéder à vos photos, suivez les instructions affichées à l’écran.	
+	
+VISIONNEZ DES FILMS	
+Votre console Xbox 360 vous permet de visionner des films sur DVD. Pour optimiser votre expérience de visionnage de film sur DVD, procurez-vous la télécommande multimédia universelle Xbox 360 (vendue séparément).	
+Pour visionner des films sur DVD :	
+Appuyez sur le bouton d’éjection pour ouvrir le compartiment à disque.	
+Déposez le DVD dans le compartiment à disque étiquette vers le haut (ou vers la droite si la console est à la verticale).	
+Appuyez sur le bouton d’éjection pour fermer le compartiment à disque. Le film débutera.	
+	
+LECTURE DE CD	
+La console Xbox 360 peut lire des CD audio arborant ce logo :	
+	
+Pour afficher les commandes à l’écran du DVD, appuyez sur n’importe quelle touche de la manette à l’exception de la touche Guide Xbox. Utilisez votre manette pour contrôler la lecture du film.	
+La console Xbox 360 ne peut lire que des DVD de zone 1 arborant ce logo :	
+	
+Pour écouter des CD audio :	
+Appuyez sur le bouton d’éjection pour ouvrir le compartiment à disque.	
+Déposez le CD audio dans le compartiment à disque étiquette vers le haut (ou vers la droite si la console est à la verticale).	
+Appuyez sur le bouton d’éjection pour fermer le compartiment à disque. Le CD commencera à jouer.	
+	
+Branchez votre casque à votre manette	
+Pour brancher votre casque :	
+Baissez le volume en tournant le contrôle du volume vers la gauche, jusqu’au bout. Insérez le connecteur de casque de 2,5 mm dans le port d’extension situé à l’arrière de la manette de jeu.	
+	
+Mettez votre casque et ajustez le microphone.	
+REMARQUE	
+Pour que votre casque fonctionne bien, vous devez absolument placer le casque et le microphone correctement. Assurez-vous que le casque passe au-dessus de votre tête, et non à l’arrière de celle-ci. Vous pouvez déplacer le microphone et le casque du côté droit ou du côté gauche.	
+Placez le microphone à environ un pouce (2,54 cm) de votre bouche sur un des côtés. De cette façon, votre respiration ne sera pas entendue lors d’une séance de bavardage. Lorsque vous ajustez le microphone, assurez-vous que l’ouverture du microphone est dirigée vers votre bouche et non tournée sur son axe.	
+	
+Vous êtes maintenant prêt à utiliser votre casque pour un jeu ou une séance de bavardage. Commencez à jouer ou à bavarder et réglez le volume à un	
+niveau agréable.	
+utilisez votre casque	
+Pour interrompre temporairement la transmission de la voix, glissez le commutateur muet du contrôle du casque. Pour régler le volume d’écoute du casque, tournez le bouton de contrôle du volume. Pour de plus amples renseignements concernant l’utilisation de votre casque Xbox 360 avec un jeu particulier, consultez le guide du jeu.	
+Pour bavarder et envoyer des messages vocaux, vous devez avoir un abonnement à Xbox LIVE.	
+IMPORTANT	
+Pour prévenir les dommages à votre casque, veillez à ne pas vous asseoir ni marcher sur le casque, son câble ou le connecteur de câble.	
+	
+	
+Connexion par passerelle  Choisissez une connexion par passerelle si votre FSI vous a fourni une passerelle Ethernet. À l’instar d’une connexion par routeur, vous pouvez partager votre connexion Internet avec votre ordinateur (ou autre appareil) et jouer sur Xbox LIVE que votre ordinateur soit allumé ou non.	
+	
+Pour établir une connexion par passerelle :	
+Branchez votre connexion Internet haute vitesse à votre passerelle (à l’aide d’une prise de câble coaxial pour le service par câble ou d’une prise téléphonique pour le service DSL).	
+Branchez une extrémité d’un câble Ethernet au port Ethernet LAN de votre passerelle et branchez l’autre extrémité au port Ethernet de votre ordinateur (ou autre appareil). Pour utiliser le navigateur ou le logiciel de votre ordinateur afin de configurer la passerelle, suivez les instructions fournies par votre FSI, puis assurez-vous que votre ordinateur est connecté à Internet.	
+Branchez une extrémité d’un câble Ethernet au port Ethernet LAN de votre passerelle et branchez l’autre extrémité au port Ethernet à l’arrière de votre console Xbox 360.	
+Suivez les instructions affichées à l’écran. Vous devrez peut-être entrer des renseignements fournis par votre FSI dans la section « System » de l’interface Xbox.	
+Dépannage relatif à votre connexion  Si votre console Xbox 360 ne se connecte pas automatiquement, vous devrez peut-être configurer manuellement vos paramètres réseau dans l’interface Xbox. Certains fournisseurs de service Internet (FSI) exigent des paramètres spécifiques, notamment un nom d’hôte, une adresse MAC, un nom d’utilisateur et un mot de passe FSI (pour l’authentification PPPoE). Si vous n’êtes pas certain d’avoir besoin de ces renseignements, vérifiez auprès de votre FSI. Pour obtenir de plus amples renseignements, visitez la page 	
+www.xbox.com/setup.	
+Créez un compte Xbox LIVE	
+Pour créer votre compte, sélectionnez  Xbox LIVE  à partir de l’interface Xbox et suivez les instructions affichées à l’écran.	
+	
+Communiquez sur Xbox LIVE	
+Utilisez votre casque Xbox 360 pour bavarder et communiquer avec vos amis pendant que vous êtes sur Xbox LIVE.	
+	
+	
+Connexion par routeur	
+	
+Choisissez une connexion par routeur si vous souhaitez partager votre connexion Internet avec votre ordinateur (ou autre appareil), si votre modem haute vitesse peut prendre en charge une connexion Ethernet et si vous voulez pouvoir jouer sur Xbox LIVE, que votre ordinateur soit allumé ou éteint.	
+Pour établir une connexion par routeur :	
+Branchez une extrémité d’un câble Ethernet au port Ethernet de votre modem haute vitesse et branchez l’autre extrémité au port WAN ou Uplink de votre routeur.	
+Branchez une extrémité d’un câble Ethernet au port Ethernet LAN de votre routeur et branchez l’autre extrémité au port Ethernet de votre ordinateur (ou autre appareil). Pour utiliser le navigateur ou le	
+logiciel de votre ordinateur afin de configurer le routeur, suivez les instructions fournies par votre FSI, puis assurez-vous que votre ordinateur est connecté à Internet.	
+Branchez une extrémité d’un câble Ethernet au port Ethernet LAN de votre routeur et branchez l’autre extrémité au port Ethernet à l’arrière de votre console Xbox 360.	
+REMARQUE	
+Certains modems et appareils nécessitent un concentrateur plutôt qu’un routeur.	
+Suivez les instructions affichées à l’écran. Vous devrez peut-être entrer des renseignements fournis par votre FSI dans la section « System » de l’interface Xbox.	
+	
+	
+Connexion par modem	
+	
+Choisissez une connexion modem si vous voulez le moyen le plus facile d’établir une connexion et de jouer et ne souhaitez pas partager votre connexion Internet avec votre ordinateur (ou autre appareil).	
+Pour établir une connexion par modem :	
+Branchez une extrémité d’un câble Ethernet au port Ethernet de votre modem haute vitesse et branchez l’autre extrémité au port Ethernet situé à l’arrière de votre console Xbox 360.	
+Suivez les instructions affichées à l’écran. Vous devrez peut-être entrer des renseignements fournis par votre FSI dans la section « System » de l’interface Xbox.	
+	
+JEUX	
+La console Xbox 360 ne peut lire que les disques de jeu concédés sous licence par Microsoft pour la console de jeu et de loisirs Xbox 360. Les jeux concédés sous licence arborent ce logo :	
+	
+Pour les dernières informations sur les jeux Xbox 360, visitez le site  www.xbox.com.	
+	
+Pour lancer un jeu :	
+Appuyez sur le bouton d’éjection pour ouvrir le compartiment à disque.	
+Déposez le disque de jeu Xbox 360 dans le compartiment à disque étiquette vers le haut (ou vers la droite si la console est à la verticale).	
+Appuyez sur le bouton d’éjection pour fermer le compartiment à disque. Le jeu commence.	
+	
+CONNECTEZ-VOUS À XBOX LIVE	
+Vous pouvez devenir instantanément un membre de niveau argent au Xbox LIVE en branchant un câble Ethernet au port Ethernet à l’arrière de la console. Grâce à un abonnement Silver, vous pouvez créer un gamertag (code de joueur), accéder au Marché Xbox LIVE, consulter des cartes de joueurs, participer à des bavardages, obtenir des messages vocaux, faire des amis et utiliser le contrôle parental de Xbox LIVE.	
+Les membres de niveau argent au Xbox LIVE obtiennent un jeu de durée limitée par le biais d’événements spéciaux comme le jeu gratuit de niveau or au Xbox LIVE pendant la fin de semaine, Xbox LIVE Game with Fame et	
+Xbox LIVE Prime Time.	
+Si vous croyez être prêt pour la pleine expérience Xbox LIVE, procurez-vous un abonnement de niveau or au Xbox LIVE.	
+Le niveau or au Xbox LIVE vous donne accès à toutes les fonctionnalités de l’abonnement argent au Xbox LIVE en plus des jeux multijoueur en ligne, de la création de parties évoluées et des outils de	
+commentaires, des privilèges et récompenses du Marché Xbox LIVE et des fonctions multimédias telles que le partage de musique et de photos.	
+	
+Établissez votre connexion	
+Connectez-vous à Xbox LIVE en utilisant l’un des types de connexion suivants. Vous pouvez également établir une connexion réseau sans fil en utilisant l’adaptateur réseau sans fil Xbox 360 (vendu séparément). Pour de plus amples renseignements sur l’établissement de votre connexion et sur d’autres options de réseau à domicile, visitez la page  www.xbox.com/setup.	
+	
+REMARQUE	
+Pour jouer sur Xbox LIVE, vous devez disposer d’une connexion Internet haute vitesse (câble ou DSL). Vous devez également disposer d’un disque dur Xbox 360 ou d’une carte mémoire Xbox 360 pour stocker les informations de votre compte Xbox LIVE.	
+	
+INFORMATIONS IMPORTANTES RELATIVES À LA SÉCURITÉ LORSQUE VOUS JOUEZ À DES JEUX VIDÉO	
+Crises d’épilepsie liées à la photosensibilité	
+Pour un très faible pourcentage de personnes, l’exposition à certaines images, notamment aux lueurs ou motifs clignotants pouvant apparaître dans les jeux vidéo, risque de provoquer une crise d’épilepsie liée à la photosensibilité, même chez des personnes sans antécédent épileptique.	
+Les symptômes de ces crises peuvent varier; ils comprennent généralement des étourdissements, une altération de la vision, des mouvements convulsifs des yeux ou du visage, la crispation ou le tremblement des bras ou des jambes, une désorientation, une confusion ou une perte de connaissance momentanée. Ces crises peuvent également provoquer une perte de connaissance ou des convulsions pouvant engendrer des blessures dues à une chute sur le sol ou à un choc avec des objets avoisinants.	
+Cessez immédiatement de jouer et consultez un médecin si vous ressentez de tels symptômes. Il est conseillé aux parents de surveiller leurs enfants et de leur poser des questions concernant les symptômes ci-dessus; les enfants et les adolescents sont effectivement plus sujets à ce genre de crise que les adultes. Les précautions suivantes peuvent réduire le risque d’une crise d’épilepsie photosensible :	
+S’asseoir loin de l’écran de télévision.	
+Utiliser un écran de télévision de petite taille.	
+Jouer dans une pièce bien éclairée.	
+Éviter de jouer en cas d’envie de dormir ou de fatigue.	
+Si vous ou un membre de votre famille avez des antécédents de crises d’épilepsie, consultez un médecin avant de jouer.	
+Troubles musculo-squelettiques	
+Il est possible que l’utilisation de manettes de jeu, de claviers, de souris ou d’autres périphériques d’entrée électroniques entraîne de graves blessures ou troubles.	
+Comme pour de nombreuses activités, il est possible que vous ressentiez occasionnellement de l’inconfort dans vos	
+mains, vos bras, vos épaules, votre cou ou d’autres parties de votre corps en jouant à des jeux vidéo. Cependant, si vous ressentez de façon persistante ou récurrente un inconfort, une douleur, un élancement, des picotements, un engourdissement, une sensation de brûlure ou une raideur, N’IGNOREZ PAS CES SIGNES AVANT-COUREURS. CONSULTEZ RAPIDEMENT UN PROFESSIONNEL DE LA	
+SANTÉ QUALIFIÉ, même si les symptômes surviennent lorsque vous ne jouez pas à un jeu vidéo. De tels symptômes peuvent être associés à de douloureux, et parfois permanents, troubles et maladies affectant les nerfs, les muscles, les tendons, les vaisseaux sanguins et d’autres parties du corps. Ces troubles musculo-squelettiques (TMS) comprennent, entre autres, le syndrome du canal carpien, la tendinite, la ténosynovite et le syndrome vibratoire.	
+Les chercheurs ne sont pas encore en mesure de répondre à de nombreuses questions sur les TMS, mais ils s’entendent généralement pour dire que de nombreux facteurs peuvent contribuer à leur apparition, y compris les maladies, la condition physique, le stress et la façon de le gérer, l’état de santé général, la position du corps lors du travail et des autres activités (comme les jeux vidéo). Certaines études laissent croire que la durée d’une activité est également un facteur.	
+Certaines directives peuvent vous aider à travailler et à jouer confortablement et possiblement à réduire le risque de souffrir d’un TMS. Elles se trouvent dans le Guide sur la façon saine de jouer, disponible sur  www.xbox.com.  Parmi ces directives, notons les suivantes :	
+	
+Adoptez des positions confortables.	
+Assurez-vous de détendre vos mains, vos doigts et les autres parties de votre corps.	
+Prenez des pauses.	
+Adoptez un mode de vie sain.	
+Si vous avez des questions concernant un possible lien entre votre mode de vie, vos activités, votre état de santé ou votre condition physique et les TMS, consultez un professionnel de la santé qualifié.	
+	
+	
+UTILISATION DU LECTEUR DE DISQUE	
+	
+Pour insérer un disque :	
+Appuyez sur le bouton d’éjection pour ouvrir le compartiment à disque.	
+Déposez le disque de jeu Xbox 360, le CD audio ou le film sur DVD dans le compartiment à disque étiquette vers le haut (ou vers la droite si la console est	
+à la verticale).	
+	
+Pour éjecter un disque :	
+Appuyez sur le bouton d’éjection pour ouvrir le compartiment à disque.	
+Enlevez le disque.	
+Appuyez sur le bouton d’éjection pour fermer le compartiment à disque.	
+REMARQUE	
+Lorsque la console est orientée vers le haut, assurez-vous que le disque est maintenu en place par les languettes du compartiment à disque pour éviter qu’il ne tombe.	
+	
+	
+IMPORTANT	
+Pour éviter de coincer le lecteur de disque et d’endommager les disques ou la console :	
+Retirez les disques avant de déplacer la console ou de l’incliner entre les positions horizontale et verticale.	
+N’utilisez jamais des disques fêlés. Ils peuvent se briser à l’intérieur de la console et bloquer ou casser des pièces internes.	
+Lorsque la console est en position verticale, n’utilisez pas des disques de taille inférieure aux DVD ou CD standard.	
+Si le lecteur de disque se coince ou est endommagé, communiquez avec le Service à la clientèle Xbox pour faire réparer ou échanger votre console.	
+	
+PARAMÈTRES DE CONTRÔLE PARENTAL DE XBOX 360	
+La nouvelle fonctionnalité de contrôle parental de Xbox 360 permet aux parents et aux gardiens d’assurer un divertissement adapté à l’âge par le biais de paramètres	
+personnalisés. Les paramètres de la console peuvent limiter les jeux joués et les films visionnés sur votre console. Les paramètres de Xbox LIVE peuvent personnaliser l’expérience Xbox LIVE pour chaque compte enfant, même lorsqu’il joue à l’extérieur du domicile.	
+Appliquez le contrôle parental	
+Pour appliquer le contrôle parental à vos jeux et à Xbox LIVE :	
+Sélectionnez  System ,  Family Settings .	
+	
+Choisissez les paramètres que vous souhaitez exécuter pour votre console et vos comptes Xbox LIVE.	
+Aux États-Unis et au Canada, les paramètres de contrôle parental de Xbox 360 pour les jeux se basent sur le système d’évaluation (PEGI) et les paramètres des films se basent sur le système d’évaluation MPAA (Motion Picture Association of America). Par défaut, les paramètres de contrôle parental de Xbox 360 sont réglés sur Allow All (aucune restriction) pour les jeux et les films. Pour	
+obtenir de plus amples renseignements sur le classement des jeux, consultez  www.esrb.org.	
+	
+Parfois, le classement d’un film n’est pas encodé sur le DVD. Dans ce cas, le film peut être visionné peu importe les paramètres de votre console.	
+Paramètres Xbox LIVE	
+Vous pouvez assurer une expérience positive sur Xbox LIVE à votre famille en établissant des limites pour chaque compte enfant. Gérez jusqu’à huit paramètres pour chaque compte et établissez différentes limites pour chaque compte. Les paramètres Xbox LIVE de votre enfant sont sélectionnés au préalable au moment de la création de leur compte Xbox LIVE. Vous pouvez apporter des modifications à tout moment en sélectionnant  System ,  Family Settings	
+,  Live Controls , et en choisissant le compte de l’enfant.	
+	
+Le contrôle parental de Xbox LIVE vous permet de :	
+Demander une autorisation parentale pour ajouter des personnes à la liste d’amis de votre enfant.	
+Restreindre le chat vocal, vidéo et textuel aux personnes figurant dans la liste d’amis de votre enfant.	
+Bloquer ou restreindre l’affichage du profil	
+de votre enfant et de sa présence en ligne.	
+Bloquer ou restreindre l’accès de votre enfant à un contenu créé par d’autres joueurs.	
+Bloquer l’accès à des jeux multijoueur Xbox LIVE.	
+Empêcher votre enfant d’acheter des articles sur le Marché Xbox LIVE.	
+	
+Insérez les piles en respectant les instructions suivantes.	
+Pour insérer les piles dans la batterie LR6 de	
+la manette sans fil :	
+Enfoncez le bouton sur le dessus de la batterie LR6 et tirez celle-ci vers le bas pour la retirer de la manette.	
+Insérez deux piles AA (LR6) neuves en respectant la polarité (+ et -) indiquée sur le dessous de la batterie. Pour de meilleurs résultats, les piles AA rechargeables	
+sont déconseillées.	
+Remettez la batterie LR6 dans la manette et enfoncez-la pour l’immobiliser.	
+	
+Connexion de votre manette sans fil à	
+votre console	
+Lorsque vous sortez votre manette sans fil Xbox 360 de sa boîte, elle est déjà connectée sans fil à votre console. Si vous devez reconnecter votre manette sans fil à votre console ou la connecter à une autre console, reportez-vous à la section « Ajoutez des manettes sans fil ».	
+Allumez votre console et votre	
+manette sans fil.	
+Pour allumer votre console et votre manette, appuyez sur la touche Guide Xbox de votre manette et maintenez-la enfoncée.	
+Pour allumer votre console uniquement, appuyez sur le bouton d’alimentation de la console. Pour allumer votre manette uniquement, appuyez sur la touche  Start  de la manette.	
+	
+REMARQUE	
+Pour éviter de pincer vos doigts lors de l’insertion, ne poussez que sur la surface plane de la pile.	
+Éteignez votre console et votre	
+manette sans fil.	
+Pour éteindre votre console et votre manette, appuyez sur la touche Guide Xbox de votre manette et maintenez-la enfoncée pendant trois secondes. Décidez ensuite si vous souhaitez éteindre seulement votre manette ou votre manette et votre console. (En sélectionnant la console, vous éteignez la console et toutes les manettes qui sont branchées à cette dernière.)	
+Pour éteindre la console et toute manette sans fil connectée, appuyez sur le bouton d’alimentation de la console.	
+Sélectionnez la langue et d’autres paramètres	
+La première fois que vous allumez votre console Xbox 360, on vous demande d’entrer une langue (Language). Suivez les instructions pour sélectionner une langue pour	
+votre console.	
+Vous pouvez changer la langue de la console dans la section  System  de l’interface Xbox. Vous pouvez également modifier d’autres paramètres comme l’heure, le son, l’affichage et la commande qui éteint automatiquement la console après six heures de non utilisation.	
+	
+Anneau de lumière	
+L’Anneau de lumière composé de quatre quadrants qui entoure la touche Guide Xbox de la manette et le bouton d’alimentation de la console constitue le voyant d’état Xbox 360.	
+Lorsque vous branchez une manette à votre console, elle se voit affecter un quadrant qui s’illumine en vert pour indiquer son numéro et sa position. Chaque manette additionnelle branchée à la console (jusqu’à quatre) se voit affecter un autre quadrant.	
+En cas de problème système, l’Anneau de lumière de la console émettra une série de lumières rouges. Pour de plus amples renseignements, consultez la section	
+« Dépannage ».	
+Port d’extension	
+Le port d’extension de votre manette (doté d’une prise audio de 2,5 mm) vous permet de connecter des périphériques d’extension comme le casque Xbox 360 à votre manette. Pour obtenir de plus amples renseignements, consultez le guide d’utilisation du périphérique d’extension de la manette.	
+Port de recharge	
+Le port de recharge, situé sur le devant de votre manette, fonctionne exclusivement avec le kit de chargement Xbox 360 & (vendu séparément).	
+	
+INSTALLATION DE VOTRE MANETTE SANS FIL	
+	
+Avant de pouvoir utiliser votre manette sans fil Xbox 360 avec votre console Xbox 360, vous devez y insérez une batterie.	
+Insertion des piles	
+La manette sans fil utilise des piles jetables ou la batterie rechargeable Xbox 360 (vendue séparément). Si vous prévoyez d’utiliser des piles jetables, prenez connaissance de la section	
+« Sécurité concernant les piles jetables » qui suit immédiatement.	
+	
+Sécurité concernant les piles jetables	
+Une utilisation inappropriée des piles risque de provoquer une fuite de liquide, surchauffe ou explosion.	
+Attention au risque d’incendie si le type de piles utilisé est incorrect.	
+Le liquide de pile est corrosif, voire toxique. Il peut provoquer des brûlures aux yeux ou à la peau et est nocif s’il est avalé. Pour réduire le risque	
+de blessure :	
+Gardez les piles hors de la portée des enfants.	
+Vous ne devez jamais chauffer, ouvrir, perforer ou mutiler les piles ni les jeter dans un feu.	
+N’utilisez que des piles alcalines, de type AA (LR6).	
+Ne mélangez pas de nouvelles et d’anciennes piles.	
+Enlevez les piles si elles sont usées ou si vous comptez ne pas utiliser votre	
+télécommande pendant une longue période. Ne laissez pas les piles dans la batterie LR6 lorsqu’elle n’est pas installée dans la manette.	
+En cas de fuite, retirez toutes les piles immédiatement en prenant soin d’éviter tout contact avec la peau ou les vêtements. Si le liquide de la pile entre en contact avec la peau ou les vêtements, rincez immédiatement la peau à eau vive. Avant d’insérer de nouvelles piles, nettoyez à fond le compartiment à piles à l’aide d’une serviette de papier humide ou suivez les recommandations du fabricant de la pile.	
+Jetez les piles conformément aux normes locales et nationales en matière de gestion des déchets (s’il y a lieu).	
+	
+	
+	
+Pour éviter d’endommager les cordons d’alimentation et le bloc d’alimentation :	
+	
+Protégez les cordons d’alimentation pour éviter qu’ils ne soient piétinés.	
+Protégez les cordons pour éviter qu’ils ne soient pincés ou pliés, particulièrement aux endroits où ils se connectent à la prise de courant, au bloc d’alimentation et à la console.	
+Évitez de tirer d’un coup sec sur les cordons d’alimentation, de les nouer, de les plier en deux et de les abîmer.	
+N’exposez pas les cordons d’alimentation à des sources de chaleur.	
+N’enroulez pas les cordons d’alimentation autour du bloc d’alimentation.	
+Gardez les enfants et les animaux hors de portée des cordons d’alimentation. Ne les laissez pas mordre ou mastiquer les cordons.	
+Lorsque vous débranchez le cordon d’alimentation, tirez sur la fiche et non sur le cordon.	
+Ne laissez pas le bloc d’alimentation pendre de l’un des cordons d’alimentation.	
+Si un cordon ou un bloc d’alimentation est endommagé de quelque façon que ce soit, cessez immédiatement de l’utiliser et communiquez avec le Service à la clientèle de Xbox pour le remplacer.	
+Débranchez votre console Xbox 360 pendant les orages électriques ou lorsque vous comptez ne pas l’utiliser pendant une longue période.	
+Branchez toujours les cordons d’alimentation comme suit :	
+Insérez complètement le cordon du bloc d’alimentation dans la console Xbox 360.	
+Branchez le cordon d’alimentation secteur au bloc d’alimentation jusqu’à ce qu’il n’avance plus.	
+Branchez l’autre extrémité du cordon d’alimentation secteur à la prise de courant murale.	
+	
+	
+LA MANETTE SANS FIL XBOX 360	
+	
+Votre manette sans fil vous permet de faire l’expérience ultime en matière de liberté sans fil avec la même précision, vitesse et justesse qu’une manette câblée.	
+Touche Guide Xbox	
+La touche Guide Xbox située au centre de votre manette vous permet de vivre l’expérience Xbox	
+	
+360 d’un simple toucher du doigt. Appuyez sur la touche Guide Xbox pour allumer votre console. Lorsqu’elle est allumée, vous pouvez accéder immédiatement au Guide Xbox en appuyant sur la touche Guide Xbox. Pour éteindre votre console, appuyez sur la touche Guide Xbox et maintenez-la enfoncée pendant trois secondes, puis confirmez votre sélection.	
+	
+BRANCHEZ LA CONSOLE À UNE SOURCE D’ALIMENTATION	
+	
+Sécurité concernant l’électricité  Comme dans le cas de nombreux autres appareils électroniques, si vous ne prenez pas les précautions suivantes, vous risquez de subir des blessures graves ou de décéder des suites d’une commotion ou d’un incendie électrique. Vous pourriez également endommager votre console de jeu et de loisirs	
+	
+Xbox 360.	
+Sélectionnez une source d’alimentation appropriée pour votre console Xbox 360 :	
+N’utilisez que le bloc d’alimentation et le cordon d’alimentation secteur fournis avec votre console ou reçus d’un centre de réparation autorisé. Si vous n’êtes pas sûr d’avoir le bon bloc d’alimentation, comparez le numéro de modèle du bloc d’alimentation au numéro de modèle stipulé sur votre console. Si vous avez besoin d’un bloc d’alimentation ou d’un cordon d’alimentation secteur de remplacement, communiquez avec le Service à la clientèle de Xbox.	
+Confirmez que votre prise de courant fournit le type d’alimentation indiqué sur le bloc d’alimentation (en termes de tension [V] et de fréquence [Hz]). Si vous n’êtes pas sûr du type de courant qui alimente votre domicile, consultez un électricien qualifié.	
+N’utilisez pas de sources d’alimentation non standard, telles que des génératrices ou des onduleurs, même si la tension et la fréquence semblent acceptables. N’utilisez que du courant alternatif fourni par une prise murale standard.	
+Ne surchargez pas votre prise de courant murale, rallonge électrique, bande d’alimentation ou autre prise électrique. Confirmez qu’elles sont qualifiées pour gérer le courant total (en ampères [A]) nécessaire pour alimenter la console Xbox 360 (indiqué sur le bloc d’alimentation) et tout autre périphérique branché sur le même circuit.	
+Ne branchez aucun autre périphérique entre le bloc d’alimentation Xbox 360 et la console Xbox 360 ou entre le cordon d’alimentation et le bloc d’alimentation Xbox 360.	
+	
+Pour vous connecter en mode audio stéréo :	
+Branchez le câble audio/vidéo HDMI tel que décrit à la section « Connexion du câble audio/vidéo HDMI ».	
+Branchez le connecteur de câble adaptateur audio au port audio/vidéo (et non au port audio/vidéo HDMI) de votre console. Laissez le câble audio/vidéo HDMI connecté à votre téléviseur pour la vidéo.	
+Branchez un câble de prolongement audio stéréo standard (vendu séparément) aux connecteurs audio gauche et droit d’une seule couleur (blanc et rouge) du câble adaptateur audio. Branchez l’autre extrémité du câble de prolongement	
+aux entrées audio de votre système audio stéréo.	
+Dans le cas d’un système monophonique (mono), c’est-à-dire qui n’a qu’une seule prise audio, branchez le connecteur audio droit ou gauche dans la prise audio.	
+	
+Connexion à un système audio numérique à l’aide du câble HDMI  Si votre système (généralement un ampli- tuner ou un amplificateur) dispose d’une	
+	
+entrée audio numérique, vous pouvez vous brancher dans cette dernière plutôt que dans les entrées audio gauche et droite standard. L’entrée audio numérique devrait offrir une reproduction sonore de qualité supérieure à celle d’un système audio stéréo droit et gauche standard.	
+Pour vous connecter en mode audio numérique :	
+Branchez le câble audio/vidéo HDMI tel que décrit à la section « Connexion du câble audio/vidéo HDMI ».	
+Branchez le connecteur de câble adaptateur audio au port audio/vidéo (et non au port audio/vidéo HDMI) de votre console. Laissez le câble audio/vidéo HDMI connecté à votre téléviseur pour la vidéo.	
+Branchez votre câble audio numérique (vendu séparément) à la sortie audio numérique du câble adaptateur audio. Branchez l’autre extrémité de votre câble audio numérique à l’entrée audio numérique de votre ampli-tuner.	
+Allumez votre console. Dans la section System, vous pouvez modifier vos paramètres audio et de sortie numérique. Sélectionnez le réglage audio numérique approprié pour votre système.	
+	
+Autre entrée audio/vidéo	
+Vous pouvez également brancher la console	
+à d’autres types d’entrées en utilisant le câble audio/vidéo S-Vidéo Xbox 360 ou le câble audio/vidéo haute définition VGA Xbox 360 (vendus séparément). Pour obtenir de plus amples renseignements, visitez la page  www.xbox.com/setup.	
+	
+	
+	
+Connexion du câble audio/vidéo HDMI	
+	
+Pour connecter la console à votre téléviseur	
+haute définition :	
+Éteignez votre console.	
+Si un autre câble audio/vidéo (tel que le câble composantes audio/vidéo haute définition) est déjà branché au port audio/ vidéo de votre console, débranchez-le avant de poursuivre.	
+Branchez le connecteur de câble audio/ vidéo HDMI au port audio/vidéo HDMI (et non au port audio/vidéo standard) de la console.	
+Branchez l’autre extrémité du câble audio/ vidéo HDMI à l’entrée HDMI de votre téléviseur.	
+Allumez votre console. Dans la zone System, sélectionnez le réglage vidéo haute définition approprié pour votre téléviseur.	
+Connexion à un système audio stéréo à l’aide du câble HDMI	
+La technologie HDMI prend en charge l’audio par l’entremise de votre téléviseur. Toutefois, il peut être souhaitable de connecter l’audio de la console Xbox 360 à un système audio différent, tel qu’un ampli-tuner ou un amplificateur stéréo. Pour ce faire, branchez le câble audio/vidéo HDMI pour la vidéo et le câble adaptateur audio inclus pour l’audio.	
+	
+	
+	
+Pour connecter la console à votre téléviseur	
+	
+haute définition :	
+Branchez le connecteur du câble audio/ vidéo haute définition au port A/V de la console.	
+Réglez le commutateur du connecteur du port A/V à TV ou à HDTV. Il faut sélectionner la position HDTV si le téléviseur prend en charge des résolutions à haute définition telles que 480p, 720p, 1080i ou 1080p.	
+Branchez les connecteurs vidéo à bandes de couleur rouge, verte et bleue du câble audio/vidéo haute définition aux entrées de couleur correspondante (Y, Cb/Pb, Cr/Pr) sur votre téléviseur. Ne branchez pas le connecteur vidéo composite à bande jaune.	
+Branchez les connecteurs audio gauche et droite d’une seule couleur (blanche et rouge) du câble audio/vidéo haute définition aux entrées audio de votre téléviseur ou ampli-syntonisateur stéréo.	
+Sélectionnez la bonne entrée vidéo sur votre téléviseur (pour obtenir de plus amples renseignements, reportez-vous à	
+« Aucune image » dans la section	
+« Dépannage »).	
+Une fois votre console installée, vous pouvez configurer des paramètres audio supplémentaires sur la console et tester votre connexion à partir de la zone System de l’interface Xbox. Toutefois, avant de ce faire,	
+veuillez suivre les étapes des pages suivantes pour alimenter la console, connecter votre manette et régler d’autres paramètres initiaux.	
+Connexion à un système audio numérique à l’aide du câble composantes	
+Si votre système (généralement un récepteur ou un amplificateur) prend en charge une entrée audio numérique, vous pouvez vous brancher dans cette dernière plutôt que dans les entrées audio gauche et droite standard. L’audio numérique devrait avoir une reproduction sonore de qualité supérieure.	
+Pour vous connecter en mode audio numérique :	
+Branchez-vous à l’entrée vidéo de l’une des façons décrites dans les sections précédentes.	
+Branchez votre câble audio numérique (non compris) à la sortie audio numérique de votre câble A/V et à l’entrée audio numérique de votre récepteur.	
+	
+CONNECTEZ LA CONSOLE À VOTRE TÉLÉVISEUR ET À VOTRE SYSTÈME AUDIO	
+	
+	
+IMPORTANT	
+	
+Les images fixes des jeux vidéo risquent de se fondre avec certains écrans de télévision et de créer une ombre permanente. Consultez le guide d’utilisation ou le fabricant de votre téléviseur avant de jouer à des jeux.	
+Connexion du câble audio/vidéo haute	
+définition	
+Pour connecter votre console à votre téléviseur,	
+utilisez le câble audio/vidéo haute définition.	
+Pour connecter la console à votre téléviseur standard :	
+Branchez le connecteur du câble audio/ vidéo haute définition au port A/V de la console.	
+Réglez le commutateur du connecteur du port A/V à TV.	
+Branchez le connecteur vidéo à signal composite à bande jaune du câble audio/ vidéo haute définition à l’entrée jaune de votre téléviseur. Ne branchez pas les connecteurs vidéo à bandes rouge, verte et bleue.	
+Branchez les connecteurs audio gauche et droite d’une seule couleur (blanche et rouge) du câble audio/vidéo haute définition aux entrées audio de votre téléviseur ou ampli-syntonisateur stéréo.	
+Dans le cas d’un téléviseur monophonique (mono), c’est-à-dire qui n’a qu’une seule entrée audio, branchez le connecteur audio droit ou gauche à l’entrée audio.	
+Sélectionnez la bonne entrée vidéo sur votre téléviseur (pour obtenir de plus amples renseignements, reportez-vous à	
+« Aucune image » dans la section	
+« Dépannage »).	
+REMARQUE	
+L’extrémité TV de votre câble audio/vidéo haute définition Xbox 360 dispose de deux groupes distincts de connecteurs, soit audio et vidéo. Ne confondez pas le connecteur rouge du groupe audio avec	
+le connecteur rouge du groupe vidéo.	
+	
+CHOISISSEZ UN EMPLACEMENT POUR VOTRE CONSOLE	
+	
+Empêchez la console de tomber  Si la console Xbox 360 tombe et heurte quelqu’un, surtout un jeune enfant, elle	
+	
+risquerait de causer de graves blessures.	
+Pour réduire le risque de blessures ou de dommages à votre console Xbox 360, installez-la en procédant comme suit.	
+Placez la console sur une surface :	
+Plane et horizontale.	
+Stable, qui ne risque pas de se renverser.	
+Qui permet un contact avec les quatre pieds de la console.	
+Sur laquelle la console ne risque pas de glisser.	
+Propre et exempte de poussière et de débris.	
+Si la surface ou les pieds de la console deviennent sales ou poussiéreux, nettoyez-les avec un chiffon sec. Si la	
+console est en position verticale, déposez- la sur une surface où elle ne risque pas de tomber si elle se renverse.	
+Placez tous les câbles et les cordons de façon à ce que les personnes et les animaux qui se déplacent à cet endroit ne trébuchent pas dessus ou ne les accrochent accidentellement. Lorsque la console n’est pas utilisée, pensez éventuellement à débrancher tous les câbles et cordons à l’avant et à l’arrière de la console pour les garder hors de la portée des enfants et des animaux. Ne laissez pas les enfants jouer avec les câbles et les cordons.	
+	
+Empêchez la console de surchauffer  N’obstruez aucune ouverture de ventilation sur la console ou le bloc d’alimentation. Ne déposez pas la console ou le bloc d’alimentation sur un lit, un canapé ou une autre surface molle qui risquerait d’obstruer les ouvertures de ventilation. Ne placez pas la console ou le bloc d’alimentation dans un espace confiné, par exemple une bibliothèque, une étagère ou un meuble stéréo, sauf si cet espace est bien ventilé.	
+	
+Ne placez pas la console ou le bloc d’alimentation à proximité de sources de chaleur comme les radiateurs, les registres de chaleur, les cuisinières ou les amplificateurs.	
+Évitez la fumée et la poussière  N’utilisez pas la console dans un endroit enfumé ou poussiéreux. La fumée et la poussière peuvent endommager la console, particulièrement son lecteur DVD.	
+	
+VOTRE CONSOLE DE JEU ET DE LOISIRS XBOX 360.	
+	
+Micro/ casque	
+	
+	
+Manuels d'utilisation(2)	
+	
+Xbox 360 Console Manette sans fil	
+Piles	
+	
+	
+Merci d’avoir acheté la console de jeu et de loisirs Xbox 360™ de Microsoft. Ce système vous permet de personnaliser votre expérience et rassemble vos jeux, vos amis et vos divertissements numériques dans un seul produit multifonctionnel.	
+	
+La console de jeu et de loisirs Xbox 360 vous permet de jouer à des jeux Xbox 360, de visionner des films sur DVD et d’écouter des CD audio.	
+Connectez-vous à des millions de joueurs sur Xbox LIVE® avec un service Internet haute vitesse. Entrez instantanément dans un monde où vous pouvez jouer avec d’autres, parler à vos amis et télécharger du nouveau contenu.	
+Transmettez en continu des photos, de la musique, et bien plus, vers votre console Xbox 360 en la connectant à votre ordinateur fonctionnant sous Microsoft® Windows® ou à d’autres périphériques, comme des appareils photo numériques et des lecteurs de musique portatifs.	
+Profitez de la musique et d’autre contenu	
+pré-installé avec votre disque dur Xbox	
+360. Pour de plus amples renseignements sur le disque dur Xbox 360, visitez le site  www.xbox.com.	
+	
+Français	
+	
+Ce symbole identifie des messages relatifs à la sécurité et à la santé dans le présent guide et les guides des accessoires de Xbox 360.	
+Pour obtenir des renseignements importants concernant entre autres votre garantie, consultez le guide Garantie Xbox 360.	
+	
+29  Votre console de jeu et de loisirs Xbox 360	
+	
+30 	
+ Choisissez un emplacement pour votre console	
+	
+31  Connectez la console à votre téléviseur et à votre système audio	
+	
+35 	
+ Branchez la console à une source d’alimentation	
+	
+3@	La manette sans fil Xbox 360
+	
+37 	
+ Installation de votre manette	
+	
+sans fil	
+39   Paramètres de contrôle parental de Xbox 360	
+	
+40	Utilisation du lecteur de disque
+	
+41 	
+ Informations importantes relatives à la sécurité lorsque vous jouez à des jeux vidéo	
+	
+42	Jeux
+	
+42 	
+ Connectez-vous à Xbox LIVE	
+	
+47	Visionnez des films
+	
+Lecture de CD	
+Partagez des fichiers multimédias d’un lecteur audio, appareil photo ou caméra	
+Transmettez des fichiers multimédias à partir de votre ordinateur	
+Stockage	
+Ajoutez des manettes sans fil	
+Branchez des accessoires supplémentaires	
+ Dépannage	
+	
+85	Service à la clientèle

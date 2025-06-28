@@ -1,0 +1,3373 @@
+SGH-T959P			
+			
+T É L É P H O N E	M O B I L E		
+Q u a t r e	b a n d e s		
+			
+Guide d’utilisation			
+			
+Veuillez lire ce guide avant d’utiliser votre téléphone et conservez-le à titre de référence.			
+			
+T959P_GU_FR_20110426_D4			
+			
+Propriété intellectuelle			
+Tous les éléments de propriété intellectuelle définis ci-dessous, qui sont la possession ou la propriété de SAMSUNG ou de ses fournisseurs, et qui ont trait au téléphone SAMSUNG, incluant, de façon non limitative, les accessoires, les pièces ou les logiciels s’y rattachant (le « système téléphonique »), sont des propriétés exclusives de SAMSUNG et sont protégés conformément aux lois fédérales et provinciales, et aux dispositions de traités internationaux. Les éléments de propriété intellectuelle comprennent, de façon non limitative, les inventions (brevetables ou non brevetables), les brevets, les secrets commerciaux, les droits d’auteur, les logiciels, les programmes informatiques et les documents qui s’y rattachent, ainsi que toute autre oeuvre de création. En aucun cas, vous ne pouvez enfreindre ou autrement violer les droits garantis par la propriété intellectuelle. De plus, vous acceptez de ne pas modifier, préparer d’oeuvres dérivées, rétroconcevoir, décompiler, désassembler ou essayer de quelque manière que ce soit de créer un code source à partir des logiciels, ni même de faire toute tentative dans ce sens. Aucun droit ni titre de propriété à l’égard des éléments de propriété intellectuelle ne vous est cédé par la présente. Tous les droits applicables de propriété intellectuelle demeureront la propriété de SAMSUNG et de ses fournisseurs.			
+			
+Droits d’auteur			
+© 2011 Samsung Electronics Canada inc. SAMSUNG est une marque déposée de SAMSUNG Electronics Co., Ltd. et de ses sociétés affiliées.			
+La lettre de marque et les logos BluetoothMD sont des propriétés de Bluetooth SIG Inc. et ces marques sont utilisées sous licence par Samsung Electronics Canada inc. Toutes les autres marques de commerce et tous les autres noms commerciaux appartiennent à leurs propriétaires respectifs.			
+Ce produit intègre une plateforme Android inspirée de Linux, que vous pouvez développer par l’ajout de divers logiciels JavaScript.			
+GoogleMC, Android MarketMC, Google TalkMC, Google MailMC, Google MapsMC et YouTubeMC sont des marques de commerce de Google inc.			
+JavaMC est une marque de commerce de Sun Microsystems inc.			
+Lecteur Windows MediaMC est une marque déposée de Microsoft Corporation.			
+Les logos 			
+ et 			
+ sont des marques de commerce de SRS Labs, Inc. Les technologies CS Headphone et WOW HD sont incorporées sous licence de SRS Labs inc.			
+			
+Wi-FiMD, le logo Wi-Fi CERTIFIED et le logo Wi-Fi sont des marques déposées de Wi-Fi Alliance.			
+			
+DivXMD et DivX CertifiedMD et leurs logos sont des marques de commerce déposées de DivX, inc. et sont utilisés sous licence.			
+Sous un ou plusieurs des brevets américains suivants : 7,295,673;7,460,668;7,515,710;7,519,274			
+			
+À propos de la vidéo DivX			
+DivXMD est un format vidéo numérique créé par DivX, inc. Ceci est un appareil DivX CertifiedMD pouvant lire des vidéos DivX. Visitez  www.divx.com  pour en savoir davantage sur les outils logiciels pouvant convertir vos fichiers en vidéos DivX.			
+			
+À propos de la vidéo sur demande DivX			
+Cet appareil DivX CertifiedMD doit être enregistré avant de pouvoir y faire jouer le contenu des vidéos sur demande DivX que vous achetez. Pour obtenir le code d’enregistrement, rendez-vous à la section Enregistrer DivX dans le menu Paramètres. Accédez à  http://vod.divx.com  pour en savoir davantage sur la façon de compléter l’enregistrement.			
+			
+Pour obtenir le code d’enregistrement du téléphone, allez à  Paramètres → À propos du téléphone →			
+			
+Mentions légales → Paramètres licence → DivX ®  VOD → Enregistrer .			
+			
+Cet appareil DivX CertifiedMD peut lire des vidéos DivXMD de qualité supérieure, jusqu’à HD 720p.			
+			
+Dénégation de garantie; exclusion de responsabilité			
+Sauf tel que stipulé dans la garantie expresse figurant à la page de garantie accompagnant le produit, l'acheteur prend le produit « tel quel », et Samsung ne donne aucune garantie expresse ou tacite que ce soit à l'égard du produit, y compris notamment à propos de la qualité marchande du produit ou de sa convenance à un usage particulier; de la conception, de l'état ou de la qualité du produit; du rendement du produit; de la fabrication du produit ou des composantes qu'il renferme; ou de la conformité du produit aux exigences de tout règlement, toute loi, toute spécification ou tout contrat. Rien, dans le guide d'utilisation, ne pourra être interprété comme créant une garantie expresse ou tacite de quelque nature que ce soit par rapport au produit. Se plus, Samsung ne pourra être tenue responsable de quelque dommage que ce soit pouvant résulter de l'achat ou de l'utilisation du produit, ou du non-respect de la garantie expresse, y compris les dommages indirects, spéciaux ou accessoires, ou encore la perte de profits ou d'avantages prévus.			
+			
+Confidentialité			
+Les lois sur la vie privée et le droit d’auteur du Canada régissent la divulgation, la reproduction et la distribution des données, des médias et d’autres contenus, y compris la musique et les vidéos. Certaines			
+activités, notamment le téléchargement ou le transfert par quelque moyen que ce soit (y compris par câble, par BluetoothMD ou autrement) de tel contenu, peuvent constituer une violation des lois sur la vie privée et le droit d’auteur. Ni Samsung Electronics Canada inc. ni aucune de ses sociétés affiliées ne peuvent être			
+tenues responsables de la divulgation, de la reproduction, du téléchargement ou de la distribution de données par l’utilisateur de cet équipement.			
+Avertissement			
+Selon l’interface utilisateur utilisée sur le téléphone, il arrive parfois que la vitesse de réponse du clavier soit lente lorsque certaines tâches sont exécutées en arrière-plan. Cela peut avoir une incidence sur la composition des appels. S’il n’y a aucune activité ni aucun changement des icônes dans la partie supérieure de l’écran principal, le téléphone reprendra un fonctionnement normal.			
+			
+Table des matières			
+Description de votre téléphone	3		
+			
+Contenu	3		
+			
+Présentation du téléphone	4		
+			
+Touches	5		
+			
+Icônes	5		
+			
+Installer la carte SIM et la pile	6		
+			
+Charger la pile	8		
+			
+Insérer la carte mémoire (optionnel)	10		
+			
+Fixer une dragonne (optionnel)	13		
+			
+Mise en route	14		
+			
+Allumer et éteindre votre téléphone	14		
+			
+Utiliser l’écran tactile	15		
+			
+Utiliser l’écran de veille	17		
+			
+Accéder à des applications	19		
+			
+Personnaliser votre téléphone	20		
+			
+Entrer du texte	24		
+			
+Android Market	28		
+			
+i			
+			
+ii			
+			
+Point d’accès mobile	87		
+			
+Connecter le téléphone à une télé (Mode sortie TV) 88   Connecter le téléphone à un ordinateur	89		
+			
+Modem USB	92		
+			
+Outils	93		
+			
+Horloge	93		
+			
+Calculatrice	95		
+			
+Mini journal	96		
+			
+Fichiers	97		
+			
+ThinkFree Office	97		
+			
+Write and go	99		
+			
+Commande vocale	99		
+			
+Recherche vocale	100		
+			
+Navigation	100		
+			
+Kobo	101		
+			
+Mode Voiture	102		
+			
+Mode Bureau	103		
+			
+Samsung Apps	104		
+			
+Gestionnaire de tâches	105		
+			
+Paramètres	106		
+			
+Paramètres	106		
+			
+Sans fil et réseau	106		
+			
+Appels	108		
+			
+Son	110		
+			
+Affichage	111		
+			
+Localisation et sécurité	112		
+			
+Applications	113		
+			
+Comptes et synchronisation	114		
+			
+Confidentialité	115		
+			
+Carte SD et mémoire	115		
+			
+Paramètres de langue	115		
+			
+Entrée et sortie voix	118		
+			
+Accessibilité	119		
+			
+Date et heure	119		
+			
+iii			
+			
+À propos du téléphone	120		
+			
+Résolution des problèmes	121		
+			
+Renseignements sur la santé et la sécurité	126		
+			
+Obtenir la meilleure réception possible	126		
+			
+Assurer une utilisation sécuritaire et un accès approprié au téléphone	128		
+			
+Entretien de la pile	132		
+			
+Précautions spéciales et avis d’Industrie Canada 133   Débit d’absorption spécifique (DAS) des téléphones sans fil	134		
+			
+Renseignements pour le propriétaire	135		
+			
+Garantie du fabricant	136		
+			
+Garantie limitée standard	136		
+iv			
+			
+Présentation			
+du guide d’utilisation			
+Liste des icônes			
+Avant de commencer à utiliser votre le téléphone, familiarisez-vous avec les icônes présentées dans ce guide			
+:			
+Avertissement  : situations où il y a risque de blessure.			
+			
+Attention  : situations où il y a risque d’endommager votre le téléphone ou son équipement.			
+			
+Nota  : notes, astuce ou toute information complémentaire.			
+			
+Se référer à  : pages contenant de l’information pertinente; par exemple : p. 12 (signifie « se référer à la page 12 »).			
+			
+1			
+			
+	Suivi de :  l’ordre des options ou des menus à sélectionner. Par exemple : Sélectionnez		
+			
+Messages    Nv message  (signifie  Messages , suivi de  Nv message ).			
+			
+[ ]	Crochets  : touche du téléphone. Par exemple : [ 		
+ ] (représente la touche Allumer).			
+			
+2			
+			
+Contenu			
+Votre boite contient les éléments suivants :			
+Pile			
+Casque stéréo			
+Guide d’utilisation			
+N'utilisez que des logiciels approuvés par Samsung. Les logiciels piratés ou illégaux peuvent endommager ou entrainer une dysfonction, ce qui n'est pas couvert par la garantie du fabricant.			
+			
+ Les éléments fournis avec votre téléphone et les			
+			
+accessoires disponibles varient selon la région et le fournisseur de services. Vous pouvez obtenir d’autres accessoires auprès de votre détaillant Samsung.			
+			
+Présentation du téléphone			
+Vue avant du téléphone			
+Écouteur			
+			
+Objectif avant			
+Vue arrière du téléphone			
+			
+Prise pour			
+casque d’écoute	Prise		
+			
+Capteur de proximité Capteur optique			
+Touche de volume			
+			
+Touche Accueil			
+Touche Menu			
+de l’appareil photo			
+			
+Écran tactile			
+			
+Touche Recherche			
+			
+Touche Retour Microphone			
+Objectif arrière de l’appareil			
+photo			
+Touche Allumer/ Verrouiller			
+multifonction			
+Hautparleur			
+			
+Couvercle			
+			
+Antenne interne			
+			
+Touches	Icônes		
+			
+Les icônes apparaissant à votre écran varient selon la région et le fournisseur de services.			
+			
+Icône	Description		
+	Pas de signal		
+	Intensité du signal		
+	Réseau GPRS connecté		
+	Réseau EDGE connecté		
+	Réseau UMTS connecté		
+	WLAN activé		
+	Bluetooth activé		
+	Appareil Bluetooth connecté		
+	GPS activé		
+	Appel vocal en cours		
+			
+			
+Icône	Description		
+	Itinérance (hors de la zone de service normale)		
+	Profil Discret activé		
+	Mode Hors-ligne activé		
+	Mode Vibration actif quand le profil Discret est activé		
+	Lecture de musique en cours		
+	Erreur survenue ou attention requise!		
+	Niveau de la pile		
+	Heure actuelle		
+Installer la carte  SIM et la pile			
+			
+Quand vous vous abonnez à un réseau  cellulaire, vous recevez une carte enfichable SIM contenant tous les détails de votre abonnement, tels que votre NIP (numéro			
+			
+d’identification personnel) et les services optionnels que vous avez choisis.			
+Pour installer la carte SIM et la pile :			
+Si le téléphone est allumé, tenez la touche [ 			
+ ] enfoncée et sélectionnez  Mise hors tension  pour l’éteindre.			
+			
+Retirez le couvercle de la pile.			
+			
+Prenez soin de ne pas briser vos ongles lorsque vous retirez le couvercle.			
+Insérez la carte SIM.			
+			
+Insérez la carte SIM avec les contacts métalliques vers le bas.			
+En l’absence d’une carte SIM, votre accès se limite aux services hors réseau et à certains menus du téléphone.			
+			
+N’insérez pas une carte mémoire dans l’emplacement d’une carte SIM.			
+			
+Insérez la pile.			
+			
+Replacez le couvercle de la pile.			
+Charger la  pile			
+			
+Avant d’utiliser le téléphone pour la première fois, vous devez charger la pile. Vous pouvez charger le téléphone avec le chargeur inclus ou en le connectant à un ordinateur au moyen d’un câble de données.			
+N'utilisez que des chargeurs ou des câbles approuvés par Samsung. L'utilisation de chargeurs ou de câbles non autorisés peut causer l'éclatement de la pile ou endommager l'le téléphone.			
+			
+Lorsque la pile est faible, le téléphone émet une tonalité d’avertissement et un message de pile faible s’affiche. L'icône de la pile 			
+ représente alors une pile vide et se met à clignoter. Si le niveau de charge de la pile descend trop bas, le téléphone s’éteint automatiquement. Rechargez la pile pour continuer à l’utiliser.			
+			
+Pour charger la pile avec le charge ur :			
+			
+Coulissez le couvercle de la prise multifonction sur le dessus de le téléphone.			
+Branchez la petite extrémité du chargeur dans la prise multifonction.			
+Branchez la fiche du chargeur dans la prise de courant.			
+Vous pouvez utiliser le téléphone pendant qu’il se recharge, mais la recharge prendra plus de temps.			
+Pendant la recharge, la température de votre téléphone peut monter. C’est normal. La durée d’utilisation et le rendement de l'appareil n’en sont pas affectés.			
+Si votre téléphone ne se charge pas correctement, apportez-le avec votre chargeur à votre détaillant Samsung.			
+			
+			
+Un branchement inadéquat peut endommager votre téléphone. Aucun dommage causé par une mauvaise utilisation n’est couvert par la garantie.			
+			
+Lorsque la recharge est terminée (l’icône de la pile 			
+ cesse de bouger), débranchez le chargeur de la prise de courant, puis du téléphone.			
+			
+Ne retirez pas la pile avant de débrancher le chargeur, vous pourriez endommager le téléphone.			
+			
+Refermez le couvercle de la prise multifonction.			
+			
+Pour charger la pile à l’aide du câble de  données :			
+			
+Coulissez le couvercle de la prise multifonction sur le dessus du téléphone.			
+Branchez l’extrémité micro USB du câble de données de votre ordinateur à la prise multifonction du téléphone. Branchez l’autre extrémité du câble de données dans le port USB de l’ordinateur.			
+Selon le type de câble de données d’ordinateur que vous utilisez, cela pourrait prendre du temps avant que la recharge ne débute.			
+			
+Lorsque la pile est entièrement rechargée (et que l’icône de la pile 			
+ ne bouge plus), débranchez le câble de données du téléphone, puis de l’ordinateur.			
+			
+Insérer la carte  mémoire (optionnel)			
+			
+Pour stocker des fichiers multimédias et utiliser certaines fonctions du téléphone comme l’appareil photo, vous devez insérer une carte mémoire. Votre téléphone peut prendre en charge des cartes mémoire microSDMC ou microSDHCMC d’une capacité allant jusqu’à 32 Go de mémoire (selon le fabricant et le type de carte mémoire).			
+Samsung utilise des normes industrielles approuvées pour les cartes mémoire, mais certaines marques ne sont pas compatibles avec votre téléphone.			
+			
+L'utilisation d'une carte mémoire incompatible peut endommager votre téléphone ou la carte mémoire et ainsi corrompre les données enregistrées dans la carte.			
+			
+			
+Votre téléphone ne prend en charge que la structure de fichier FAT pour les cartes mémoire. Si vous insérez une carte mémoire formatée avec une autre structure de fichier, le téléphone vous demandera de la reformater.			
+			
+L'écriture et l'effacement répétés de données réduiront la durée de vie des cartes mémoire.			
+Pour insérer la carte  mémoire :			
+			
+Retirez le couvercle de la pile. Insérez la carte mémoire avec les contacts métalliques vers le bas.			
+			
+Poussez la carte mémoire jusqu’à ce qu’elle soit verrouillée dans son logement.			
+Fermez le couvercle de la pile.			
+			
+Pour retirer la carte mémo ire :			
+			
+Avant de retirer la carte mémoire, vous devez d’abord désactiver (ou démonter) la carte SD.			
+Ne retirez jamais une carte mémoire pendant le transfert de données ou lors de l’accès à de l’information, car vous pourriez perdre vos données ou endommager la carte mémoire ou le téléphone.			
+			
+En mode veille, sélectionnez  Applications  →  Paramètres  →  Carte SD et mémoire  →  Démonter la carte SD  →  OK .			
+			
+Retirez le couvercle de la pile.			
+Poussez délicatement la carte mémoire jusqu’à ce qu’elle s’éjecte du téléphone.			
+Tirez la carte mémoire de son logement.			
+Retirez la carte mémoire.			
+Replacez le couvercle de la pile.			
+Pour formater la carte  mémoire :			
+			
+Le formatage de votre carte mémoire dans votre ordinateur peut entrainer une incompatibilité entre la carte et le téléphone. Ne formatez la carte mémoire que lorsqu’elle est insérée dans le téléphone. La carte mémoire doit d’abord être démontée avant d’être formatée.			
+En mode veille, sélectionnez  Applications  →  Paramètres  →  Carte SD et mémoire  →  Démonter la carte SD  →  OK .			
+			
+Avant de formater la carte mémoire, n'oubliez pas de faire une copie de sauvegarde de toutes les données importantes enregistrées dans le téléphone. La garantie du fabricant ne couvre pas la perte de données à la suite d'une action de l'utilisateur.			
+			
+Sélectionnez  Formater la carte SD → Formater la carte SD → Supprimer tout .			
+			
+			
+Fixer une dragonne  (optionnel)			
+			
+Pour attacher une dragonne à votre téléphone :			
+Retirez le couvercle de la pile. Faites glisser la dragonne dans l’espace prévu à cette fin et fixez-la.			
+			
+Replacez le couvercle de la pile.			
+			
+Allumer et éteindre votre  téléphone			
+			
+Tenez la touche [ 			
+ ] enfoncée pour allumer le téléphone. Il se connecte automatiquement au réseau. Lorsque vous allumez votre téléphone pour la première fois, tapez l’image Android à l’écran et suivez les directives pour configurer le téléphone pour la prochaine fois.			
+			
+Il est possible que des frais vous soient facturés pour une connexion de données, car la connexion au serveur Web Google est toujours active par défaut.			
+			
+Pour éteindre le téléphone :			
+Tenez la touche [ 			
+ ] enfoncée.			
+			
+Sélectionnez  Mise hors tension .			
+			
+			
+Respectez les écriteaux, les règlements, ainsi que les directives du personnel lorsque vous êtes dans des zones où l’utilisation des appareils sans fil est restreinte comme dans les avions et les hôpitaux.			
+			
+Pour utiliser uniquement le service hors ligne de l’appareil, passez au mode Hors-ligne. Tenez la touche [ 			
+ ] enfoncée et sélectionnez 			
+Mode Hors- ligne .			
+			
+Utiliser l’écran  tactile			
+			
+L’écran tactile vous permet de sélectionner facilement des éléments ou d’exécuter des fonctions.			
+Pour éviter d'égratigner l'écran tactile, n'utilisez pas d'outils pointus.			
+Évitez de mettre l'écran tactile en contact avec d'autres appareils électriques. Les décharges électrostatiques peuvent nuire au fonctionnement de l'écran tactile.			
+Évitez d'exposer l'écran tactile à tout liquide. L'écran tactile peut cesser de fonctionner correctement dans des conditions humides ou s'il est exposé à l'eau.			
+Pour une meilleure réponse de l’écran tactile, retirez le film de protection.			
+			
+Votre écran tactile possède une couche qui détecte les petites charges électriques émises par le corps humain. Pour une meilleure réponse de l’écran tactile, touchez l'écran du bout du doigt.			
+			
+Maitrisez votre écran tactile au moyen de ces actions :			
+Touchez  : touchez une fois l'écran du bout du doigt pour sélectionner ou lancer un menu, une option ou une application.			
+			
+Touchez fermement  : touchez et pressez un élément plus de 2 secondes pour ouvrir une liste contextuelle d'options.			
+Défilez  : déplacez votre doigt vers le haut, le bas, la gauche ou la droite pour faire défiler les éléments d’une liste.			
+			
+Tirez et relâchez  : touchez fermement un élément et glissez-le avec le doigt pour le déplacer.			
+			
+Touchez deux fois  : touchez deux fois rapidement du bout du doigt pour faire un zoom avant ou arrière lors de la visualisation de photos ou de pages Web.			
+			
+Votre téléphone éteint l’éclairage de l’écran tactile lorsqu’il n’est pas utilisé pendant une période de temps déterminée. Pour rallumer l’écran, pressez [ 			
+ ], suivi d’un glissé du doigt dans la fenêtre grise.			
+			
+Vous pouvez aussi ajuster la durée du rétroéclairage. En mode veille, sélectionnez  Applications  →  Paramètres  → 			
+Affichage  →  Mise en veille de l’écran .			
+			
+Pour verrouiller/déverrouiller l’écran tactile et les touches :			
+Vous pouvez verrouiller l’écran tactile et les touches afin d’éviter l’exécution d’opérations non désirées.			
+Pour verrouiller, pressez [ 			
+ ].			
+			
+Pour déverrouiller, allumez l’écran tactile en pressant [ 			
+ ], suivi d’un glissé du doigt dans la fenêtre verrouillée.			
+			
+Utiliser l’écran de  veille			
+			
+Lorsque le téléphone s’allume ou est en mode veille, l’écran de veille s’affiche. À partir de cet écran, vous pouvez accéder à des applications et voir le statut de votre téléphone.			
+L’écran de veille est doté de sept (7) panneaux. Déplacez- vous vers la gauche ou la droite pour passer d’un panneau à l’autre. Vous pouvez également sélectionner un point au haut de l’écran pour déplacer le panneau correspondant de l’écran de veille.			
+Ajouter des éléments à l’écran de veille			
+Vous pouvez personnaliser votre écran de veille en y ajoutant des raccourcis vers des applications ou des éléments dans les applications, widgets ou dossiers.			
+Pour ajouter des éléments à l’écran de veille :			
+Pressez [ 			
+ ]  → Ajouter .			
+			
+Sélectionnez une catégorie d’éléments, puis un élément :			
+Widgets  : ajoute des widgets à l’écran de veille.			
+			
+Raccourcis  : ajoute des raccourcis aux éléments (tels que Applications, Favori, Contacts).			
+			
+Dossiers  : crée un nouveau dossier ou ajoute des dossiers pour les contacts.			
+Fonds d’écran  : définit une image d’arrière-plan.			
+			
+Les options disponibles peuvent varier selon l’écran de veille en cours.			
+			
+Pour déplacer des éléments dans l’écran de veille :			
+Touchez fermement l’élément que vous souhaitez déplacer.			
+Tirez-le vers le nouvel emplacement. Pour retirer des éléments de l’écran de veille :			
+Touchez fermement l’élément que vous souhaitez retirer.			
+			
+L’élément est mis en évidence et l’icône 			
+ s’affiche, indiquant que l’onglet Corbeille est activé.			
+			
+Tirez l’élément jusqu’à la corbeille.			
+Quand l’élément et l’onglet Corbeille passent au rouge, relâchez l’élément. Utiliser le panneau des raccourcis			
+En mode veille ou lors de l’utilisation d’une application, touchez la zone des icônes au haut de l’écran tactile et déplacez votre doigt vers le bas pour voir le panneau des raccourcis. Vous pouvez activer ou désactiver les fonctionnalités de connexion et accéder à une liste de notifications, telles que messages, appels, évènements ou état d’exécution.			
+Pour masquer le panneau des raccourcis, tirez le bas de la liste vers le haut.			
+Dans le panneau des raccourcis, vous pouvez utiliser les options suivantes :			
+Wi-Fi  : active ou désactive la connexion WLAN. ►  p. 83			
+			
+Bluetooth  : active ou désactive la connexion sans fil Bluetooth. ►  p. 81			
+			
+GPS  : active ou désactive le mode GPS.			
+			
+Son  : active ou désactive le mode Silencieux.			
+			
+Rotation auto  : active ou désactive le mode Rotation auto.			
+			
+Votre appareil comprend un capteur de mouvement qui lui permet de détecter son orientation. Si, du mode portrait, vous tournez l'appareil pendant l'utilisation de certaines fonctions, l'interface passe automatiquement en mode paysage. Pour conserver l'orientation portrait de l'interface lorsque vous tournez l'appareil à l’horizontale, désactivez Rotation auto dans le panneau des raccourcis. Vous pouvez aussi définir ce paramètre en sélectionnant  Paramètres  →  Affichage  → 			
+Faire pivoter autom. écran .			
+			
+Ajouter ou retirer des panneaux de l’écran de veille			
+Vous pouvez ajouter ou retirer des panneaux de l’écran de veille pour organiser les widgets selon vos préférences.			
+En mode veille, pressez [ 			
+ ] →  Modifier .			
+			
+Vous pouvez aussi placer deux doigts sur l’écran et taper pour passer en mode Modifier.			
+Ajouter ou retirer des panneaux en suivant les étapes suivantes :			
+Pour retirer un panneau, touchez fermement son image et tirez-la vers la corbeille au bas de l’écran.			
+Pour t un nouveau panneau, sélectionnez 			
+.			
+			
+Pour modifier l’ordre des panneaux, touchez fermement l’image du panneau que vous souhaitez déplacer et tirez-la vers l’endroit voulu.			
+Lorsque vous avez terminé, pressez [ 			
+ ].			
+			
+Accéder à des  applications			
+			
+Pour accéder aux applications de votre téléphone :			
+En mode veille, sélectionnez  Applications  pour ouvrir la liste des applications.			
+Déplacez-vous vers la gauche ou vers la droite pour afficher les écrans des applications.			
+Vous pouvez aussi sélectionner un point au haut de l’écran pour vous déplacer directement vers le menu principal correspondant.			
+Sélectionnez une application.			
+Pour utiliser des applications fournies par Google, vous devez avoir un compte Google. Si vous n’avez pas de compte Google, vous devez en créer un.			
+			
+Vous pouvez ajouter un raccourci vers une application en touchant fermement l’icône de l’application voulue dans la liste des applications. Vous pouvez alors déplacer la nouvelle icône vers l’écran de veille.			
+			
+Pressez [ 			
+ ]pour revenir à l’écran précédent ou [ 			
+ ] pour revenir à  l’écran de veille.			
+			
+Pour organiser les applications :			
+Vous pouvez réorganiser les applications dans la liste des applications en modifiant leur ordre ou en les groupant par catégories selon vos préférences et besoins. Dans la liste des applications, pressez [ 			
+ ] →			
+			
+Modifier .			
+			
+Touchez longuement une application.			
+Tirez l’icône de l’application vers un nouvel emplacement.			
+Vous pouvez déplacer une icône d’application vers un autre écran de menu principal et vous pouvez aussi déplacer vos applications les plus utilisées dans la barre d’application au bas de l’écran, près de l’icône  Accueil .			
+			
+Pressez [ 			
+ ] →  Enregistrer .			
+			
+Pour accéder aux applications récentes :			
+Tenez la touche [ 			
+ ] enfoncée pour ouvrir la liste des applications auxquelles vous avez accédé récemment.			
+			
+Sélectionnez l’application que vous voulez ouvrir.			
+Personnaliser votre  téléphone			
+			
+Vous pouvez profiter pleinement de votre téléphone en le personnalisant selon vos préférences et besoins.			
+Pour régler la date et l’heure :			
+En mode veille, sélectionnez  Applications  →			
+			
+Paramètres  →  Date et heure .			
+			
+Réglez la date et l’heure et changez les autres options selon vos besoins.			
+Pour activer/désactiver le son du pavé :			
+En mode veille, sélectionnez  Applications  →			
+			
+Paramètres → Son  →  Sélection sonore .			
+			
+Pour ajuster le volume de la sonnerie :			
+En mode veille, pressez la touche volume du haut ou du bas pour ajuster le niveau de volume de la sonnerie.			
+Pour permuter entre profil Discret et Son :			
+Pour activer ou désactiver les sons du téléphone, utilisez l’une des options suivantes :			
+En mode veille, sélectionnez  Téléphone  →  Clavier  et tenez fermement la touche  # .			
+			
+En mode veille, tenez la touche [ 			
+ ] enfoncée et sélectionnez  Profil  Discret .			
+			
+Pour changer la sonnerie :			
+En mode veille, sélectionnez  Applications  →			
+			
+Paramètres → Son  →  Sonnerie du téléphone .			
+			
+Sélectionnez une sonnerie dans la liste, puis faites  OK .			
+			
+Pour activer des animations lors du changement de fenêtre :			
+En mode veille, sélectionnez  Applications  →  Paramètres → Affichage  →  Animation → Certaines animations  ou 			
+Toutes les animations .			
+			
+Pour sélectionner le papier peint pour l’écran de veil le :			
+En mode veille, pressez [ 			
+ ] →  Fond d’écran , puis sélectionnez une option.			
+			
+Sélectionnez une image.			
+Sélectionnez  Sauveg.  ou  Sélectionner un papier peint..			
+			
+Samsung n’est pas responsable de l’utilisation des images et papiers peints par défaut fournis avec votre téléphone.			
+			
+Pour ajuster la luminosité de l’affichage :			
+Vous pouvez ajuster manuellement le niveau de luminosité en désactivant l’option de contrôle automatique de la luminosité, puis en glissant le curseur vers la gauche ou la droite.			
+En mode veille, sélectionnez  Applications  →			
+Paramètres → Affichage  →  Luminosité .			
+			
+Décochez la fonction  Luminosité automatique .			
+			
+Glissez le curseur pour ajuster le niveau de luminosité.			
+Faites  OK .			
+			
+Le niveau de luminosité affectera la durée de la charge de la pile du téléphone.			
+			
+Pour définir le verrouillage de l’écran :			
+Vous pouvez verrouiller l’écran tactile de votre téléphone avec un modèle de verrouillage, un NIP ou un mot de passe			
+afin d’en empêcher l’utilisation non autorisée.			
+Une fois le verrouillage défini, le téléphone demandera un code de déverrouillage à chaque fois que vous l’allumerez ou que vous voudrez déverrouiller l’écran tactile.			
+			
+Si vous oubliez votre NIP ou votre mot de passe, apportez votre téléphone à un Centre de services Samsung pour le faire déverrouiller. N’oubliez pas de faire des copies de sauvegarde de toutes vos données importantes stockées dans votre téléphone.			
+Samsung n’est responsable d’aucune perte de codes de sécurité ou d’information confidentielle.			
+			
+Pour définir un modèle de déverrouillage  :			
+			
+Vous pouvez définir une figure de déverrouillage afin de prévenir l’utilisation non autorisée du téléphone.			
+En mode veille, sélectionnez  Applications  →  Paramètres → Localisation et sécurité  →  Définir verrouillage  → 			
+Modèle .			
+			
+Suivez les directives à l’écran et sélectionnez  Suivant			
+			
+(si nécessaire).			
+Dessinez avec le doigt à l’écran un modèle reliant un minimum de 4 points.			
+Sélectionnez  Continuer .			
+			
+Dessinez à nouveau le même modèle pour confirmer.			
+Sélectionnez  Confirmer .			
+			
+Pour définir un NIP de déverrouillage :			
+En mode veille, sélectionnez  Applications  →  Paramètres → Localisation et sécurité  →  Définir verrouillage  → 			
+Code PIN .			
+			
+Entrez un nouveau NIP (numérique) et sélectionnez			
+Continuer .			
+Entrez de nouveau le NIP et sélectionnez  OK . Pour définir un mot de passe de déverrouillage :			
+			
+En mode veille, sélectionnez  Applications  →  Paramètres → Localisation et sécurité  →  Définir verrouillage → Mot de passe			
+.			
+			
+Entrez un nouveau mot de passe (alphanumérique) et sélectionnez  Continuer .			
+			
+Entrez de nouveau le mot de passe et sélectionnez			
+OK ..			
+Si vous ne voulez qu’un modèle, un NIP ou un mot de passe soit requis pour utiliser le téléphone, sélectionnez 			
+Applications  →  Paramètres → Localisation et sécurité  →  Modif. verrouillage écran  et sélectionnez  Aucun  dans les paramètres de déverrouillage. Vous devrez d’abord confirmer le modèle, le NIP ou le mot de passe défini pour afficher les paramètres de déverrouillage de l’écran.			
+			
+Pour verrouiller votre carte SIM :			
+Vous pouvez verrouiller votre téléphone en activant un NIP fourni avec votre carte SIM.			
+En mode veille, sélectionnez  Applications  →  Paramètres → Localisation et sécurité → Configurer blocage SIM → Verrouiller carte SIM			
+.			
+			
+Entrez votre NIP et sélectionnez  OK .			
+			
+Une fois le NIP activé, vous devez entrer le NIP chaque fois que vous allumez le téléphone.			
+Si vous entrez trop souvent un NIP incorrect, votre carte SIM sera bloquée. Vous devez entrer un PIN de déverrouillage (PUK) pour débloquer la carte SIM.			
+			
+Si vous bloquez votre carte SIM en entrant un PUK incorrect, apportez la carte à votre fournisseur de services pour la faire débloquer.			
+			
+Entrer du  texte			
+			
+Vous pouvez saisir du texte en touchant des caractères sur le clavier virtuel ou en utilisant l'écriture manuscrite sur			
+			
+l'écran. Vous pouvez entrer du texte et créer des messages ou des contacts.			
+Vous ne pouvez entrer du texte dans certaines langues. Pour entrer du texte, vous devez sélectionner une des langues de saisie prises en charge. ►  p. 116			
+			
+Pour changer de type de clavier pour la saisie de texte :			
+Vous pouvez changer le type de clavier utilisé pour la saisie de texte. Touchez fermement le champ de saisie de texte, sélectionnez  Mode de saisie , puis sélectionnez un type de clavier ( Clavier Swype  ou  Clavier Samsung ).			
+			
+Utiliser le clavier Swype			
+Pour entrer du texte au moyen du clavier Swype :			
+Sélectionnez le premier caractère d’un mot et glissez le doigt vers le deuxième caractère sans soulever le doigt			
+de l’écran. Une ligne est tracée entre les caractères sélectionnés.			
+Faites un court arrêt sur le deuxième caractère, puis dirigez votre doigt jusqu’au prochain.			
+Continuez de glisser le doigt d’une lettre à l’autre jusqu’à la fin du mot.			
+Soulevez le doigt une fois la dernière lettre entrée. Le mot s’insère dans la champ de saisie de texte.			
+Répétez les étapes 1 à 4 pour continuer d’entrer du texte.			
+			
+Touchez fermement chaque touche correspondant aux autres caractères voulus. Vous pouvez également utiliser les touches suivantes. :			
+Pour masquer le clavier Swype, pressez [ 			
+ ].			
+			
+Si le chemin que vous avez tracé correspond à plusd’un mot, Swype affiche des mots parmi lesquels choisir.			
+			
+Pour afficher de l’aide sur l’utilisation du clavier Swype, touchez fermement la touche 			
+.			
+			
+Utiliser le clavier  Samsung			
+			
+Pour entrer du texte à l’aide du clavier Samsung : 1. Entrez le texte en touchant les touches alphabétiques.			
+			
+Vous pouvez aussi utiliser les touches suivantes :	Pour changer la langue du clavier		
+Si plus d’une langue de saisie est activée dans les paramètres du clavier Samsung ( ► p. 117 ), la langue en cours est indiquée sur la barre d’outils et vous pouvez changer celle-ci en glissant le doigt sur la barre d’espacement jusqu’à ce que la langue voulue apparaisse dans la boite de sélection.			
+			
+Copier et coller du texte			
+Lorsque vous saisissez du texte, vous pouvez utiliser les fonctions copier et coller afin d’utiliser le texte dans une autre application.			
+Pour copier et coller du texte : Touchez fermement le champ de saisie de texte.			
+Sélectionnez  Sélectionner texte  dans la liste d’options.			
+			
+Parcourez du doigt le texte à mettre en évidence.			
+Touchez fermement le texte mis en évidence.			
+Sélectionnez  Copier  pour copier ou  Couper  pour couper le texte du presse-papier.			
+			
+Dans une autre application, touchez fermement le champ de saisie de texte.			
+Sélectionnez  Coller  pour insérer le texte du presse- papier dans le champ voulu.			
+			
+Android Market			
+			
+Android Market vous permet de magasiner des jeux et des applications mobiles. La plateforme Android sur laquelle est basée la fonctionnalité de votre téléphone peut s’étendre avec l’installation d’autres applications.			
+Selon votre région, cette fonctionnalité pourrait ne pas être disponible.			
+			
+Pour installer une application :			
+En mode veille, sélectionnez  Applications  →  Android Market .			
+			
+Sélectionnez  Accepter  dans la page des conditions d’utilisation.			
+			
+Sélectionnez une catégorie d’éléments, puis un élément.			
+Sélectionnez  Installer  (pour les éléments gratuits) ou			
+			
+Acheter .			
+			
+Si vous sélectionnez  Installer , faites  OK  pour lancer le téléchargement de l’élément.			
+			
+Si vous sélectionnez  Acheter , vous devez entrer l’information de votre carte de crédit. Suivez les directives à l’écran.			
+			
+Pour désinstaller une application :			
+Dans l’écran d’accueil d’Android Market, pressez [ 			
+ ]			
+			
+→  Mes applications  ou  Téléchargements.			
+			
+Sélectionnez l’élément que vous voulez supprimer.			
+Sélectionnez  Désinstaller  →  OK .			
+Télécharger des fichiers sur le Web			
+			
+Lorsque vous téléchargez des fichiers ou des applications Web, votre téléphone les sauvegarde dans une carte mémoire.			
+			
+Les fichiers que vous téléchargez sur le Web peuvent contenir des virus qui endommageront votre téléphone. Pour réduire ce risque, ne téléchargez que des fichiers à partir de sources fiables.			
+			
+Certains fichiers multimédias sont régis par une gestion des droits numériques afin de protéger les droits d’auteur. Cette protection pourrait vous empêcher de télécharger, copier, modifier ou transférer des fichiers.			
+			
+Pour télécharger des fichiers à partir du Web :			
+En mode veille, sélectionnez  Applications  →			
+			
+Navigateur .			
+			
+Recherchez des fichiers ou applications et téléchargez- les.			
+			
+Pour installer des applications téléchargées depuis des sites Web autres que Android Market, vous devez sélectionner  Applications  →  Paramètres  →  Applications  →  Sources inconnues  (touchez pour cocher).			
+			
+Pour voir l’historique de téléchargement En mode veille, sélectionnez  Applications  →			
+			
+Navigateur .			
+			
+Pressez [ 			
+ ]  → Plus  →  Gestionnaire de téléchargements .			
+			
+Pour annuler le téléchargement, pressez [ 			
+ ] →			
+			
+Annuler tous les téléchargements .			
+			
+Synchroniser des données			
+Vous pouvez synchroniser des données avec divers serveurs Web et sauvegarder ou restaurer vos données.			
+Une fois la synchronisation complétée, votre téléphone demeure connecté au Web. Si un changement est fait sur le Web, l’information mise à jour apparait sur votre téléphone et la synchronisation démarre automatiquement. La synchronisation s’effectue également si un changement est fait dans le téléphone.			
+Selon votre région, cette fonctionnalité pourrait ne pas être disponible.			
+			
+Pour synchroniser votre téléphone avec le serveur Google, vous devez avoir un compte Google. Si vous n’avez pas de compte Google, vous devez en créer un en sélectionnant  Créer  dans le premier écran de configuration.			
+			
+Pour configurer un compte serveur :			
+En mode veille, sélectionnez  Applications  →			
+			
+Paramètres → Comptes et synchronisation .			
+			
+Sélectionnez  Ajouter un compte , puis un type de compte.			
+			
+Suivez les directives à l’écran pour la configuration du compte.			
+Pour les services de réseaux sociaux, tels que Facebook, Twitter ou MySpace, entrez le nom d’utilisateur et le mot de passe et sélectionnez  Se connecter .			
+			
+Pour activer la synchronisation automatique :			
+Si vous ajoutez ou modifiez des données dans une ou l’autre des applications Web (Google Mail, Calendrier et Contacts), l’information sera mise à jour dans votre téléphone de même qu’à l’inverse.			
+En mode veille, sélectionnez  Applications  →			
+			
+Paramètres  → Comptes et synchronisation .			
+			
+Sélectionnez  Synchronisation auto .			
+			
+Sélectionnez les applicaitons que vous souhaitez synchroniser.			
+Pour exclure certaines applications de la synchronisation  automatique, décochez-les simplement.			
+			
+Pour synchroniser des données manuellement :			
+En mode veille, sélectionnez  Applications  →			
+			
+Paramètres → Comptes et synchronisation .			
+Sélectionnez un compte.			
+Pressez [ 			
+ ]  → Synchroniser maintenant . Le téléphone enclenche la synchronisation des données choisies par vous pour la synchronisation.			
+			
+Appels			
+Les fonctions d’appel vous permettent de faire ou de recevoir des appels, d’utiliser des options pendant un appel ou de personnaliser et d’utiliser d’autres fonctions.			
+Faire un appel  et répondre à un appel			
+			
+Pour faire un appel :			
+En mode veille, sélectionnez  Téléphone .			
+			
+Entrez un indicatif régional et un numéro de téléphone.			
+Sélectionnez 			
+ pour faire un appel.			
+			
+Lorsque vous tenez le téléphone près de votre visage, le capteur de proximité le détecte et l’écran tactile est désactivé pour éviter les touches accidentelles.			
+			
+Pour mettre fin à l’appel, sélectionnez  Fin .			
+			
+Utilisez les Favoris pour accéder rapidement à vos numéros favoris ou les plus fréquemment composés,			
+			
+p. 66 .			
+			
+Pour accéder rapidement au journal des appels afin de recomposer un numéro récent, sélectionnez  Téléphone → Journaux			
+.			
+			
+Utilisez la commande vocale pour composer un numéro avec la voix.			
+Pour répondre à un  appel :			
+			
+Lorsque vous recevez un appel, glissez le curseur			
+Accepter .			
+			
+Lorsque le téléphone émet une sonnerie, pressez la touche de volume pour éteindre la sonnerie.			
+			
+Pour mettre fin à l’appel, sélectionnez  Fin .			
+			
+Pour rejeter un appel  :			
+			
+Lorsque vous recevez un appel, glissez le curseur  Refuser . L’appel sera dirigé vers votre messagerie vocale.			
+			
+Pour envoyer un message à la suite du rejet d’un appel, glissez l’icône  Refus avec message  et sélectionnez un message.			
+Pour faire un appel à l’étranger :			
+En mode veille, sélectionnez  Téléphone  et touchez longuement la touche  0  pour insérer le caractère  + .			
+			
+Saisissez le numéro que vous voulez composer (indicatif de pays, indicatif régional et numéro de téléphone), puis sélectionnez 			
+ pour composer le numéro.			
+			
+Pour faire un appel à partir des  Contacts :			
+			
+Vous pouvez faire des appels directement à partir des numéros stockés dans vos Contacts. ▶  p. 65			
+			
+En mode veille, sélectionnez  Contacts .			
+			
+Sélectionnez le nom d’un contact.			
+Sélectionnez le numéro  que vous voulez composer. Pour utiliser le casque d’écoute :			
+En branchant le casque d’écoute au téléphone, vous pouvez faire des appels et y répondre :			
+Répondre à un appel  : pressez le bouton du casque.			
+			
+Rejeter un appel  : touchez longuement la touche casque.			
+			
+Mettre un appel en attente ou reprendre un appel en attente  : pressez longuement la touche casque.			
+			
+Mettre fin à un appel  : pressez la touc he casque.			
+			
+Le casque fourni est conçu pour être utilisé uniquement avec votre téléphone et pourrait ne pas être compatible avec d’autres téléphones et lecteurs de musique.			
+			
+Options durant un  appel			
+			
+Vous pouvez utiliser les options suivantes au cours d’un appel vocal :			
+Ajuster le volume de la voix  : pressez la touche de volume du haut ou du bas.			
+			
+Attente  : Sélectionnez 			
+.			
+			
+Récup.  : Sélectionnez 			
+.			
+			
+Composer un deuxième numéro  : Sélectionnez  Aj. appel , puis composez le nouveau numéro.			
+			
+Répondre à un deuxième appel  : Glissez le curseur vert  Accepter  vers la droite lorsque vous entendez la tonalité d’appel en attente. Le nouvel appel s’active et le premier appel est automatiquement placé en attente. Vous devez être abonné au service d’appel en attente pour utiliser cette fonctionnalité.			
+			
+Ouvrir le clavier de numérotation  : Sélectionnez			
+			
+Clavier .			
+			
+Activer le hautparleur  : Sélectionnez  HP .			
+			
+			
+Dans un environnement bruyant, il pourrait être difficile d’entendre votre interlocuteur au moyen du hautparleur. Pour une meilleure audition, utilisez le mode normal.			
+			
+Éteindre le hautparleur  : Sélectionnez  Muet  pour parler sans que votre interlocuteur au téléphone ne vous entende.			
+			
+Utiliser un casque Bluetooth  : Sélectionnez  Casque  pour entendre et parler à un interlocuteur au moyen d’un casque Bluetooth.			
+			
+Ouvrir les Contacts  : Pressez [ 			
+ ] →  Contacts .			
+			
+Ajouter une note  : Pressez [ 			
+ ] →  Mémo .			
+			
+Permuter entre deux appels :  Sélectionnez  Permuter .			
+			
+Faire un appel multiple (conférence téléphonique) :  Faites ou répondez à un deuxième appel et sélectionnez 			
+Fusionner  lorsque la communication avec la deuxième			
+			
+personne est établie. Répétez cette action pour ajouter des interlocuteurs. Vous devez être abonné au service de conférence téléphonique pour utiliser cette fonctionnalité.			
+Afficher  et composer les numéros des appels manqués			
+Votre téléphone affichera les appels que vous avez manqués.			
+Pour composer le numéro d’un appel manqué :			
+Ouvrir le panneau des raccourcis.			
+Sélectionnez l’appel manqué voulu.			
+Utiliser d’autres fonctions			
+Vous pouvez utiliser diverses autres fonctions liées aux appels, telles que le Rejet automatique, le Renvoi d’appel ou l’Interdiction d’appel.			
+			
+Pour définir  le rejet automatique et établir une liste de rejet automatique			
+			
+Vous pouvez rejeter automatiquement des appels provenant de numéros préalablement spécifiés par vous. En mode veille, sélectionnez  Applications  →  Paramètres → Appel  →  Tous les appels  →  Rejet automatique .			
+			
+Sélectionnez  Activer le rejet automatique  pour activer un rejet automatique.			
+			
+Sélectionnez  Liste de rejet automatique .			
+			
+Pressez  Add number  (Ajouter numéro).			
+			
+Entrez un numéro à rejeter et sélectionnez  Enregistrer .			
+			
+Pour ajouter d’autres numéros, répétez les étapes 4-5. Pour activer le renvoi d’appel pour un appel vocal :			
+Le renvoi d’appel est une fonction du réseau qui permet de diriger les appels entrants vers un autre numéro que vous			
+avez déterminé. Vous pouvez régler cette fonction selon la raison pour laquelle vous ne pouvez répondre à l’appel, par exemple, vous êtes déjà en communication ou vous vous trouvez à l’extérieur de la zone de service.			
+En mode veille, sélectionnez  Applications  →  Paramètres → Appel  →  Appel vocal  →  Renvoi d’appel .			
+			
+Sélectionnez une condition.			
+Entrez un numéro vers lequel les appels seront transférés et sélectionnez  Activer .			
+			
+Vos paramètres seront  envoyés au réseau.			
+			
+Pour activer l’interdiction d’appel			
+L’interdiction d’appel est une fonction du réseau qui permet d’interdire certains types d’appel ou d’empêcher d’autres personnes de faire des appels avec votre téléphone.			
+			
+En mode veille, sélectionnez  Applications  →  Paramètres → Appel  →  Appel vocal  →  Interdiction d’appel .			
+			
+Sélectionnez un type d’appel à interdire.			
+Entrez un mot de passe pour l’interdiction d’appel et sélectionnez  OK .			
+			
+Vos paramètres seront envoyés au réseau.			
+Pour activer l’appel en attente			
+L’appel en attente est une fonction du réseau qui vous informe de la réception d’un appel lorsque vous êtes déjà en communication.			
+En mode veille, sélectionnez  Applications  →  Paramètres → Appel  →  Appel vocal  →  Signal d’appel .			
+			
+Vos paramètres seront envoyés au réseau.			
+Pour régler le rappel automatique :			
+Cette fonction permet de rappeler automatiquement un numéro dont la connexion a échoué ou a été coupée.			
+En mode veille, sélectionnez  Applications → Paramètres → Appel  →  Appel vocal  → Rappel automatique .			
+Pour afficher vos journaux  d’appel :			
+			
+Vous pouvez voir et trier vos appels par catégories.			
+En mode veille, sélectionnez  Téléphone  →  Journaux .			
+			
+Pressez [ 			
+ ] →  Afficher par  et sélectionnez une option pour le tri des journaux d’appel.			
+			
+À partir des journaux d’appels, vous pouvez faire un appel directement à un contact en touchant 			
+.			
+			
+Sélectionnez un journal dont vous voulez voir les détails.			
+À partir de la vue détaillée, vous pouvez composer le numéro, envoyer un message au numéro, ou ajouter le numéro au répertoire ou à la liste de rejet.			
+			
+Messages texte et multimédias			
+Vous pouvez rédiger et envoyer des messages texte (SMS), multimédias (MMS) et courriels, et visualiser ou gérer les messages envoyés ou reçus. Pour plus de renseignements sur l’entrée de texte, voir ▶  p. 24			
+			
+Des frais additionnels peuvent vous être facturés pour l'envoi ou la réception de message lorsque vous êtes en dehors de votre zone de service locale. Pour tout renseignement, contactez votre fournisseur de services.			
+			
+Pour envoyer un messa ge texte :			
+			
+En mode veille, sélectionnez  Messages  →			
+			
+Nv message .			
+			
+Entrez manuellement un numéro ou sélectionnez  Contacts  pour en sélectionner un dans la liste des contacts,  Récents 			
+pour sélectionner un destinataire récent ou  Groupe  pour sélectionner un groupe de contacts.			
+			
+Si nécessaire, cochez les noms de contact voulus, puis sélectionnez  Ajouter .			
+			
+Sélectionnez  Entrer le message ici  et saisissez votre message texte. Pour insérer des émoticônes, pressez [ 			
+ ]  → Insérer une émoticône			
+.			
+			
+Sélectionnez  Envoyer  pour envoyer le message. Pour envoyer un message multimédia :			
+			
+En mode veille, sélectionnez  Messages  →  Nv message .			
+			
+Entrez manuellement un numéro ou sélectionnez  Contacts  pour en sélectionner un dans la liste des contacts,  Récents 			
+pour sélectionner un destinataire récent ou  Groupe  pour sélectionner un groupe de contacts.			
+			
+Si nécessaire, cochez les noms de contact voulus, puis sélectionnez  Ajouter .			
+			
+Si vous entrez une adresse courriel, le téléphone convertit le message en message multimédia.			
+Sélectionnez  Entrer le message ici  et saisissez votre message texte.			
+			
+Pour insérer des émoticones, pressez [ 			
+ ]  → Insérer une émoticône .			
+			
+Pressez [ 			
+ ]  → Joindre , sélectionnez une option, puis ajoutez un élément.			
+			
+Pressez [ 			
+ ]  → Ajouter un objet , puis ajoutez un objet au message.			
+			
+Sélectionnez  Envoyer  pour envoyer le message.			
+			
+Pour voir les messages texte ou multimédias :			
+En mode veille, sélectionnez  Messages .			
+			
+Vos messages sont groupés en fils de messages par contact.			
+Sélectionnez un contact. Sélectionnez un message texte ou multimédia du fil de messages.			
+Pour un message multimédia, sélectionnez 			
+ pour afficher la pièce jointe.			
+			
+Écouter les messages vocaux			
+Si vous activez le renvoi des appels manqués vers le serveur de messagerie vocale, les appelants peuvent vous laisser un message vocal lorsque vous ne répondez pas.			
+			
+Pour accéder à votre messagerie vocale et écouter vos messages :			
+En mode veille, sélectionnez  Téléphone → Clavier , puis touchez longuement la touche  1 .			
+			
+Suivez les directives du serveur de messagerie.			
+Vous devez enregistrer le numéro fourni par votre fournisseur de services avant d’accéder au serveur de la messagerie vocale.			
+			
+GmailMC			
+Vous pouvez récupérer les nouveaux courriels de votre boite de réception GmailMC. Lorsque vous accédez à cette application, l’écran de boite de réception apparait. Le nombre total de messages non lus s’affichent dans la barre de titre et les messages non lus s’affichent en gras. Si vous avez défini un libellé à un correspondant, le libellé apparait dans un rectangle coloré sur le message.			
+			
+Cette fonctionnalité pourrait ne pas être disponible dans certaines régions.			
+Pour envoyer un courriel :			
+			
+En mode veille, sélectionnez  Applications → Gmail .			
+			
+Pressez [ 			
+ ]  → Nouveau message .			
+			
+Entrez un nom ou une adresse dans le champ destinataire. Entrez un objet et un message.			
+Pour joindre un fichier image, pressez [ 			
+ ]  → Pièce jointe  et sélectionnez un fichier.			
+			
+Sélectionnez 			
+ pour envoyer le message. Pour voir les courriels :			
+			
+En mode veille, sélectionnez  Applications → Gmail .			
+			
+Sélectionnez un courriel.			
+			
+Dans l’écran de visualisation d’un message, utilisez les options suivantes :			
+Pour répondre au message, sélectionnez 			
+.			
+			
+Pour répondre au message en incluant tous les destinataires, sélectionnez 			
+  → Rép. à tous .			
+			
+Pour transfèrer le message à d’autres destinataires, sélectionnez 			
+→ Transférer .			
+			
+Pour ajouter une étoile au message, sélectionnez 			
+.			
+			
+Pour voir une pièce jointe, sélectionnez  Aperçu . Pour la sauvegarder dans votre carte mémoire, sélectionnez 			
+Télécharger .			
+			
+Pour archiver le message, sélectionnez  Archiver			
+			
+Pour supprimer le message, sélectionnez  Suppr. .			
+			
+			
+Pour vous déplacer vers le message suivant ou précédent, sélectionnez	ou	.	
+			
+Organiser les courriels par libellés			
+Vous pouvez organiser votre courriel en définissant des libellés à vos messages ou en ajoutant des étoiles pour marquer les messages importants. Vous pouvez aussi trier les messages par libellés.			
+Pour ajouter un libellé à un message : Dans la boite de réception, touchez longuement un message.			
+Sélectionnez  Changer de libellés .			
+			
+Sélectionnez le libellé que vous voulez ajouter et sélectionnez  OK .			
+			
+Pour ajouter une étoile à un message :			
+Dans la boite de réception, touchez longuement un message.			
+Sélectionnez  Activer le suivi . L’icône Étoile à côté du message est activée.			
+			
+Pour archiver un message :			
+Dans la boite de réception, touchez longuement un message.			
+Sélectionnez  Archiver . Pour filtrer les messages :			
+Dans la boite de réception, pressez [ 			
+ ]  → Ouvrir les libellés .			
+			
+Sélectionnez le libellé que vous voulez voir.			
+Courriel			
+Vous pouvez envoyer des courriels ou vérifier les courriels de votre compte personnel ou professionnel.			
+Pour configurer un compte courriel :			
+En mode veille, sélectionnez  Applications → Courriel .			
+			
+Entrez votre adresse courriel et votre mot de passe.			
+Sélectionnez  Suivant  (pour des comptes courriel généraux, tels que Gmail et Yahoo) ou  Config. manuelle  (pour d’autres fournisseurs de comptes courriel).			
+			
+Suivez les directives à l’écran.			
+Lorsque vous avez terminé de configurer le compte courriel, les messages courriel sont téléchargés dans votre appareil. Si vous avez créé plus de deux comptes, vous pouvez alterner entre les comptes courriel. Pressez [ 			
+ ]			
+			
+→ Comptes  et sélectionnez celui dont vous voulez extraire des messages.			
+			
+Pour envoyer un courriel :			
+En mode veille, sélectionnez  Applications → Courriel , puis sélectionnez un compte courriel.			
+			
+Pressez [ 			
+ ]  → Rédiger .			
+			
+Entrez manuellement une adresse courriel ou sélectionnez  Contacts  pour en sélectionner une dans			
+			
+la liste des contacts,  Récents  pour sélectionner un destinataire récent ou  Groupe  pour sélectionner un groupe de contacs.			
+			
+Sélectionnez les champs Cc/Cci pour envoyer une copie à d’autres destinataires.			
+Sélectionnez le champ objet pour entrer un objet.			
+Sélectionnez le champ de saisie de texte pour rédiger votre courriel.			
+Sélectionnez  Joindre , puis joindre l’élément voulu. Vous pouvez sélectionner une image, une vidéo ou un clip audio.			
+			
+Sélectionnez  Envoyer  pour envoyer le message.			
+			
+Si vous êtes hors ligne ou hors de votre zone de service, le message demeurera dans le fil de messages jusqu’à ce que vous reveniez en ligne et dans votre zone de service.			
+			
+Pour voir les courriels :			
+Lorsque vous ouvrez un compte courriel, vous pouvez voir des messages ouverts auparavant, hors ligne ou connecter le serveur de courriel pour voir de nouveaux messages.			
+Après la récupération des courriels, vous pouvez les consulter hors ligne. En mode veille, sélectionnez  Applications → Courriel , puis sélectionnez un compte de courriel.			
+			
+Pressez  Charger d’autres messages  ou [ 			
+ ]  →			
+			
+Actualiser  pour mettre à jour la liste de messages.			
+			
+Sélectionnez un courriel.			
+En mode de visualisation d’un message, pressez [ 			
+ ] pour utiliser les options suivantes :			
+			
+Répondre  : pour répondre au message.			
+			
+Transférer  : tranfère le message à d’autres destinataires.			
+			
+Supprimer  : pour supprimer le message.			
+			
+Déplacer dans le dossier  : pour déplace le courriel vers un dossier ou vers la corbeille.			
+			
+Afficher les photos  : affiche toute image jointe au message.			
+Plus  : permet d’accéder à d’autres options telles que Ajouter aux contacts, Taille du texte et Enregistrer dans Calendrier.			
+			
+Google Talk			
+Vous pouvez clavarder avec vos amis et les membres de votre famille à l’aide de Google TalkMC.			
+Pour ajouter des amis à votre liste d’amis :			
+En mode veille, sélectionnez  Applications → Talk . La liste d’amis affiche tous vos contacts de Google Talk en un seul coup d’oeil.			
+			
+Pressez [ 			
+ ]  → Ajouter un ami .			
+			
+Entrez l’adresse courriel de votre ami et sélectionnez			
+Envoyer une invitation.			
+Lorsque votre ami accepte l’invitation, il est ajouté à votre liste d’amis.			
+Pour lancer une session de clavardage (chat) :			
+En mode veille, sélectionnez  Applications → Talk .			
+			
+Sélectionnez un ami dans la liste des amis. L’écran de clavardage s’ouvre.			
+Entrez votre message et sélectionnez  Envoyer .			
+			
+Pour insérer une émoticône, pressez [	]  → Plus →		
+			
+Insérer une émoticône .			
+			
+Pour alterner entre les séances de clavardage actives, pressez 			
+  → Changer de chat .			
+			
+Pour mettre fin à la session, pressez 			
+  → Arrêter le chat .			
+			
+Samsung Email			
+Vous pouvez envoyer ou voir des courriels en utilisant votre compte de courriel personnel ou professionnel via Samsung Email.			
+Pour configurer un compte de courriel :			
+En mode veille, sélectionnez  Applications → →			
+			
+Samsung Email .			
+			
+Sélectionnez  Suivant  pour entrer les détails de configuration pour chacun des comptes de courriel auxquels vous voulez vous connecter.			
+			
+Suivez les directives à l’écran.			
+Une fois terminée la configuration du compte de courriel, les messages de ce compte sont téléchargés dans votre téléphone. Si vous avez créé plusieurs comptes, vous pouvez permuter entre les différents comptes.			
+Samsung IM			
+			
+Vous pouvez envoyer ou voir des messages instantanés via l’application Samsung IM.			
+En mode veille, sélectionnez  Applications → →			
+			
+Samsung IM .			
+Sélectionnez  Ajouter un compte  pour ajouter un compte MI.			
+			
+Appareil photo/vidéo			
+Vous pouvez prendre des photos et enregistrer des vidéos. Vous pouvez prendre des photos jusqu'à une résolution de 2560 x 1920 pixels (5 Mpx) et enregistrer des vidéos jusqu'à une résolution de 1280 x 720 pixels.			
+Prendre des photos			
+Pour prendre une photo :			
+En mode veille, sélectionnez  Applications  →  Appareil photo .			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+L’interface appareil photo/vidéo n’apparait que lorsque le téléphone est orienté selon le mode paysage.			
+			
+L’appareil photo/vidéo s’éteint automatiquement si vous ne l’utilisez pas pendant un certain temps.			
+La capacité de la mémoire peut varier selon le mode ou les conditions de prise de vue.			
+Dirigez le viseur vers votre sujet et cadrez.			
+			
+			
+Numéro	Fonction		
+9	Prend une photo.		
+10	Affiche la dernière photo ou vidéo prise.		
+			
+Pressez la touche de volume pour effectuer un zoom avant ou arrière. Dans l’écran de prévisionnement, touchez l’endroit où vous voulez faire le foyer.			
+Le cadre de foyer se déplace vers l’endroit touché et passe au vert lorsque le sujet est au foyer.			
+Sélectionnez 			
+ pour prendre une photo qui sera automatiquement sauvegardée.			
+			
+Après la prise de photos, sélectionnez le pictogramme Images prises récente (voir #10 sur le diagramme de l’écran ci-dessus) pour voir les photos prises.			
+Voir d’autres photos  : défile vers la gauche ou la droite.			
+			
+Zoom avant ou arrière  : sélectionne 			
+ ou 			
+. Une touche double de l’écran donne aussi un zoom avant ou arrière.			
+			
+Partager  : envoie une photo à d’autres personnes.			
+			
+Définir comme  : définit la photo comme fond d’écran ou image du contact.			
+			
+Supprimer  : supprime la photo.			
+			
+Prendre une photo selon une scène prédéfinie :			
+Votre appareil photo offre des paramètres prédéfinis pour diverses scènes. Vous pouvez simplement sélectionner le mode approprié aux conditions de prise de vue et au sujet. Par exemple, si vous prenez une photo de nuit, sélectionnez le mode nuit qui utilise une exposition prolongée.			
+En mode veille, sélectionnez  Applications  →  Appareil photo .			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+			
+Sélectionnez		, sélectionnez un type de scène, puis faites	.
+			
+Effectuez les ajustements nécessaires.			
+Sélectionnez 			
+ pour prendre une photo. Prendre une série de photos :			
+			
+Vous pouvez facilement prendre une série de photos de sujets en mouvement. Cette option est utile lorsque vous souhaitez prendre en photo d’un évènement sportif ou des enfants en action.			
+En mode veille, sélectionnez  Applications  →  Appareil photo .			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+Sélectionnez 			
+ →  Continu .			
+			
+Effectuez les ajustements nécessaires.			
+Touchez longuement 			
+ . L’appareil photo continuera à prendre des photos jusqu’à ce que vous relâchiez le bouton.			
+			
+Prendre des photos pour un panorama : Vous pouvez créer une vue panoramique avec le mode panorama. Ce mode est utile pour photographier les paysages.			
+En mode veille, sélectionnez  Applications  →  Appareil photo .			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+Sélectionnez 			
+ →  Panorama .			
+			
+Cadrez la scène voulue.			
+Sélectionnez 			
+ pour prendre la première photo.			
+			
+Déplacez doucement l'appareil dans la direction voulue et alignez le cadre vert avec le viseur.			
+			
+Lorsque le cadre vert est aligné au viseur, l'appareil photo prend automatiquement la prochaine photo.			
+Répétez l'étape 6 pour compléter la photo panoramique.			
+Prendre une photo en mode Sourire : Votre appareil photo détecte les visages, il vous est donc plus facile de prendre des photos de visages souriants.			
+En mode veille, sélectionnez  Applications  →  Appareil photo .			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+Sélectionnez 			
+ →  Sourire .			
+			
+Effectuez les ajustements nécessaires.			
+Sélectionnez 			
+.			
+			
+Dirigez l’objectif vers votre sujet.			
+Votre appareil détecte les visages souriants. Dès que le sujet sourit, l'appareil prend automatique ment la photo.			
+			
+Prendre une photo en mode Beauté :			
+Vous pouvez masquer les imperfections du visage en utilisant le mode Beauté.			
+En mode veille, sélectionnez  Applications  →  Appareil photo .			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+Sélectionnez 			
+ →  Beauté .			
+			
+Effectuez les ajustements nécessaires.			
+Sélectionnez 			
+  pour prendre la photo. Prendre une photo Vintage :			
+			
+Vous pouvez prendre des photos d’apparence et d’inspiration vintage en utilisant des filtres de couleur. Vous			
+			
+pouvez sélectionner une option pour donner un effet chaleureux (Chaleur), frais (Cool) ou monochrome (Mono).			
+En mode veille, sélectionnez  Applications  →  Appareil photo .			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+Sélectionnez 			
+ →  Vintage .			
+			
+Sélectionnez 			
+ pour choisir un filtre de couleur. Les choix sont Chaleur, Cool ou Mono.			
+			
+Effectuez les ajustements nécessaires.			
+Sélectionnez 			
+ pour prendre la photo. Prendre une photo combinée :			
+			
+Vous pouvez prendre deux photos avec le même arrière- plan, puis combiner les moitiés gauche et droite de chacune en une même photo. Ceci est pratique lorsque vous voulez			
+vous photographier avec un ami, mais que personne n’est disponible pour prendre la photo à votre place.			
+L’aperçu apparait plus grand dans ce mode, mais les fichiers sont enregistrés à la qualité d’image normale.			
+			
+En mode veille, sélectionnez  Applications  →  Appareil photo .			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+Sélectionnez 			
+ →  Ajoutez-moi .			
+			
+Effectuez les ajustements nécessaires.			
+Sélectionnez 			
+ pour prendre la première photo. La partie gauche de la première photo apparait en guide transparent pour la photo suivante.			
+			
+Cadrez à l’aide de l’empreinte de la première photo.			
+Sélectionnez 			
+ pour prendre la deuxième photo.			
+			
+Le téléphone combinera automatiquement la partie gauche de la première photo avec la partie droite de la deuxième en une même photo.			
+Prendre une photo d’action :			
+Vous pouvez prendre des clichés d’un sujet en mouvement, puis les combiner en une même photo qui illustre l’action. En mode veille, sélectionnez  Applications  →  Appareil photo .			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode  paysage.			
+			
+Sélectionnez 			
+ →  Action .			
+			
+Cadrez la scène voulue.			
+Sélectionnez 			
+ pour prendre la première photo.			
+			
+Déplacez le téléphone pour suivre le sujet en mouvement. L’appareil photo prend automatiquement la photo suivante.			
+Continuez de suivre le sujet jusqu’à ce que l’appareil photo ait pris tous les clichés nécessaires à la photo d’action.			
+Prendre une photo en mode Bande dessinée :			
+Vous pouvez prendre des photos avec des effets de bande dessinée.			
+En mode veille, sélectionnez  Applications  →  Appareil photo .			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+Sélectionnez 			
+ →  Bande dessinée .			
+			
+Cadrez la scène voulue à l’aide du guide.			
+Sélectionnez 			
+ pour prendre la photo.			
+			
+Personnaliser les paramètres de l’appareil photo			
+Avant de prendre une photo, sélectionnez 			
+ → 			
+			
+pour accéder aux options suivantes :			
+			
+Option	Fonction		
+Visibilité extérieure	améliore la visibilité de l’écran ACL quand vous êtes à l’extérieur.		
+Mode mise au point	prend des photos en mode macro ou règle l’appareil pour faire automatiquement le foyer sur le sujet ou sur les visages humains.		
+Retardateur	définit un délai avant la prise de photo.		
+Résolution	change la résolution de l’appareil.		
+Équilibre des blancs	ajuste l’équilibre des couleurs selon les conditions d’éclairage.		
+Effets	applique un effet spécial comme les teintes sépia ou noir et blanc.		
+			
+Avant de prendre une photo, sélectionnez 			
+ → 			
+ pour accéder aux options suivantes :			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+Sélectionnez 			
+ pour passer à l’appareil vi déo.			
+Dirigez l’objectif vers votre sujet et cadrez. 1			
+2	7		
+			
+3	8		
+			
+4			
+5	9		
+			
+6			
+			
+Saisie de vidéo			
+Pour saisir une vidéo :			
+1. E n mode veille, sélectionnez  Applications  →			
+			
+Appareil photo .			
+			
+Pressez la touche de volume pour effectuer un zoom avant ou arrière.			
+Sélectionnez	pour lancer l’enregistrement.		
+			
+Sélectionnez	pour arrêter l’enregistrement.		
+			
+La vidéo est automatiquement sauvegardée.			
+L’appareil pourrait ne pas être en mesure d’enregistrer correctement des vidéos vers une carte mémoire à faible capacité de transfert.			
+			
+Après la saisie d’une vidéo, sélectionnez le pictogramme Images prises (voir # 9 sur le diagramme de l’écran ci- dessus) pour voir les vidéos prises.			
+Gauche ou droite  : pour voir d’autres vidéos.			
+			
+Lire  : fait jouer une vidéo.			
+			
+Supprimer  : supprime la vidéo.			
+			
+Partager  : envoie une vidéo à d’autres.			
+			
+Personnaliser les paramètres de l’appareil vidéo Avant de saisir une vidéo, sélectionnez 			
+ → 			
+ pour accéder aux options suivantes :			
+			
+Avant de saisir une vidéo, sélectionnez 			
+ → 			
+ pour accéder aux paramètres suivants :			
+			
+			
+Paramètre	Fonction		
+Grille-repère	affiche la grille-repère à l'écran.		
+Enreg. audio	Active ou désactive l’enregistrement du son.		
+Aperçu	affiche la dernière vidéo enregistrée.		
+Réinitialiser	réinitialise les menus et options de prise de vue.		
+			
+Lecteur vidéo			
+			
+Vous appareil permet de lire divers type de vidéos. Le lecteur vidéo prend en charge les formats de fichier suivants : 3gp, mp4 et wmv (Codec : MPEG4, H.263, Sorenson H.263, H.264 et DivX/XviD).			
+			
+			
+Certains formats de fichier ne sont pas pris en charge selon le logiciel du téléphone.			
+			
+Si la taille excède la quantité de mémoire disponible, une erreur peut se produire lorsque vous ouvrez le fichier.			
+Pour faire jouer une vidéo :			
+En mode veille, sélectionnez  Applications  →  Lecteur vidéo .			
+			
+Sélectionnez une vidéo que vous souhaitez visionner.			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+Contrôlez les commandes du lecteur vidéo avec les icônes suivantes :			
+			
+Galerie			
+Vous pouvez voir des photos et faire jouer des vidéos sauvegardées dans votre carte mémoire.			
+Si votre téléphone indique que la mémoire est saturée lorsque vous ouvrez la galerie, supprimez certains des fichiers à l’aide de Fichiers ou d’autres applications de gestion de fichiers et réessayez.			
+			
+Formats de fichier pris en charge			
+Votre téléphone prend en charge les formats suivants :			
+Évitez de verrouiller l’écran du téléphone lorsque vous faites jouer une vidéo sur demande DivX. Sinon, chaque fois que vous verrouillerez l’écran pendant la lecture d’une vidéo sur demande DivX, le décompte de vos locations encore disponibles sera débité.			
+Certains formats de fichier ne sont pas pris en charge selon le logiciel du téléphone.			
+			
+Si la taille excède la quantité de mémoire disponible, une erreur peut se produire lorsque vous ouvrez le fichier.			
+			
+Pour visualiser une photo de la galerie  :			
+			
+En mode veille, sélectionnez  Applications  →  Galerie .			
+Sélectionnez un dossier.			
+Pour changer le mode d’affichage, sélectionnez 			
+ ou 			
+ en haut à droite de l’écran.			
+			
+Sélectionnez une photo (miniature sans l’icône 			
+) pour la voir.			
+			
+Lorsqu’une photo est affichée, utilisez les options suivantes :			
+Gauche ou droite  : affiche d’autres photos.			
+			
+Zoom avant ou arrière  : sélectionne 			
+ ou 			
+. Vous pouvez également placer deux doigts sur l’écran, puis lentement les rapprocher (zoom avant) ou les éloigner (zoom arrière).			
+			
+Diaporama  : lance un diaporama de photos et vidéos. Touchez l’écran pour arrêter le  diaporama.			
+			
+Pour visionner une vidéo de la galerie :			
+En mode veille, sélectionnez  Applications  →  Galerie .			
+			
+Sélectionnez une vidéo avec l’icône 			
+ pour la visionner.			
+			
+Pivotez le téléphone dans le sens antihoraire pour le mettre en mode paysage.			
+Contrôlez les commandes du lecteur vidéo avec les boutons virtuels. ►  p. 56			
+			
+Pour partager des images ou des vidéos :			
+En mode veille, sélectionnez  Applications  →  Galerie .			
+			
+Sélectionnez un dossier.			
+Sélectionnez des fichiers images ou vidéos. Sélectionnez 			
+ et cochez une ou plusieurs photos ou vidéos (touchez une miniature pour apposer une marque verte au coin supérieur gauche).			
+			
+Sélectionnez  Partager  et choisissez une option de partage.			
+			
+Lecteur de musique			
+			
+Avec le téléphone, vous pouvez entendre votre musique préférée. Le lecteur de musique du téléphone prend en charge les formats de fichiers suivants : .mp3, .mp4, .3gp,			
+.mid, .wav, .aac et .amr.			
+			
+			
+Vous pouvez aussi faire jouer de la musique dans les formats suivants si vous les ouvrez à partir de  Fichiers , de messages multimédias ou du navigateur Web : .mid,			
+			
+.midi, .aac, .amr, imelody et .wav.			
+Certains formats de fichier ne sont pas pris en charge selon le logiciel du téléphone. Si la taille excède la quantité de mémoire disponible, une erreur peut se produire lorsque vous ouvrez le fichier.			
+			
+Pour ajouter des fichiers musicaux à votre téléphone :			
+Vous pouvez transférer des fichiers dans votre téléphone ou dans la carte mémoire :			
+Télécharger à partir du Web sans fil. ▶  p. 29			
+			
+Télécharger à partir d'un ordinateur au moyen du logiciel optionnel Samsung Kies. ▶  p. 90			
+			
+Recevoir via Bluetooth. ▶  p. 81			
+			
+Copier dans la carte mémoire. ▶  p. 60			
+			
+Synchroniser avec le lecteur Windows Media 11. ▶  p. 90   Pour copier des fichiers musicaux dans une carte mémoire  :			
+			
+Insérez une carte mémoire.			
+À l’aide d’un câble de données (optionnel), branchez la prise multifonction de votre téléphone à un ordinateur.			
+			
+Avant de copier des fichiers musicaux, activez les paramètres de stockage en sélectionnant  Applications  → 			
+Paramètres  →  Applications  →  Paramètrs USB  →  Stockage de masse .			
+			
+Ouvrez la barre d’état et sélectionnez  USB branché  →			
+			
+Connecter le stockage USB .			
+			
+Ouvrez le dossier pour voir les fichiers.			
+Copiez les fichiers de l’ordinateur vers la carte mémoire.			
+Pour faire jouer des fichiers musicaux :			
+En mode veille, sélectionnez  Applications  →  Lecteur de musique .			
+			
+Défilez à gauche ou à droite pour choisir une catégorie de musique.			
+Sélectionnez un fichier musical. Contrôlez les commandes du lecteur de musique avec les bontons suivants :			
+			
+			
+Les écouteurs SRS CS HeadphoneMC offrent une ambiance sonore enveloppante Surround 5.1, supérieure à celle des écouteurs ou oreillettes standards, lorsque vous écoutez un contenu multivoie, comme les films DVD.			
+			
+WOW HDMD améliore de façon significative la qualité sonore, vous permettant de faire l'expérience d'un divertissement en 3D avec des basses profondes et riches et une grande netteté de détail dans les hautes fréquences.			
+Pour ouvrir l’affichage des albums : En mode veille, sélectionnez  Applications  →  Lecteur de musique .			
+			
+Pressez [ 			
+ ] →  Illustration de l’album . L’album s’affiche en mode paysage.			
+			
+Défilez vers la gauche ou la droite pour sélectionner un album.			
+Sélectionnez l’image de l’album pour en lancer la lecture.			
+Sélectionnez 			
+ ou 			
+ pour mettre en pause ou pour reprendre la lecture en cours.			
+			
+Sélectionnez 			
+ pour passer à l’affichage carrousel.			
+			
+Faites tourner le carrousel pour choisir une piste.			
+Pour passer à une autre catégorie, sélectionnez  Tout , puis une catégorie.			
+			
+Sélectionnez 			
+ pour revenir à l’affichage liste d’album.			
+			
+Pour créer une liste de lecture :			
+En mode veille, sélectionnez  Applications  →  Lecteur de musique .			
+			
+Sélectionnez  Listes de lecture .			
+			
+Pressez [ 			
+ ] →  Créer .			
+			
+Entrez un titre pour la nouvelle liste de lecture et sélectionnez  Sauvegarder .			
+			
+Sélectionnez  Ajouter de la musique .			
+			
+Sélectionnez les fichiers que vous voulez inclure et sélectionnez  Ajouter .			
+			
+Pour ajouter des pièces à la liste rapide			
+Vous pouvez ajouter des pièces à la liste rapide et les sauvegarder comme liste de lecture. En cours de lecture, pressez	→ Ajouter à la liste rapide  pour ajouter la pièce en écoute à la liste rapide.		
+			
+Pour ouvrir la liste rapide du menu principal du lecteur de musique, sélectionnez  Listes de lecture → Liste rapide . Pour sauvegarder la liste rapide comme liste de lecture, pressez 			
+			
+  → Enreg. comme liste de lecture .			
+			
+Pour personnaliser les paramètres du lecteur de musi que :			
+			
+En mode veille, sélectionnez  Applications → Lecteur de musique .			
+			
+Pressez 			
+  → Plus → Paramètres , ou pressez 			
+			
+→ Paramètres .			
+			
+Réglez les paramètres suivants pour personnaliser votre lecteur de musique :			
+			
+Option	Fonction		
+Égaliseur	sélectionne un type d’égaliseur par défaut.		
+Effets	Sélectionne un effet sonore.		
+Menu musique	Sélectionne les catégories de musique à afficher à l’écran de la bibliothèque de musique.		
+Affichage	Sélectionne une animation à afficher pendant la lecture.		
+			
+Contacts			
+Vous pouvez créer et gérer la liste de vos contacts personnels et professionnels stockés dans la mémoire de du téléphone ou de la carte SIM. Vous pouvez sauvegarder les noms, les numéros de téléphone mobile, les numéros de téléphone personnels, les adresses courriel, les dates de naissance, etc., pour chacun de vos contacts.			
+Pour ajouter un contact à la liste  de contacts :			
+			
+En mode veille, sélectionnez  Contacts .			
+			
+Sélectionnez 			
+.			
+			
+Sélectionnez un emplacement de stockage.			
+Entrez l’information du contact.			
+Sélectionnez  Sauveg.  pour ajouter le contact à la mémoire.			
+			
+Pour créer un contact à partir du clavier de numérotation :			
+En mode veille, sélectionnez  Téléphone → Clavier .			
+			
+Entrez un numéro de téléphone.			
+Sélectionnez  Ajouter aux contacts → 			
+.			
+			
+Sélectionnez un emplacement de mémoire.			
+Entrez l’information du contact. Sélectionnez  Sauveg.  pour ajouter le contact à la mémoire.			
+			
+Pour importer ou exporter des contacts :			
+En mode veille, sélectionnez  Contacts .			
+			
+Pressez [ 			
+ ] →  Importer/exporter .			
+			
+Sélectionnez une option d’importation ou d’exportation et pressez  OK .			
+			
+Pour trouver un contact :			
+En mode veille, sélectionnez  Contacts .			
+			
+Faites défiler la liste de contacts vers le bas ou le haut et tapez les premières lettres du nom voulu dans			
+l’alphabet vertical du côté droit de l’écran pour aller à cette partie de la liste, ou entrez le début du nom recherché dans le champ de recherche.			
+Sélectionnez un nom de contact.			
+Une fois le contact trouvé, vous pouvez :			
+			
+appeler le contact en touchant son numéro de téléphone.			
+envoyer un message en sélectionnant  Message .			
+			
+modifier l’information du contact en pressant [ 			
+ ] →			
+			
+Modifier .			
+			
+Pour régler une numérotation rapide :			
+En mode veille, sélectionnez  Contacts .			
+			
+Pressez [ 			
+ ] →  Plus  →  Numérotation rapide .			
+			
+Sélectionnez un emplacement de répertoire de contacts, puis sélectionnez un contact.			
+			
+			
+Vous pouvez composer rapidement ce numéro en pressant longuement la touche numérotée attribuée à partir du clavier de numérotation.			
+			
+Pour créer votre carte de visite :			
+En mode veille, sélectionnez  Contacts .			
+			
+Pressez [ 			
+ ] →  Plus  →  Mon profil .			
+			
+Entrez vos données personnelles.			
+Sélectionnez  Sauveg. .			
+			
+Vous pouvez envoyer votre carte de visite en tant que pièce jointe dans un message ou courriel ou en utilisant Bluetooth.			
+			
+Pour récupérer les contacts de vos comptes de réseaux sociaux :			
+Vous pouvez voir la liste des comptes des réseaux sociaux Web et sélectionner un compte Web duquel vous pouvez			
+tirer un nom de contact pour l’ajouter aux contacts de votre téléphone.			
+En mode veille, sélectionnez  Contacts .			
+			
+Pressez [ 			
+ ] →  Lier à mes comptes .			
+			
+Sélectionnez un compte. Pour créer un groupe de contacts :			
+En créant des groupes de contacts, vous pouvez gérer des contacts multiples et envoyer des messages ou courriels à un groupe entier. Créez d’abord un groupe.			
+En mode veille, sélectionnez  Contacts → Groupes .			
+			
+Pressez [ 			
+ ] →  Créer un groupe .			
+			
+Entrez un nom et sélectionnez une sonnerie pour le groupe.			
+Sélectionnez  Sauveg.			
+			
+Pour ajouter des comptes :			
+Vous pouvez ajouter et configurer des comptes tels que Facebook, MySpace et Twitter.			
+En mode veille, sélectionnez  Contacts.			
+			
+Pressez [ 			
+ ] →  Plus  →  Comptes .			
+Sélectionnez  Ajouter un compte  et sélectionnez un compte de la liste.			
+			
+Pour voir le journal des communications :			
+Vous pouvez voir le journal des appels, messages, courriels ou fils de messages texte.			
+En mode veille, sélectionnez  Contacts  →  Historique .			
+			
+Sélectionnez l’élément que vous souhaitez voir.			
+Pour voir les activités de réseau social :			
+Vous pouvez voir les activités récentes de vos contacts dans les réseaux sociaux tels que Facebook, MySpace et Twitter.			
+En mode veille, sélectionnez  Contacts  →  Maj .			
+			
+Sélectionnez l’élément que vous souhaitez voir.			
+Calendrier			
+			
+Utilisez le calendrier pour consulter votre horaire du jour, de la semaine ou du mois, et pour régler des alarmes pour vous rappeler les évènements importants.			
+Afin d’utiliser cette application, vous devez être avoir être connecté à un compte en ligne tel que Email for Exchange, Yahoo!, Facebook, Microsoft Exchange Activesync ou Google.			
+			
+Pour créer un évènement :			
+En mode veille, sélectionnez  Applications →			
+			
+Calendrier .			
+			
+Pressez [ 			
+ ] →  Créer .			
+			
+Entrez les détails de l’évènement.			
+Sélectionnez  Sauveg. .			
+			
+Pour changer le mode d’affichage du calendrier :			
+En mode veille, sélectionnez  Applications →			
+			
+Calendrier .			
+			
+Sélectionnez un mode d’affichage au haut du calendrier.			
+Pour visualiser les évènements d’un jour particulier :			
+En mode veille, sélectionnez  Applications →			
+			
+Calendrier .			
+			
+Sélectionnez une date sur le calendrier. En mode Mois, les jours comportant des évènements programmés sont indiqués par de petits triangles.			
+Pour aller à un jour particulier en entrant une date manuellement, pressez [ 			
+ ] →  Aller à , entrez la date en sélectionnant 			
++  ou  -  et sélectionnez  Appliquer .			
+			
+Pour sélectionner ce jour même, pressez 			
+  →			
+Aujourd’hui .			
+			
+Sélectionnez un évènement dont vous souhaitez voir les détails.			
+Vous pouvez envoyer un évènement à d’autres personnes en pressant 			
+  → Envoyer via  et en sélectionnant une option.			
+			
+Pour arrêter une alerte d’évènement :			
+Si vous réglez une alerte pour un évènement de calendrier, l’icône d’alerte d’évènement apparaitra au moment spécifié.			
+			
+Ouvrez le panneau des raccourcis au haut de l’écran.			
+Sélectionnez un rappel pour voir plus de détails sur l’évènement.			
+Pour faire répéter ou pour rejeter le rappel, sélectionnez			
+Répéter tout  ou  Ignorer tout .			
+Notes			
+Notez des informations importantes que vous pourrez consulter ultérieurement.			
+Pour créer une note :			
+En mode veille, sélectionnez  Applications → Notes .			
+			
+Si vous n’avez aucune note déjà sauvegardée, l’écran Créer s’affiche automatiquement.			
+S’il y a déjà une ou des notes sauvegardées, sélectionnez  Nouvelle note  ou pressez 			
+  → Créer .			
+			
+Entrez le texte de votre note.			
+Pressez 			
+ pour sélectionner une couleur d’arrière- plan.			
+			
+Sélectionnez  Enregistrer . Pour afficher les notes :			
+			
+En mode veille, sélectionnez  Applications → Notes .			
+			
+Sélectionnez une note pour en afficher les détails.			
+Vous pouvez envoyer la note à d’autres personnes en pressant ou en touchant longuement la note, puis en sélectionnant une option.			
+			
+Mémo vocal			
+Vous pouvez utiliser l’enregistreur vocal du téléphone pour définir des mémos vocaux comme tonalités d’alerte.			
+Pour enregistrer un mémo vocal :			
+En mode veille, sélectionnez  Applications → Mémo vocal .			
+			
+Sélectionnez 			
+ pour commencer l’enregistrement.			
+			
+Parlez dans le microphone.			
+Lorsque vous avez terminé, sélectionnez 			
+ .			
+			
+Pour enregistrer d’autres mémos vocaux, sélectionnez 			
+ au bas de l’écran.			
+			
+Pour faire jouer un mémo vocal :			
+En mode veille, sélectionnez  Applications → Mémo vocal .			
+			
+Dans la liste des mémos vocaux, sélectionnez un mémo vocal à faire jouer.			
+Vous pouvez envoyer le mémo vocal à d’autres personnes en pressant ou en touchant longuement la note, puis en sélectionnant  Partager .			
+			
+Les services Internet requièrent une connexion de données. Veuillez contacter votre opérateur pour choisir le meilleur			
+Les services basés sur Internet, tels que Layar, Google Maps, Google Latitude, Adresses et YouTube peuvent différer de leur description présentée dans ce chapitre en raison de modifications des programmes en ligne.			
+			
+Navigateur			
+Avec votre téléphone, vous pouvez accéder à vos pages Web favorites et les marquer d’un signet.			
+Des frais additionnels peuvent vous être facturés pour l’accès au Web et le téléchargement de contenus multimédias. Pour tout renseignement, contactez votre fournisseur de services.			
+			
+Les icônes affichées varient selon la région.			
+			
+Pour parcourir les pages W eb :			
+			
+En mode veille, sélectionnez  Applications → Navigateur			
+			
+pour ouvrir la page d’accueil prédéfinie.			
+Pour accéder à une page Web précise, sélectionnez le champ de saisie de l’URL, saisissez l’adresse Web (URL) de la page Web et sélectionnez  Aller à .			
+			
+Vous pouvez aussi ouvrir une liste de favoris, des pages visitées fréquemment et l’historique récent en sélectionnant 			
+.			
+			
+Lors de la navigation Web, les options suivantes sont disponibles :			
+Zoom avant ou arrière  : pour effectuer un zoom avant ou arrière, double-cliquez sur l’écran tactile et sélectionnez 			
+ ou 			
+			
+ . Vous pouvez également placer deux doigts sur l’écran puis les rapprocher (zoom avant) ou les éloigner (zoom arrière).			
+			
+[ 			
+  ] → Nvlle fenêtre  : ouvre une nouvelle fenêtre.			
+			
+[ 			
+  ] → Luminosité  : ajuste la luminosité de l’écran. Cette fonctionnalité pourrait ne pas être disponible dans certaines régions.			
+			
+[ 			
+  ] → Fenêtres  : permet de visionner toutes les fenêtres actives. Vous pouvez ouvrir plusieurs pages simultanément et passer rapidement d’une à l’autre.			
+[ 			
+  ] → Actualiser  : recharge la page en cours.			
+			
+[ 			
+  ] → Page suivante  : va à la page suivante dans l’historique.			
+			
+[ 			
+  ] → Plus → Ajouter un favori  : met la page Web en favori.			
+			
+[ 			
+  ] → Plus → Ajouter raccourci à Accueil  : ajoute la page Web actuelle à l’écran de veille.			
+			
+[ 			
+  ] → Ajouter des flux RSS  : permet d’ajouter un flux RSS. Vous pouvez lire les flux RSS avec Google Reader.			
+			
+[ 			
+  ] → Plus → Rech. sur page  : recherche du texte sur la page.			
+			
+[ 			
+  ] → Plus → Info page  : affiche les détails de la page Web.			
+			
+[ 			
+  ] → Plus → Partager page  : envoie l’adresse Web (URL) à d’autres personnes.			
+			
+[ 			
+  ] → Plus → Gestionnaire de téléchargements  : affiche l’historique de téléchargement.			
+[ 			
+  ] →Plus → Paramètres  : personnalise les paramètres du navigateur.			
+			
+Pour marquer vos pages favorites :			
+En mode veille, sélectionnez  Applications → Navigateur .			
+			
+Sélectionnez 			
+  → Favoris .			
+			
+Sélectionnez  Ajouter . Pour ajouter la page en cours aux favoris, pressez [ 			
+ ]  → Dernière page favorite consultée .			
+			
+Entrez un titre de page et une adresse Web (URL).			
+Sélectionnez  Oui .			
+			
+Dans la liste des favoris, touchez longuement un favori et utilisez l’une des options suivantes :			
+Ouvrir  : Ouvre la page Web			
+			
+Ouvrir dans nouv.  : Ouvre la page dans une nouvelle fenêtre.			
+			
+Modifier favori  : Modifie les détails du favori.			
+			
+Ajout raccourci à Accueil  : Ajoute un favori dans l’écran de veille.			
+			
+Partager lien  : envoie l’URL de la page Web à d’autres personnes.			
+			
+Copier URL lien  : copie l’URL de la page Web.			
+			
+Supprimer favori  : supprime le favori.			
+			
+Définir comme page d’accueil  : Utilise la page comme page d’accueil.			
+			
+Pour ajouter une adresse de flux RSS :			
+En mode veille, sélectionnez  Applications →			
+			
+Navigateur .			
+			
+Rendez-vous à une page Web qui a un flux RSS.			
+Pressez [ 			
+ ] →  Plus  →  Ajouter des flux RSS .			
+			
+Sélectionnez le flux RSS que vous voulez ajouter.			
+Sélectionnez  Oui  pour ouvrir Google Reader et visionner le flux RSS.			
+			
+Pour accéder à des pages fréquemment visitées ou à l’historique récent :			
+En mode veille, sélectionnez  Applications →			
+			
+Navigateur .			
+			
+Sélectionnez 			
+  → Les plus visités  ou  Historique .			
+			
+Sélectionnez une page Web à ouvrir.			
+Vous pouvez ajouter une page Web à la liste des favoris en sélectionnant l’icône étoile à droite.			
+			
+Recherche Google			
+			
+Vous pouvez rechercher des informations sur Internet à l’aide du service de recherche Google. La barre de recherche Google est incluse par défaut dans l’écran d’accueil. En mode veille, sélectionnez la barre de recherche Google.			
+Entrez un mot clé et sélectionnez 			
+.			
+			
+Vous êtes automatiquement connecté au site Web Google.			
+Layar			
+			
+Layar permet de parcourir des lieux physiques pour de l’information locale en temps réel ou des cartes à l’aide de l’appareil photo/vidéo de votre téléphone et de partager cette information avec d’autres personnes			
+			
+En mode veille, sélectionnez  Applications → Layar . Selon votre région, cette fonctionnalité pourrait ne pas être disponible.			
+			
+Maps Vous pouvez utiliser Google MapsMC pour trouver votre position, afficher un plan de rues, de ville ou de pays ou obtenir des itinéraires en ligne.			
+Selon votre région, cette fonctionnalité pourrait ne pas être disponible.			
+			
+Pour utiliser Google Maps, sélectionnez  Applications			
+			
+→ Paramètres → Localisation et sécurité → Utiliser des réseaux sans fil  ou  Utiliser des satellites GPS .			
+			
+Pour changer l’affichage de la carte :			
+1. En mode veille, sélectionnez  Applications → Maps .			
+			
+Pour parcourir la carte :			
+En mode veille, sélectionnez  Applications → Maps .			
+			
+Tirez la carte avec votre doigt pour la parcourir.			
+Pour effectuer un zoom avant ou arrière, sélectionnez 			
+ ou. 			
+. Vous pouvez également placer deux doigts sur l’écran, puis lentement les rapprocher (zoom avant) ou les éloigner (zoom arri ère).			
+			
+Pour trouver votre position :			
+En mode veille, sélectionnez  Applications → Maps . La carte affichera votre position actuelle (une flèche bleue clignotante).			
+			
+Touchez la flèche bleue, puis la boite  Ma position . Pour chercher une position précise :			
+			
+En mode veille, sélectionnez  Applications → Maps .			
+			
+Pressez [ 			
+ ]  → Rechercher .			
+			
+Utilisez l’une des méthodes suivantes :			
+Saisissez l’adresse.			
+Entrez le type de commerce.			
+Sélectionnez une adresse déjà visitée ou une catégorie dans la liste.			
+Sélectionnez 			
+.			
+			
+Pour obtenir un itinéraire  vers une destination précise :			
+			
+En mode veille, sélectionnez  Applications → Maps .			
+			
+Pressez [ 			
+ ]  → Itinéraire .			
+			
+Saisissez les adresses de départ et d’arrivée.			
+Pour entrer une adresse de votre liste de contacts ou pour pointer un lieu sur la carte, sélectionnez 			
+  → Ma position , 			
+Contacts  ou  Point sur la carte .			
+			
+Sélectionnez un mode de transport (voiture, transport en commun, vélo ou marche) et sélectionner  OK .			
+			
+Sélectionnez un itinéraire pour voir les détails de votre déplacement (si nécessaire).			
+Pour une navigation guidée par des directives vocales, sélectionnez 			
+.			
+			
+Pour partager votre position  sur Google LatitudeMC :			
+Vous pouvez partager votre  position avec vos amis et voir les positions de vos amis avec Google LatitudeMC.			
+			
+En mode veille, sélectionnez  Applications → Latitude .			
+			
+Pressez [ 			
+ ]  → Ajouter des amis  et sélectionnez une option.			
+			
+Sélectionnez les amis que vous souhaitez ajouter ou saisissez une adresse de courriel et sélectionnez  Ajouter des amis → Oui			
+.			
+			
+Lorsque votre ami accepte l’invitation, vous pouvez partager vos positions respectives.			
+Vous pouvez afficher les balises indiquant les positions de vos amis en pressant [ 			
+ ]  → Plan .			
+			
+YouTubeMC			
+YouTube est un site d’hébergement de vidéos gratuit. Visionnez et partagez des vidéos via YouTube.			
+Selon votre région, cette fonctionnalité pourrait ne pas être disponible.			
+			
+Pour visionner des vidéos sur YouTube :			
+En mode veille, sélectionnez  Applications →			
+			
+YouTube .			
+Sélectionnez une vidéo dans la liste.			
+Pivotez le téléphone dans le sens antihoraire ou faites une double touche pour passer en mode paysage.			
+Touchez l’écran pour lancer ou arrêter la lecture. Vous pouvez aussi utiliser les commandes suivantes :			
+			
+Pour rechercher des vidéos :			
+En mode veille, sélectionnez  Applications →			
+			
+YouTube .			
+			
+Pressez [ 			
+ ]  → Rechercher .			
+			
+Entrez un élément de recherche pour afficher différentes catégories.			
+Sélectionnez une catégorie de la liste.			
+Sélectionnez une vidéo de la liste. Pour accéder à votre compte YouTube :			
+En mode veille, sélectionnez  Applications →			
+			
+YouTube .			
+			
+Pressez [ 			
+ ]  → Ma chaî e .			
+			
+Entrez un nom d’utilisateur et le mot de passe, puis sélectionnez  Ajouter un compte .			
+Actualités et météo			
+			
+Vous pouvez obtenir des informations sur la météo et des manchettes par Internet. En mode veille, sélectionnez  Applications →			
+			
+Actualités et météo .			
+			
+Glissez le doigt à gauche et à droite pour afficher les différentes catégories d’information.			
+Sélectionnez [ 			
+ ] → 			
+ pour mettre à jour les informations.			
+			
+			
+Pour choisir les informations affichées, pressez [ 			
+ ] →→	.		
+			
+			
+Android Market			
+			
+Android Market vous permet de télécharger facilement des jeux, des sonneries et des applications mobiles.			
+Cette fonctionnalité pourrait ne pas être disponible dans certaines régions.			
+			
+En mode veille, sélectionnez  Applications → Android Market .			
+			
+Recherchez un fichier, puis téléchargez-le sur le téléphone. ►  p. 28.			
+			
+Bluetooth			
+La technologie sans fil Bluetooth permet un échange de communication sans fil de courte portée sur une distance d’environ 10 mètres sans la nécessité d’une connexion physique.			
+Vous n’avez pas à aligner les périphériques ensemble pour transférer de l’information en utilisant Bluetooth. Si les périphériques se trouvent dans la portée l’un de l’autre, vous pouvez échanger de l’information entre eux, même s’ils se situent dans des pièces différentes.			
+Samsung n'est pas responsable de la perte, de l'interception et de l'utilisation abusive des données envoyées ou reçues via la fonction sans fil Bluetooth.			
+			
+Assurez-vous toujours de partager ou recevoir des données d'appareils fiables et sécurisés. S'il y a des obstacles entre les deux appareils, la portée peut être réduite. Certains appareils, en particulier ceux qui n'ont pas été testés ou approuvés par Bluetooth SIG, peuvent être incompatibles avec votre téléphone.			
+Pour activer la fonction sans fil Bluetooth :			
+En mode veille, sélectionnez  Applications  →  Paramètres → Sans fil et réseau  →  Paramètres Bluetooth .			
+			
+Sélectionnez  Bluetooth  pour activer cette fonction. L’option est cochée en vert lorsque Bluetooth est activé.			
+			
+Pour rechercher des périphériques Bluetooth afin de s’y jumeler :			
+En mode veille, sélectionnez  Applications  →  Paramètres → Sans fil et réseau → Paramètres Bluetooth → Rechercher des périphériques			
+.			
+			
+Sélectionnez un périphérique.			
+Entrez un NIP pour la fonction sans fil Bluetooth ou le NIP de l’autre périphérique Bluetooth, s’il y en a un, et sélectionnez  OK . Vous pouvez aussi sélectionner Accepter pour jumeler le NIP de votre téléphone à celui de l’autre appareil.			
+			
+Lorsque le propriétaire de l’autre périphérique saisit le même NIP ou accepte la connexion, le jumelage s’effectue. Si le jumelage est réussi, le téléphone cherche automatiquement les services disponibles.			
+Certains périphériques, comme les casques d’écoute et les dispositifs mains libres, possèdent un NIP Bluetooth permanent, comme 0000. Entrez ce NIP permanent pour le jumelage.			
+			
+Pour envoyer des données au moyen de la fonction sans fil Bluetooth :			
+Sélectionnez un fichier ou un élément comme un message, un évènement au calendrier, une tâche, une image de l’application appropriée ou de  Fichiers .			
+			
+Pressez [ 			
+ ] →  Partager ,  Envoyer via  ou  Envoyer la carte de visite via → Bluetooth .			
+			
+Recherchez et jumelez le périphérique Bluetooth voulu.			
+Pour recevoir des données au moyen de la fonction sans fil Bluetooth :			
+En mode veille, sélectionnez  Applications  →  Paramètres → Sans fil et réseau → Paramètres Bluetooth → Visible .			
+			
+Votre téléphone est visible aux autres appareils Bluetooth pour une période de 120 secondes.			
+Lorsque demandé, entrez la clé d’activation de la fonction sans fil Bluetooth et sélectionnez  OK  (si nécessaire).			
+			
+Sélectionnez  Oui  pour confirmer que vous voulez recevoir des données de cet appareil (si nécessaire).			
+			
+Les données reçues sont sauvegardées dans une application ou un dossier correspondant au type de données. Par exemple, un fichier musical ou un clip audio sera enregistré dans le dossier Sons et un contact sera enregistré dans Contacts. Wi-Fi			
+			
+Vous pouvez activer une communication Wi-Fi et connecter votre téléphone aux réseaux locaux sans fil (WLAN) compatibles aux normes IEEE 802.11 b/g/n. Vous pouvez vous connecter à Internet ou à tout autre périphérique du réseau partout où il y a un point d’accès ou un point d’accès sans fil disponible.			
+Votre téléphone utilise des fréquences non harmonisées et, par conséquent,  certains pays pourraient restreindre l’utilisation d’un WLAN.			
+			
+Pour activer le réseau WLAN :			
+En mode veille, sélectionnez  Applications  →			
+			
+Paramètres → Sans fil et réseau → Paramètres Wi-Fi .			
+Sélectionnez  Wi-Fi  pour activer la fonctionnalité de réseau sans fil. L’option est cochée en vert indiquant que Wi-Fi est activé.			
+			
+			
+L'exécution de la fonction WLAN en arrière-plan consomme l'énergie de la pile. Pour économiser l’énergie de la pile, activez le réseau WLAN seulement lorsque vous voulez l’utiliser.			
+			
+Pour chercher un réseau WLAN et s’y connecter :			
+En mode veille, sélectionnez  Applications  →  Paramètres → Sans fil et réseau → Paramètres Wi-Fi . Le téléphone recherche automatiquement les réseaux WLAN disponibles.			
+			
+Sélectionnez un réseau sous  Réseaux Wi-Fi .			
+			
+Saisissez le mot de passe du réseau (si nécessaire).			
+Sélectionnez  Connexion .			
+			
+Pour ajouter un WLAN manuellement :			
+En mode veille, sélectionnez  Applications  →			
+			
+Paramètres → Sans fil et réseau → Paramètres Wi-Fi			
+→ Ajouter un réseau Wi-Fi .			
+			
+Saisissez le SSID du réseau et sélectionnez le type de sécurité.			
+Définissez les paramètres de sécurité selon le type de sécurité sélectionné.			
+Sélectionnez  Enregist rer .			
+			
+Pour vous connecter à un WLAN avec une configuration Wi-Fi protégée (WPS) :			
+WPS vous permet de vous connecter à un réseau sûr.			
+			
+En mode veille, sélectionnez  Applications  →			
+			
+Paramètres → Sans fil et réseau → Paramètres Wi-Fi .			
+			
+Sélectionnez  Connexion bouton WPS .			
+			
+Pressez un bouton WPS sur le point d’accès dans un délai de deux minutes.			
+Pour vous connecter à WLAN avec un NIP WPS :			
+En mode veille, sélectionnez  Applications  →			
+			
+Paramètres → Sans fil et réseau → Paramètres Wi-Fi .			
+			
+Sélectionnez un réseau marqué par l’icône WPS et sélectionnez  NIP WPS .			
+			
+Sur le point d’accès, entrez le NIP et pressez la touche  de lancement.			
+			
+AllShare			
+Vous pouvez utiliser le service Digital Living Network Alliance (DLNA) pour partager vos fichiers multimédias entre les appareils DLNA qui se trouvent à votre domicile au moyen du réseau WLAN.			
+Vous devez d’abord activer la fonction WLAN et ajouter un profil WLAN. ►  p. 84			
+			
+Personnaliser les paramètres DLNA pour le partage des fichiers multimédias : Afin de permettre à d’autres appareils DLNA d’accéder aux fichiers multimédias stockés dans votre téléphone, vous devez activer le partage multimédia.			
+Certains fichiers pourraient ne pas pouvoir être lus sur les appareils DLNA, selon les téléphones.			
+			
+En mode veille, sélectionnez  Applications →			
+			
+AllShare .			
+			
+Sélectionnez  Paramètres .			
+			
+Réglez les paramètres suivants pour personnaliser la fonction DLNA :			
+			
+Pour lire vos fichiers sur un autre appareil DLNA :			
+En mode veille, sélectionnez  Applications →			
+			
+AllShare .			
+			
+Sélectionnez  Lire le fichier du téléphone sur un autre lecteur .			
+Sélectionnez une catégorie de média, puis un fichier.			
+Sélectionnez  Ajouter à la liste de lecture .			
+			
+Sélectionnez le lecteur pour faire jouer le fichier multimédia. La lecture est lancée sur le lecteur sélectionné.			
+Utilisez les icônes du téléphone comme commandes de lecture.			
+La lecture peut être mise en mémoire tampon, selon la connexion réseau et le serveur connecté.			
+			
+Pour lire des fichiers d’autres appareils sur votre téléphone :			
+En mode veille, sélectionnez  Applications →			
+			
+AllShare .			
+			
+Sélectionnez  Lire le fichier du serveur sur mon téléphone .			
+			
+Votre téléphone recherche automatiquement les appareils DLNA.			
+Sélectionnez un appareil comme serveur multimédia, c.-à-d., un serveur contenant des fichiers multimédias.			
+Sélectionnez une catégorie de média, puis un fichier.			
+Utilisez les icônes du téléphone comme commandes de lecture.			
+Pour lire des fichiers d’un appareil sur un autre appareil			
+En mode veille, sélectionnez  Applications →			
+			
+AllShare .			
+			
+Sélectionnez  Lire le fichier du serveur sur un autre lecteur via mon téléphone .			
+			
+Votre téléphone recherche automatiquement des appareils DLNA.			
+Sélectionnez un appareil comme serveur multimédia,			
+c.-à-d., un serveur contenant des fichiers multimédias.			
+Sélectionnez une catégorie de média, puis un fichier.			
+Sélectionnez le lecteur pour faire jouer le fichier multimédia. La lecture est lancée sur le lecteur sélectionné.			
+Utilisez les icônes du téléphone comme commandes de lecture. Point d’accès mobile			
+			
+Vous pouvez utiliser votre appareil comme point d’accès sans fil afin de connecter d’autres périphériques de réseau à Internet.			
+En mode veille, sélectionnez  Applications  →  Paramètres → Sans fil et réseau → Point d’accès mobile .			
+			
+Sélectionnez  Point d’accès mobile  pour activer la fonction.			
+			
+Sélectionnez  Oui  pour confirmer.			
+			
+Pour modifier les paramètres, sélectionnez Paramètres Mobile AP.			
+Afin de protéger votre point d’accès mobile de toute connexion non autorisée, réglez le paramètre de sécurité à WPA2 PSK et créez un mot de passe requis pour tous les appareils pouvant accéder au point d’accès mobile.			
+			
+En mode veille, sélectionnez  Applications  →			
+			
+Paramètres → Affichage → Sortie TV .			
+			
+Sélectionnez  Sortie TV  pour activer le mode sortie TV.			
+			
+Sélectionnez  Système TV .			
+			
+Sélectionnez un système d’encodage vidéo selon votre région.			
+			
+À partir d’un autre périphérique, cherchez le nom de votre appareil dans la liste de connexions possibles. Si le paramètre de sécurité WPA2 PSK est activé, connectez-vous au réseau en saisissant le mot de passe requis dans le champ WPA.			
+Connecter le téléphone à une télé  (Mode sortie TV)			
+			
+Vous pouvez connecter votre appareil à un téléviseur et afficher l’interface du téléphone sur l’écran du téléviseur.			
+			
+			
+Option	Fonction		
+PAL	Australie, Autriche, Belgique, Chine, Danemark, Angleterre, Finlande, Allemagne, Italie, Koweït, Malaisie, Pays-Bas, Nouvelle-Zélande, Norvège, Singapour, Espagne, Suède, Suisse, Thaïlande		
+NTSC	Canada, Japon, Corée, Mexique, Taïwan, États-Unis		
+			
+Assurez-vous que le téléviseur est allumé et connectez votre appareil au téléviseur au moyen du câble de sortie TV.			
+Faites correspondre les couleurs des fiches du câble de sortie TV avec ceux des ports audiovisuels du téléviseur.			
+Activez le mode d’entrée externe du téléviseur. L’interface du téléphone s’affiche à l’écran du téléviseur.			
+Il est possible que les fichiers ne s'affichent pas correctement en raison de différences dans les systèmes vidéos ou de la qualité de l'écran du téléviseur.			
+Le casque stéréo Bluetooth et la fonction de zoom ne fonctionnent pas en mode sortie TV.			
+			
+Connecter le téléphone à un ordinateur			
+			
+Vous pouvez connecter votre appareil à un ordinateur au moyen de divers modes de connexion USB : vous pouvez utiliser le programme Samsung Kies pour mettre à jour le logiciel du téléphone, synchroniser les fichiers avec le lecteur Windows Media, transférer des données vers ou depuis votre appareil, ou utiliser votre appareil comme modem sans fil pour l’ordinateur.			
+			
+Pour connecter le téléphone avec Samsung Kies :			
+Vous devez d’abord installer Samsung Kies sur votre ordinateur. Vous pouvez télécharger le programme à partir du site Web de Samsung  (www.samsungmobile.com).			
+En mode veille, sélectionnez  Applications  →  Paramètres → Applications  →  Paramètres USB → Samsung Kies .			
+			
+Pressez 			
+ pour revenir en mode veille.			
+			
+Branchez le câble de données dans les prises multifonctions du téléphone et de l’ordinateur.			
+Exécutez Samsung Kies et utilisez une connexion sans fil pour copier des données et des fichiers.			
+Veuillez consulter l’aide de Samsung Kies pour plus de  détails.			
+			
+Pour synchroniser avec le lecteur Windows Media :			
+Vous devez d’abord installer le lecteur Windows Media sur votre ordinateur.			
+En mode veille, sélectionnez  Applications  →  Paramètres → Applications → Paramètres USB → Lecteur média .			
+			
+Pressez 			
+ pour revenir en mode veille.			
+			
+Branchez le câble de données dans les prises multifonctions du téléphone et de l’ordinateur muni du lecteur Windows Media.			
+Lorsque le téléphone est connecté, une fenêtre contextuelle s’ouvre à l’écran de l’ordinateur.			
+Ouvrez le lecteur Windows Media pour synchroniser les fichiers musicaux.			
+Modifiez ou saisissez le nom du téléphone dans la fenêtre contextuelle (si nécessaire).			
+Sélectionnez et déplacez les fichiers musicaux désirés dans la liste de synchronisation.			
+Lancez la synchronisation.			
+			
+Pour connecter le téléphone en tant que mémoire auxiliaire :			
+Vous pouvez connecter votre appareil à un ordinateur en tant que disque amovible et ainsi accéder au répertoire de fichiers. Si vous insérez une carte mémoire dans le téléphone, vous pouvez aussi accéder au répertoire de fichiers de la carte mémoire en utilisant le téléphone comme lecteur de carte mémoire.			
+Le répertoire de la carte mémoire apparait comme un disque amovible distinct.			
+			
+Si vous souhaitez transférer des fichiers vers ou depuis la carte mémoire, insérez-en une dans le téléphone.			
+En mode veille, sélectionnez  Applications  →  Paramètres → Applications → Paramètres USB → Stockage de masse			
+.			
+			
+Pressez 			
+ pour revenir en mode veille.			
+			
+Branchez le câble de données dans les prises multifonctions du téléphone et de l’ordinateur.			
+Lorsque le téléphone est connecté, une fenêtre contextuelle s’ouvre à l’écran de l’ordinateur.			
+Ouvrez le dossier pour voir les fichiers.			
+Copiez les fichiers de l’ordinateur vers la carte mémoire.			
+Pour débrancher l'appareil de l'ordinateur, cliquez sur l'icône  Retirer le périphérique en toute sécurité et éjecter 			
+dans la barre de tâches de Windows et sélectionnez  Éjecter SAMSUNG_Android . Débranchez le téléphone quand le message Retirer le périphérique en toute sécurité apparait. Retirez ensuite le câble de données de l'ordinateur. Sinon, vous risquez de perdre ou de corrompre vos données ou d’endommager la carte mémoire.			
+			
+			
+Modem USB			
+			
+Vous pouvez utiliser votre appareil en tant que modem sans fil pour l’ordinateur afin d’accéder à Internet via votre service de réseau mobile grâce à une connexion USB. Branchez le câble de données dans les prises multifonctions du téléphone et de l’ordinateur.			
+En mode veille, sélectionnez  Applications  →  Paramètres → Sans fil et réseau → Fonction modem .			
+			
+Sélectionnez Modem USB pour activer cette fonctionnalité.			
+Votre téléphone partagera sa connexion Internet mobile avec l’ordinateur.			
+Pour cesser la partage de la connexion réseau, décochez Modem USB.			
+La méthode de partage de la connextion réseau varie selon le système d’exploitation de l’ordinateur.			
+			
+Horloge			
+Vous pouvez régler des alarmes et sélectionner les fuseaux horaires. Vous pouvez aussi utiliser le chronomètre et le minuteur.			
+Pour régler une nouvelle alarme :			
+En mode veille, sélectionnez  Applications →  Horloge			
+→ Alarme .			
+			
+Sélectionnez  Créer  ou pressez 			
+  → Créer .			
+			
+Réglez les détails des alarmes : Heure de l’alarme, Répéter l’alarme (Une fois seulement, Tous les jours, Jours de la semaine, Hebdomadaire, ou sélectionnez les jours voulus), Répéter (permet de définir un délai de reprise de l’alarme en touchant “Répéter”, Alarme intelligente (le téléphone émet un son naturel et affiche l’écran d’alarme pour le délai défini avant que l’alarme ne s’arrête), Type d’alarme (Mélodie, Vibreur, Vibreur et mélodie ou Vocal), Tonalité alarme et Volume.			
+			
+Lorsque vous avez terminé, sélectionnez  Sauveg.			
+			
+Si vous avez sélectionné  Alarme intelligente , votre téléphone émettra une tonalité inspirée de la nature et affichera l’écran d’alarme jusqu’à ce que l’alarme programmée s’éteigne.			
+			
+Pour arrêter une alarme :			
+Lorsqu’une alarme est émise :			
+Pour arrêter l’alarme, glissez le bouton 			
+ vers la droite jusqu’au point.			
+			
+Pour répéter l’alarme, après un intervalle déterminé, glissez le bouton 			
+vers la droite jusqu’au point.			
+			
+Pour supprimer une alarme :			
+En mode veille, sélectionnez  Applications → Horloge			
+			
+→ Alarme .			
+			
+Pressez [ 			
+ ] →  Supprimer .			
+			
+Sélectionnez les alarmes que vous souhaitez supprimer.			
+Sélectionnez  Supprimer . Pour ajouter un fuseau horai re :			
+			
+En mode veille, sélectionnez  Applications →  Horloge			
+			
+→ Horloge .			
+			
+Sélectionnez  Ajouter une ville  ou pressez 			
+  →			
+			
+Ajouter .			
+			
+Saisissez le nom d’une ville ou sélectionnez une ville dans la liste.			
+Pour sélectionner une ville sur le globe, sélectionnez	.		
+			
+Pour ajouter d’autres fuseaux horaires, répétez les étapes 2 et 3.			
+Pour appliquer l’heure d’été, touchez longuement l’heure que vous souhaitez régler et sélectionnez  Heure d’été . Vous pouvez définir ce réglage à Automatique, OFF, 1 heure ou 2 heures.			
+			
+Pour utiliser le chronomètre :			
+En mode veille, sélectionnez  Applications →  Horloge			
+			
+→ Chrono .			
+			
+Sélectionnez  Début  pour lancer le chrono.			
+			
+Sélectionnez  Tour  pour mesurer un intervalle.			
+			
+Lorsque terminé, sélectionnez  Arrêter .			
+			
+Sélectionnez  Réinit.  pour effacer les résultats			
+			
+Pour utiliser le minuteur :			
+En  mode veille, sélectionnez  Applications → Horloge			
+			
+→ Minuteur .			
+			
+Réglez la durée du décompte.			
+Sélectionnez  Début  pour lancer le décompte.			
+Vous pouvez alors utiliser d’autres fonctions avec le décompte du minuteur en arrière-plan. Pressez 			
+ ou [ 			
+ ] pour ouvrir une autre application.			
+			
+À l’expiration du décompte, glissez le bouton 			
+ vers la droite jusqu’au point pour arrêter la tonalité d’alerte.			
+			
+Calculatrice			
+			
+Avec votre téléphone, vous pouvez exécuter des calculs mathématiques similaires à ceux que vous feriez sur une calculatrice portable ou sur la calculatrice d’un ordinateur.			
+En mode veille, sélectionnez  Applications →			
+			
+Calculatrice .			
+			
+Pour utiliser les fonctions mathématiques de base, tenez le téléphone en mode portrait. Pour afficher et utiliser la calculatrice scientifique, orientez le téléphone en mode paysage.			
+Effectuez les opérations mathématiques voulues. Sélectionnez 			
+ pour fermer le clavier de la calculatrice.			
+			
+L’historique de calcul apparait.			
+Pour effacer l’historique, pressez [ 			
+ ]  → Effacer l’historique .			
+			
+Mini journal			
+Vous pouvez tenir un journal photo dans votre téléphone. Pour créer un mini-journal :			
+En mode veille, sélectionnez  Applications → Mini journal .			
+			
+Sélectionnez  Créer journal  pour créer une nouvelle entrée.			
+			
+Touchez à la date pour entrer la date d’aujourd’hui.			
+Sélectionnez  Ajouter photo  et ajouter une image existante ou utilisez l’appareil photo pour prendre une photo.			
+			
+Sélectionnez  Appuyer pour créer une note , saisissez le texte, puis sélectionnez  Enregistrer .			
+			
+Sélectionnez  Enregistrer  pour enregistrer le fichier du journal.			
+			
+Pour afficher un mini-journal :			
+En mode veille, sélectionnez  Applications → Mini journal .			
+			
+Sélectionnez un journal.			
+Pour téléverser un mini-journal sur le site d’un réseau social, pressez [ 			
+ ] →  Publier .			
+			
+Fichiers			
+Vous pouvez accéder facilement à vos images, vidéos, musique, clips audios et tout autre type de fichiers stockés dans une carte mémoire.			
+En mode veille, sélectionnez  Applications → Fichiers .			
+			
+Sélectionnez un dossier, puis un fichier.			
+Dans un dossier, pressez [ 			
+ ] pour utiliser les options suivantes :			
+			
+Partager  : permet de partager des fichiers avec d’autres personnes au moyen de AllShare, Messages, Bluetooth, Picasa, Courriel, Samsung Email, Gmail ou YouTube.			
+			
+Créer dossier  : crée un nouveau dossier.			
+			
+Supprimer  : supprime les fichiers ou dossiers.			
+			
+Aff. par  : change le mode d’affichage.			
+			
+Trier par  : trie les fichiers ou dossiers.			
+			
+Plus  : sélectionne des fonctions supplémentaires, comme  Déplacer ,  Copier ,  Renommer ,  Visibilité Bluetooth  et 			
+Paramètres .			
+			
+ThinkFree Office			
+Vous pouvez afficher et modifier des fichiers stockés dans une carte de mémoire insérée dans votre téléphone. Si vous avec un compte de services Web ThinkFree et Google DocsMC, vous pouvez gérer vos documents en ligne. Cette application prend en charge les formats : .txt, .doc, .docx,			
+.xls, .xlsx, .ppt, .pptx et .pdf.			
+Pour créer un nouveau document :			
+En mode veille, sélectionnez  Applications →			
+			
+ThinkFree Office .			
+			
+Lorsque vous accédez à cette application pour la première fois, sélectionnez  Accepter  pour confirmer l’activation. Sélectionnez 			
+Activer maintenant  pour activer cette application sur votre téléphone			
+			
+Sélectionnez  Mes documents .			
+			
+Pressez [ 			
+  ]  →  Nouveau  et sélectionnez un type de document.			
+			
+Entrez un nom pour le document et sélectionnez  OK .			
+			
+Entrez les contenus du document à l’aide des outils apparaissant au bas de l’écran. Lorsque vous avez terminé l’édition du document, sélectionnez l’icône Enregistrer dans la barre d’outils 			
+ ou pressez [ 			
+			
+ ] →  Fichier  →  Enregistrer .			
+			
+Pour afficher et modifier un document sur votre téléphone :			
+En mode veille, sélectionnez  Applications →			
+			
+ThinkFree Office .			
+			
+Sélectionnez  Mes documents , puis sélectionnez un document.			
+			
+Sélectionnez un type d’encodage de texte (si nécessaire).			
+Affichez et modifiez le document.			
+Pour feuilleter les pages ou vous déplacer à travers tout le document, défilez dans la direction voulue.			
+Pour ouvrir la barre d’outils afin de modifier le document (fichier word, text ou excel), pressez [ 			
+ ] →  Modifier .			
+			
+Lorsque vous avez terminé les modifications, sauvegardez le document.			
+Pour gérer vos documents en ligne :			
+En mode veille, sélectionnez  Applications →			
+			
+ThinkFree Office .			
+			
+Sélectionnez  En ligne .			
+			
+Entrez votre nom d’utilisateur et votre mot de passe pour accéder à votre compte, puis sélectionnez  Se connecter .			
+			
+Visualisez et gérez vos documents sur le serveur.			
+			
+Write and go			
+Vous pouvez entrer du texte et l’envoyer comme message, l’ajouter à un site de communauté Web ou le sauvegarder			
+pour ajouter le texte ou créer une note ou un évènement.			
+Commande vocale			
+			
+comme note ou évènement de calendrier.			
+			
+En mode veille, sélectionnez  Applications → Write and go .			
+			
+Entrez le texte dans un panneau de saisie de texte.			
+Lorsque vous avez terminé, sélectionnez l’une des options.			
+Envoyer  : envoie un message texte à un contact ou envoie un message texte par courriel.			
+			
+Mise à jour  : ajoute le texte sur le site Web d’une communauté.			
+			
+Enregistrer  : enregistre le texte comme note ou évènement de calendrier.			
+			
+Suivez les directives à l’écran pour envoyer un message, vous connecter à un service de communauté			
+Vous pouvez composer un numéro ou ouvrir une application au moyen de la commande vocale.			
+Cette fonctionnalité pourrait ne pas être disponible dans certaines régions.			
+			
+Les langues reconnues varient selon la région.			
+			
+Pour appeler un contact au moyen de la commande vocale :			
+Vous pouvez appeler des numéros directement en prononçant le nom ou le numéro d’un contact.			
+En mode veille, sélectionnez  Applications →			
+			
+Numérotation vocale .			
+			
+Dites «  Appeler »  ou «  Composer  », puis dites un nom ou un numéro de téléphone.			
+			
+Pour recomposer le dernier numéro, dites			
+«  Recomposer  ».			
+Pressez  OK  pour confirmer l’action voulue ou sélectionnez l’action voulue dans la liste de confirmation Le téléphone compose le numéro en question.			
+			
+Pour ouvrir une application :			
+En mode veille, sélectionnez  Applications →			
+			
+Numérotation vocale .			
+			
+Dites «  Ouvrir  », suivi du nom d’une application. Le téléphone ouvre l’application en question.			
+			
+Pressez  OK  pour confirmer l’opération. Le téléphone ouvre l’application demandée.			
+			
+Recherche vocale			
+			
+Vous pouvez effectuer des recheches Internet par commande vocale.			
+En mode veille, sélectionnez  Applications  →			
+			
+Recherche vocale .			
+			
+Dites un mot-clé.			
+Le téléphone effectue une recherche Internet liée au mot-clé.			
+Navigation			
+			
+Le système de navigation Google Maps (Beta) est un système GPS basé sur Internet qui guide l’utilisateur grâce à des directives vocales étape par étape.			
+En mode veille, sélectionnez  Applications →			
+			
+Navigation .			
+			
+Suivez les directives à l’écran.			
+Pour une meilleure réception du signal GPS, évitez d’utiliser l’apareil dans les conditions suivantes :			
+			
+à l’intérieur d’un immeuble ou entre des immeubles			
+dans un tunel ou dans un passage souterrain			
+dans de mauvaises conditions météorologiques			
+à proximité de zones à haut-voltage ou de champs électromagnétiques.			
+dans un véhicule aux fenêtres teintées.			
+			
+Kobo			
+L’application  kobo vous permet de télécharger et de lire facilement des fichiers livres.			
+			
+Pour lire un fichier livre :			
+En mode veille, sélectionnez  Applications → Kobo .			
+			
+Connectez-vous, si vous avez déjà un compte, ou créez un compte si vous utilisez kobo pour la première fois.			
+Une fois la connexion établie, votre liste de lecture s’affiche. Sélectionnez un livre dans votre liste. Le fichiers s’ouvre. Pour parcourir le livre en tournant les pages, posez le doigt près de la bordure gauche ou droite de l’écran ou glissez le doigt à travers l’écran. Vous pouvez aussi toucher le centre de l’écran et utiliser le curseur pour vous déplacer à la page voulue.			
+Pour ajouter une note ou surligner du texte et l’ajouter à la liste de textes surlignés (Highlight list), touchez longuement l’écran et touchez  Select Text .			
+			
+Durant la lecture d’un livre, vous pouvez afficher les options en touchant le centre de la page. La page de lecture en cours est automatiquement mise en signet.			
+Library  : ouvre votre liste de lecture pour sélectionner un autre livre.			
+			
+Contents  : affiche la table des matières du livre.			
+			
+Overview  : affiche l’aperçu du livre.			
+			
+Highlights  : affiche le texte que vous avez surligné.			
+			
+Notes  : affiche les notes que vous avez ajoutées au livre.			
+Tools  : permet de changer la taille de la police, le style de police et le type de transition des pages; et d’activer ou désactiver le mode Nuit. Le mode Nuit affiche le texte en blanc sur un fond noir pour réduire la luminosité			
+			
+Pour télécharger des fichiers livres à partir d’une bibliothèque en ligne :			
+En mode veille, sélectionnez  Applications → Kobo .			
+			
+Utilisez l’une des options suivantes pour accéder à un livre ou pour le télécharger :			
+Discover  : ouvre une liste de catégories telles que Featured, Featured Free Titles, Free Classics, etc.			
+			
+Sélectionnez une catégorie pour afficher les livres à télécharger.			
+Browse  : ouvre une liste de catégories divisées en sous-catégories. Sélectionnez un livre à télécharger.			
+			
+Search  : permet de rechercher un livre.			
+			
+Mode  Voiture			
+			
+L’application Mode voiture vous permet d’accéder facilement à la navigation et aux appels.			
+En mode veille, sélectionnez  Applications → Mode Voiture .			
+			
+Sélectionnez l’application que vous voulez utiliser. Les options disponibles sont Recherche, Navigation, Maps,			
+			
+Téléphone, Contacts, Musique et Paramètres. Une option de recherche Internet vous est aussi offerte.			
+Une notice d’avertissement concernant votre responsabilité quant à l’utilisation de l’application Mode Voiture et vous recommandant de ne pas utiliser cette application en conduisant s’affiche. Sélectionnez  Accepter  pour utiliser l’application.			
+			
+Mode  Bureau			
+			
+L’application Mode Bureau affiche l’heure et la date ou un calendrier à l’écran en orientation paysage, et permet l’accès aux applications de base.			
+En mode veille, sélectionnez  Applications → Mode Bureau .			
+			
+Affiche l’horloge ou le calendrier avec les options Alarme, Musique, Galerie et Navigateur.			
+Utilisez 			
+ pour régler l’affichage Horloge numérique ou le type d’affichage du calendrier. Vous pouvez aussi définir le papier peint et afficher de l’information sur la météo.			
+			
+Samsung Apps			
+Le menu Samsung Apps vous permet de télécharger et de mettre à jour un large éventail d’applications mobiles pratiques, entre autres, des jeux, des widgets, des sites d’informations, de référence, de réseautage et des sites liés à la santé. Pour que vous puissez utiliser les applications Samsung, votre appareil doit être connecté à Internet au moyen d'une connexion cellulaire ou Wi-Fi.			
+Pour lancer Samsung Apps, en mode veille, sélectionnez			
+Applications → Samsung Apps .			
+			
+Pour lancer les widgets, touchez longuement la zone vide de l’écran de veille et sélectionnez  Widgets  dans la liste.			
+			
+Pour lancer les applications téléchargées, en mode veille, sélectionnez  Applications →  l’application souhaitée.			
+			
+Toutes les applications de Samsung Apps mises à votre disposition sont soumises aux conditions d'utilisation (http://			
+www.samsungapps.com/common/term.as)  de Samsung Apps et aux conditions d'utilisation de compte Samsung 			
+(http://www.samsungapps.com/common/terms4account.as).  Veuillez lire attentivement ces conditions pour comprendre les fondements sur lesquels nous vous offrons ces applications. Avant de livrer ces applications à votre appareil, il est possible que nous vous demandions de l'information personnelle. Si c’est le cas, nous le ferons conformément à notre politique de confidentialité 			
+(http://www.samsungapps.com/common/privacy.as).  Pour recevoir toute application, vous devez sélectionner le bouton « Accepter » pour indiquer que vous acceptez nos conditions d'utilisation et l'utilisation de vos données personnelles conformément à notre politique de confidentialité.			
+			
+			
+L’accès à Internet et le téléchargement d’applications pourraient vous occasionner des frais supplémentaires. Pour plus de détails, contactez votre fournisseur de services.			
+			
+Les applications, widgets et mises à jour disponibles pourraient différer selon votre région.			
+			
+Gestionnaire de tâches			
+Cette application fournit l’information sur les processus et les programmes en cours sur votre téléphone de même que sur l’utilisation de la mémoire. Vous pouvez aussi mettre fin à un processus ou une application.			
+Pour lancer le gestionnaire de tâches, en mode veille, sélectionnez  Applications → Gestionnaire de tâches .			
+			
+Les options du gestionnaire de tâches apparaissent au haut de l’écran. Touchez l’un des onglets suivants :			
+Applications actives  : affiche toutes les applications en cours sur votre téléphone. Touchez  Fin  à côté d’une application active pour y mettre fin, ou touchez 			
+Fin  à côté de la liste des applications actives pour toutes les fermer.			
+Ensemble  : affiche la taille des programmes d’application (apps) installés sur votre téléphone. Touchez Désinstaller pour supprimer un programme de votre téléphone.			
+			
+Gestionnaire RAM  : afffiche l’espace de la mémoire vive utilisée et disponible. Vous pouvez aussi effacer la mémoire vive.			
+			
+Résumé  : affiche l’espace utilisé et disponible de la mémoire du téléphone et des emplacements de stockage.			
+			
+Aide  : affiche des astuces pour maximiser la durée utile de votre pile.			
+			
+Paramètres			
+Pour accéder au menu Paramètres :			
+En mode veille, sélectionnez  Applications →  →			
+Paramètres .			
+			
+Sélectionnez une catégorie, puis une option.			
+Sans fil et réseau			
+Vous pouvez changer les paramètres de connexion au réseau sans fil.			
+Mode  Hors-ligne			
+			
+Désactive toutes les fonctionnalités sans fil de votre téléphone. Vous ne pouvez utiliser que les services hors réseau.			
+			
+Paramètres Wi-Fi			
+Wi-Fi :  active ou désactive la fonctionnalité WLAN. ►  p. 84			
+			
+Notification réseau  : règle le téléphone pour vous avertir quand un réseau ouvert est accessible.			
+			
+Connexion bouton WPS :  permet de se connecter à un WLAN à l’aide d’un bouton de configuration Wi-Fi protégée (WPS).			
+			
+Ajouter un réseau Wi-Fi  : permet d’ajouter des points d’accès WLAN manuellement.			
+			
+Points d’accès mobile			
+Activer la fonctionnalité Point d’accès mobile afin d’utiliser votre téléphone comme point d’accès sans fil pour connecter d’autre périphérique de réseau à Internet.			
+p. 87			
+Paramètres Bluetooth			
+Bluetooth :  active ou désactive la fonctionnalité Bluetooth sans fil. ►  p. 81			
+			
+Nom de l’appareil  : permet de définir le nom Bluetooth de votre appareil.			
+Visible  : permet aux autres appareils Bluetooth de détecter votre téléphone.			
+			
+Rechercher des périphériques  : détecte les périphériques Bluetooth disponibles.			
+			
+Fonction modem			
+Activez la fonction modem pour partager la connexion réseau mobile de votre téléphone avec votre ordinateur via une connexion USB. Lorsque vous êtes connecté à l’ordinateur, votre téléphone sert de modem sans fil pour l’ordinateur. ►  p. 92			
+			
+Paramètres VPN			
+Vous pouvez créer et gérer des réseaux privés virtuels (VPN).			
+Réseaux mobiles Autoriser connexions données  : règle le téléphone pour qu’il permette l’utilisation de connexions de données pour des services de réseau.			
+			
+Itinérance  : règle le téléphone pour qu’il se connecte à un autre réseau lorsque vous êtes en itinérance ou que votre réseau n’est pas disponible.			
+			
+Noms des points d’accès  : définit le nom des points d’accès (APN).			
+			
+Mode Réseau :  sélectionne le type de réseau pour le téléphone :  GSM/WCDMA (mode Automatique) ,  GSM uniquement 			
+ou  WCDMA uniquement.			
+			
+Opérateurs réseau  : recherche des réseaux disponibles et sélectionne un réseau pour l’itinérance.			
+			
+Appels			
+			
+Vous pouvez personnaliser les paramètres des fonctions d’appel.			
+Tous les  appels			
+			
+Afficher mon no  : affiche votre numéro de téléphone mobile pour les destinataires de vos appels. (Vous devez insérer une carte SIM pour utiliser cette fonctionnalité.)			
+			
+Rejet automatique  : active ou désactive le rejet automatique et offre une liste de correspondants à rejeter automatiquement.			
+			
+Réponse à l’appel  : règle la réponse aux appels par pression de n’importe quelle touche du téléphone ou la réponse automatique après une période déterminée.			
+			
+Numérotation du préfixe  : active la numérotation du préfixe et configure les numéros avec leurs préfixes.			
+			
+Rejeter l’appel avec message  : sélectionne le message à envoyer à l’appelant lorsque vous rejetez l’appel.			
+			
+Tonalités état d’appel  : active ou désactive la tonalité de début ou de fin d’appel ou le bip minute.			
+			
+Vibreur en cas d’appel sortant  : règle le téléphone pour qu’il vibre lorsque l’interlocuteur prend l’appel.			
+			
+Alerte en cours d’appel  : active ou désactive l’alerte pendant un appel.			
+			
+Appel vocal			
+Renvoi d’appel :  renvoie les appels entrants vers un autre numéro.			
+			
+Interdiction d’appel :  bloque certains appels entrants ou sortants.			
+			
+Signal d’appel :  active l’option d’appel en attente pour la réception d’appels lorsque vous avez déjà un appel en cours.			
+			
+Rappel automatique  : active le rappel automatique si l’appel n’aboutit pas ou est coupé.			
+			
+Numéros autorisés			
+Activer FDN :  active la liste de numéros autorisés exclusifs.			
+Changer PIN2 :  change le NIP utilisé pour accéder la aux numéros autorisés.			
+			
+Liste FDN :  gère la liste des numéros autorisés.			
+			
+Messagerie vocale			
+Service de messagerie  : permet d’activer ou désactiver le service de messagerie vocale.			
+			
+No de messagerie vocale  : affiche le numéro d’accès au service de messagerie vocale. Ce numéro est stocké dans votre carte SIM et vous est donné par le fournisseur de services.			
+			
+Mode HAC			
+Ce sous-menu peret d’activer ou désactiver le mode de compatibilité avec une prothèse auditive.			
+Son			
+Sonnerie du téléphone  : sélectionne une sonnerie pour les appels vocaux entrants.			
+			
+Sonnerie de notification  : sélectionne une sonnerie  pour les évènements, tels les messages entrants, les appels manqués et les alarmes.			
+			
+		•  Son du clavier  : règle le téléphone pour qu’il émette une	
+			
+Changez les paramètres pour diverses fonctions relatives au son de votre téléphone.			
+Profil Discret  : active le mode silencieux pour arrêter tous les sons du téléphone sauf les sons multimédias et les sonneries d’alerte.			
+			
+Vibreur  : règle le téléphone pour qu’il vibre lors des appels entrants. Les options sont : Toujours, Jamais, Uniquement en mode silencieux ou Uniq. qd mode silencieux est désacti....			
+			
+Volume  : règle le volume par défaut des sonneries des appels entrants, des médias, du système et des notifications.			
+			
+tonalité qui accompagne les touches de numérotation sur le clavier tactile.			
+Sélection sonore  : règle le téléphone pour qu’il émette une tonalité lorsque vous sélectionnez une application ou une option sur l’écran tactile.			
+			
+Sons verrouillage de l’écran  : règle le téléphone pour qu’il émette des tonalités lorsque vous verrouillez ou déverrouillez l’écran tactile.			
+			
+Retour tactile  : règle le téléphone pour qu’il vibre lorsque vous touchez les touches.			
+			
+Intensité des vibrations  : ajuste l’intensité de la vibration du retour tactile.			
+			
+Affichage			
+Changez les paramètres pour diverses fonctions relatives au son de votre téléphone.			
+Fonds d’écran :  sélectionne les papiers peints pour l’écran d’accueil et de verrouillage.			
+			
+Police  : sélectionne la police pour le texte d’affichage. Vous pouvez télécharger des polices de texte à partir d’Android Market en sélectionnant  Obtenir des polices en ligne .			
+			
+Luminosité  : règle la luminosité de l’écran.			
+			
+Faire pivoter autom. écran  : définit si le contenu doit pivoter automatiquement ou non lorsque vous faites pivoter le téléphone.			
+			
+Verrouillage puzzle :  affiche des pièces de puzzle dans l’écran de verrouillage pour les messages et les appels manqués.			
+			
+Animation  : définit s’il y aura des animations ou non lors des transitions entre deux fenêtres.			
+			
+Mise en veille de l’écran  : règle le délai avant que l’éclairage de l’écran ne s’éteigne lorsque que le téléphone n’est pas utilisé.			
+Mode économie d’énergie  : active le mode économie d’énergie. Grâce à l’analyse des images, ce mode permet d’économiser de l’énergie en ajustant le niveau de luminosité de l’écran ACL aux besoins.			
+			
+Sortie TV  : sélectionne le système d’encodage qui convient à la connexion à votre téléviseur. ►  p. 88.			
+			
+Calibrage horizontal  : calibre le capteur géomagnétique lorsque la boussole ou l’amplificateur de réalité affiche de l’information erronée.			
+			
+			
+Maintenez l’écran tactile ou clavier orienté vers le haut durant le calibrage.			
+			
+Le calibrage peut prendre quelque temps, selon l’endroit où vous êtes et d’autres conditions. Le calibrage s’avèer impossible dans les zones à forts champs magnétiques. Si le calibrage échoue, déplacez-vous et réessayez.			
+Si, après le calibrage, vous entrez dans une zone à forte intensité magnétique, votre téléphone tentera aussitôt de recalibrer le capteur géomagnétique.			
+Le capteur géomagnétique de votre téléphone ne prend pas en charge la vue à vol d’oiseau qui détermine la direction. Ainsi, une petite erreur peut survenir dans la mesure d’angle et entrainer la production d’une carte à l’envers.			
+Localisation et sécurité			
+			
+Vous pouvez modifier les  paramètres de sécurité du téléphone, de la carte SIM et de la fonction GPS.			
+			
+Utiliser des réseaux sans fil  : règle le téléphone pour qu’il utilise un réseau sans fil pour vérifier les localisations, si pris en charge par une application.			
+			
+Utiliser les satellites GPS  : active la fonction GPS pour vérifier les localisations, si pris en charge par une application. Vous pouvez voir les localisations à l’échelle de la rue à l’aide du GPS.			
+			
+Utiliser la fonction Aide à la localisation  (GPS mixte) : règle l’utilisation de capteurs pour améliorer le positionnement piéton lorsque le signal GPS est obstrué. Des variations sont possibles entre l’estimation faite par le capteur et votre position réelle.			
+			
+Définir verrouillage  : permet de définir un code de sécurité (Modèle, Code NIP ou Mot de passe). Lorsqu’un code de sécurité est défini, cette option passe à			
+			
+Paramètres déverr. écran. Réglez à Aucun pour désactiver le mode de sécurité. ▶  p. 22.			
+			
+Configurer blocage SIM :			
+Verrouiller carte SIM  : active ou désactive la fonction NIP qui exige la saisie du NIP afin de pouvoir utiliser le téléphone.			
+			
+Modifier code NIP SIM  : modifie le NIP utilisé pour accéder aux données de la carte SIM.			
+			
+Mots de passe visibles  : par défaut, le téléphone affiche des 			
+ à la saisie de votre mot de passe par mesure de sécurité. Vous pouvez régler le téléphone pour qu’il affiche votre mot de passe lors de sa saisie.			
+			
+Sélect. admin. de périphérique  : affiche les administrateurs installés sur le téléphone. Vous pouvez activer les administrateurs pour appliquer de nouvelles politiques à votre téléphone.			
+			
+Utiliser des informations d’identification sécuris...  : utilise des certificats et des informations d’identification sures pour la sécurité de diverses applications.			
+			
+Installer les certificats cryptés depuis la carte SD  : installe des certificats cryptés stockés sur une carte mémoire.			
+Définir un mot de passe  : crée et confirme le mot de passe de stockage des informations d’identification.			
+			
+Supprimer le stockage  : efface toutes les informations d’identification stockées et réinitialise le mot de passe.			
+			
+Applications			
+			
+Vous pouvez modifier le paramètre de gestion pour les applications installées.			
+Sources inconnues  : pour installer des applications de toute source. Si vous ne sélectionnez pas cette option, vous ne pouvez télécharger que des applications de Android Market.			
+			
+Gérer les applications  : accède à la liste des applications installées dans le téléphone et vérifie l’information de l’application. Les applications sont groupées en catégories :  Tiers ,  Exécution ,  Tout  ou  Carte SD . Dans chaque catégorie, vous pouvez de plus trier les applications par taille ou par ordre alphabétique. Pressez 			
+  → Trier par taille 			
+ou  a-z .			
+Services en cours d’exécution  : pour afficher et contrôler les services en cours d’exécution.			
+			
+Développement :			
+Déblogage USB  : permet de connecter votre téléphone à un ordinateur à l’aide d’un câble de données. Cette fonction sert au développement d’applications.			
+			
+Positions fictives  : permet des positions et informations de service fictives à envoyer au gestionnaire de localisation à des fins de test. Cette fonction sert au développement d’applications.			
+Paramètres USB :  active divers modes de connexions USB lorsque vous connectez votre téléphone au PC.			
+			
+p. 89.			
+Comptes et  synchronisation			
+			
+Vous pouvez changer les paramètres de la fonction Synchronisation auto ou gérer les comptes pour la synchronisation.			
+Données en arrière-plan  : permet d’exécuter la synchronisation, l’envoi et la réception de données en arrière-plan en tout temps (cette fonction doit être activée pour utiliser la fonction Synchronisation auto).			
+			
+Synchronisation auto  : règle le téléphone pour synchroniser automatiquement les données de contact, du calendrier et les courriels.			
+			
+Confidentialité			
+Vous pouvez changer les paramètres pour la gestion de vos paramètres et données.			
+Sauvegarder mes données  : sauvegarde vos paramètres actuels sur le serveur Google.			
+			
+Restaurer automatiquement  : règle le téléphone pour qu’il restaure les données sauvegardées lors de la réinstallation d’une application.			
+			
+Rétablir param. par défaut  : restaure vos paramètres aux valeurs par défaut et efface vos données.			
+			
+Carte SD et mémoire			
+Vous pouvez vérifier l’espace mémoire utilisé et disponible dans la carte externe et dans la mémoire du téléphone.			
+Carte SD			
+Espace total  : affiche l’espace de stockage total.			
+			
+Espace disponible  : affiche l’espace de stockage disponible .			
+			
+Démonter/Monter la carte SD  : désinstalle la carte SD pour un retrait en toute sécurité ou pour le formatage; monte la carte SD pour son utilisation.			
+			
+Formater la carte SD  : formate (efface) la carte SD.			
+Stockage d’application			
+Espace disponible :  affiche l’espace disponible pour le stockage d’applications.			
+			
+Paramètres de langue			
+			
+Change les paramètres de la langue de saisie.			
+			
+Langue et régi on			
+			
+Sélectionnez la langue d’affichage pour tous les menus et toutes les applications et la langue de saisie pour tous les éditeurs de texte.			
+Sélectionner la méthode de saisie Choisissez la méthode de saisie qui vous convient le mieux entre le  Clavier Swype  et le  Clavier Samsung .			
+			
+Clavier Swype			
+Langue  : sélectionne une langue pour la saisie de texte.			
+			
+Vous ne pouvez saisir du texte dans n’importe quelle langue. Pour saisir du texte, vous devez sélectionner l’une des langues prises en charge pour la saisie de texte.			
+			
+Reconnaissance mots  : le téléphone prédit les mots d’après votre séquence de caractères saisis et affiche des suggestions de mots.			
+			
+Aide sonore  : active/désactive le son pour le clavier Swype.			
+			
+Retour tactile  : le téléphone vibre lorsque vous pressez une touche.			
+			
+Indicateur d’astuces  : affiche l’indicateur de trucs rapides.			
+			
+Espacement auto.  : insère automatiquement une espace entre les mots.			
+			
+Majuscules auto.  : met automatiquement une majuscule à la première lettre après la fin d’une phrase marquée par un point, un point d’interrogation ou un point d’exclamation.			
+			
+Afficher la trace comp.  : définit la durée de votre tracé sur le clavier.			
+			
+Fenêtre de choix du mot  : règle le nombre de fois que la liste de mots sera affichée.			
+			
+Vitesse/précision  : règle l’équilibre entre la vitesse et la précision.			
+			
+Aide de Swype  : accède à l’information d’aide pour utiliser le clavier Swype.			
+			
+Tutoriel  : vous enseigne comment entrer du texte plus rapidement avec le clavier Swype.			
+			
+Version  : affiche l’information sur la version.			
+			
+Clavier Samsung			
+Types de clavier Portrait  : sélectionne le mode de saisie par défaut comme clavier Qwerty ou clavier 3x4.			
+			
+Langue de saisie  : sélectionne une langue pour la saisie de texte.			
+			
+Vous ne pouvez saisir du texte dans n’importe quelle langue. Pour saisir du texte, vous devez sélectionner l’une des langues prises en charge pour la saisie de texte.			
+XT9  : active le mode XT9 pour la saisie de texte à l’aide du mode de saisie prédictif.			
+Paramètre XT9 avancés  : active les fonctions avancées du mode XT9, telles que l’autocomplétion, l’autocorrection ou l’autosubstitution et règle votre propre liste de mots.			
+			
+Modification du clavier  : active la fonction balayage pour la sélection du type de clavier. Vous pouvez changer la méthode de saisie en balayant le champ de saisie de texte rapidement au lieu de le presser longuement.			
+			
+Mise en majuscule automatique  : met automatiquement une majuscule à la première lettre			
+			
+après la fin d’une phrase marquée par un point, un point d’interrogation ou un point d’exclamation.			
+Entrée voix  : pour des saisie de clavier actionnées par commandes vocales.			
+			
+Point automatique :  insère automatiquement un point lorsque vous touchez deux fois la barre d’espacement.			
+Didacticiel  : vous enseigne comment entrer du texte avec le clavier Samsung.			
+			
+Entrée et sortie voix			
+Réglez les paramètres de la reconnaissance vocale et la fonctionnalité de synthèse vocale (text-to-speech).			
+Param. reconnaissance vocale			
+Langue  : sélectionne une langue pour la reconnaissance vocale Google.			
+			
+SafeSearch  : règle le téléphone pour qu’il filtre le texte ou les images résultant de recherche vocale à caractère sexuel explicite.			
+			
+Termes choquants  : masque les résultats de recherche vocale pouvant contenir des termes choquants.			
+			
+Afficher les astuces  : affiche l’indicateur de trucs rapides.			
+			
+Paramètres de synthèse vocale (text-to-speech)			
+Écouter un exemple  : permet d’écouter un exemple de texte lu. Installe les données vocales pour la fonction Synthèse vocale.			
+			
+Profil Voiture  : règle le téléphone afin qu’il lise des notifications verbales pour les appels ou messages entrants ou les détails d’évènements.			
+			
+Toujours utiliser mes paramètres  : règle le téléphone pour qu’il utilise les paramètres spécifiés dans les applications plutôt que les paramètres par défaut.			
+			
+Moteur par défaut  : définit la synthèse vocale à utiliser pour le texte vocal.			
+			
+Installer les données vocales  : Télécharge et installe les données vocales pour la fonction Synthèse vocale.			
+			
+Vitesse d’élocution  : sélectionne une vitesse pour la			
+			
+Tche Marche pr fin appels  : règle le téléphone pour qu’il mette fin à l’appel lorsque vous pressez la touche Allumer/ Verr.			
+			
+Date et heure			
+			
+fonction Synthèse vocale.			
+			
+Langue  : sélectionne une langue pour la fonction Synthèse vocale.			
+			
+Moteurs  : affiche les moteurs de synthèse vocale téléchargés depuis Android market.			
+			
+Accessibilité			
+Cette fonctionnalité permet d’activer ou désactiver l’accessibilté aux applications que vous avez téléchargées.			
+Cette option n’est disponible qu’après que ayez téléchargé une application d’accessibilité.			
+			
+Accédez aux paramètres suivants et modifiez-les pour contrôler comment la date et l’heure sont affichées sur votre téléphone : Automatique  : met à jour automatiquement l’heure lorsque vous franchissez de nouvelles zones horaires.			
+			
+Définir la date  : règle la date manuellement.			
+			
+Sélectionnez le fuseau horaire  : règle votre fuseau horaire.			
+			
+Définir l’heure  : règle manuellement l’heure actuelle.			
+			
+Utiliser le format 24 heures  : règle l’heure à afficher en format 24 heures.			
+			
+			
+Sélectionner un format de date  : sélectionne un format  pour la date.			
+À propos du téléphone			
+Accédez à l’information sur votre appareil, vérifiez l’état du téléphone et apprenez comment utiliser votre appareil.			
+			
+Résolution des problèmes			
+Pour tout problème que vous éprouvez avec votre téléphone mobile, veuillez prendre connaissance des procédures de résolution de problèmes suivantes avant de demander l’aide de services professionnels.			
+Lorsque vous allumez votre téléphone ou souhaitez l’utiliser, vous êtes invité à saisir l’un des codes suivants :			
+			
+Code	"Essayez ceci pour résoudre le
+problème ;"		
+Mot de passe	"Lorsque la fonction de verrouillage du téléphone est activée, vous devez
+saisir le mot de passe que vous avez défini."		
+NIP	Lorsque vous utilisez votre téléphone pour la première fois ou si l’entrée du NIP est nécessaire, vous devez entrer le NIP donné avec la carte SIM. Vous pouvez désactiver cette fonction dans le menu Verrouiller carte SIM.		
+			
+Votre téléphone affiche « Service non disponible » ou			
+« Erreur du réseau »			
+Si vous vous trouvez dans une zone où le signal est faible, il est possible que la connexion s’interrompe. Déplacez-vous et réessayez.			
+Certaines options ne peuvent être utilisées sans abonnement. Contactez votre fournisseur de services pour en savoir davantage. L’écran tactile répond lentement ou incorrectement			
+Si l’écran tactile ne répond pas correctement, essayez les actions suivantes :			
+Retirez le film de protection de l’écran tactile. Le film de protection peut empêcher le téléphone de reconnaitre vos saisies, il n’est pas recommandé de le garder sur l’écran tactile.			
+Assurez-vous d’avoir les mains propres et sèches lorsque vous touchez du doigt l’écran tactile et les icônes.			
+Redémarrez le téléphone pour effacer toute erreur temporaire de logiciel.			
+Vérifiez si votre téléphone est mis au niveau de la dernière version disponible.			
+Si l’écran tactile est égratigné ou fissuré, apportez le téléphone à un détaillant Samsung près de chez vous.			
+Votre appareil se fige ou une erreur fatale se produit			
+Si votre téléphone se fige ou met aux appels, vous devrez peut-être fermer certaines applications ou le réinitialiser. Si votre téléphone se fige et ne répond plus, tenez la touche [ 			
+ ] enfoncée pendant 8 à 10 secondes. Le téléphone se réinitialisera automatiquement.			
+			
+Si cela ne résout pas le problème, exécutez une réinitialisation des paramètres par défaut.			
+En mode veille, sélectionnez  Applications  →  Paramètres			
+			
+→  Confidentialité  →  Rétablir param. par défaut  →			
+			
+Réinitialiser le téléphone → Supprimer tout .  Les appels sont interrompus			
+			
+Si vous vous trouvez dans une zone où le signal est faible, il est possible que la connexion s’interrompe. Déplacez-vous et réessayez.			
+Les appels sortants ne peuvent être établis			
+Avez-vous pressé la touche Appel ?			
+Êtes-vous sur le bon réseau cellulaire ?			
+La fonction d’interdiction d’appel est-elle activée pour ce numéro ?			
+Les appels entrants ne peuvent être établis			
+Avez-vous allumé votre téléphone ?			
+Êtes-vous sur le bon réseau cellulaire ?			
+La fonction d’interdiction d’appel est-elle activée pour ce numéro ?			
+Votre interlocuteur ne peut vous entendre			
+Le microphone intégré est-il couvert ? Le microphone est-il suffisamment près de votre bouche?			
+Si vous utilisez un casque d’écoute, assurez-vous qu’il est branché correctement.			
+La qualité sonore de l’appel est mauvaise			
+L’antenne interne est-elle bloquée ?			
+Si vous vous trouvez dans une zone où le signal est faible, il est possible que vous perdiez le signal. Déplacez-vous et réessayez.			
+			
+Vous avez composé un numéro à partir des contacts, mais la communication ne s’est pas établie			
+Avez-vous saisi le bon numéro dans l’information sur le contact ?			
+Saisissez de nouveau le numéro et sauvegardez-le, si nécessaire.			
+La fonction d’interdiction d’appel est-elle activée pour ce numéro ? Le téléphone émet une tonalité et l’icône de la pile clignote			
+La pile est faible. Rechargez ou remplacez la pile pour continuer à utiliser le téléphone.			
+La pile ne se charge pas correctement ou le téléphone s’éteint pendant la recharge			
+Les pôles de la pile peuvent être souillés. Essuyez les contacts métalliques avec un linge propre, puis essayez de charger la pile.			
+Si la pile ne se charge plus complètement, assurez-vous de mettre au rebut votre vieille pile de façon appropriée et remplacez-la par une nouvelle pile (contactez le service de collecte de piles de votre localité pour vous débarrasser de vos piles de façon sécuritaire).			
+Votre téléphone est chaud			
+Si vous utilisez des applications nécessitant beaucoup d’énergie, la température de votre appareil peut monter. C’est normal. La durée d’utilisation et le rendement de l’appareil n’en sont pas affectés.			
+Un message d’erreur apparait lorsque vous lancez l’appareil photo			
+Votre téléphone mobile Samsung requiert une mémoire disponible et un niveau de pile suffisants pour lancer l’application de l’appareil photo. Si des messages d’erreur s’affichent lorsque vous lancez l’appareil photo, essayez les actions suivantes :			
+			
+Chargez la pile ou remplacez-la par une pile complètement chargée.			
+Libérez de l’espace mémoire en transférant des fichiers vers votre ordinateur ou en supprimant des fichiers. Redémarrez le téléphone. Si vous avez encore des problèmes avec l’application de l’appareil photo, contactez le service d’aide à la clientèle de Samsung.			
+Un message d’erreur apparait lorsque vous ouvrez un fichier musical			
+Parfois, certains fichiers musicaux ne peuvent ëtre lus sur votre appareil mobile Samsung pour diverses raisons. Si un message d’erreur apparait lorsque vous ouvrez un fichier musical sur votre appareil, essayez les actions suivantes :			
+Libérez de l’espace mémoire en transférant des fichiers vers votre ordinateur ou en supprimant des fichiers.			
+Vérifiez si le fichier musical est protégé par une gestion des droits numériques. Si le fichier est protégé, assurez- vous d’avoir la licence ou la clé appropriée pour le lire.			
+Vérifiez si votre appareil prend en charge ce type de fichier.			
+Vous ne pouvez trouver un périphérique Bluetooth			
+Avez-vous activé la fonction sans fil Bluetooth des deux appareils ?			
+Vérifiez que la fonction Bluetooth du périphérique auquel vous voulez connecter le téléphone est bien activée. Les deux appareils doivent se trouver à un maximum de 10 mètres l’un de l’autre.			
+Si les directives ci-dessus ne permettent pas de régler le problème, contactez le service d’aide à la clientèle de Samsung.			
+La connexion entre le téléphone et l’ordinateur ne peut être établie			
+Vérifiez si le câble de données utilisé est compatible avec votre appareil.			
+Vérifiez si les pilotes appropriés sont installés et à jour sur votre ordinateur.			
+			
+Renseignements sur la santé et la			
+sécurité			
+Une utilisation non conforme à ces règles pourrait causer des blessures corporelles graves et des dommages matériels et nuire au fonctionnement de votre appareil			
+mobile.			
+Obtenir la meilleure réception possible			
+L’intensité du signal			
+La qualité sonore de chaque appel que vous faites ou recevez dépend de l’intensité du signal présent dans votre secteur. Votre téléphone vous informe de l’intensité du signal capté au moyen de barres affichées à côté de l’icône d’intensité du signal. Plus il y a de barres, plus le signal est fort. Si vous êtes dans un édifice, la réception pourrait être meilleure près d’une fenêtre.			
+Le fonctionnement de votre téléphone			
+Votre téléphone est en fait un émetteur-récepteur radio. Lorsqu’il est allumé, il reçoit et transmet des fréquences radioélectriques (RF). Pendant l’utilisation, le système traitant votre appel contrôle le niveau de puissance. Cette puissance peut atteindre de 0,006 W à 0,2 W en mode numérique.			
+			
+Sécurité en matière de fréquences radioélectriques			
+Electrical and Electronics Engineers (IEEE) et l’American National Standards Institute (ANSI) se sont unies pour mettre à jour la norme de niveaux de sécurité 1982 de l’ANSI relativement à l’exposition des êtres humains aux fréquences radioélectriques (RF). Plus de 120 chercheurs, ingénieurs et médecins d’universités, d’agences de santé gouvernementales et de l’industrie ont élaboré cette nouvelle norme après avoir analysé les recherches effectuées. En 1993, la Federal Communication Commission (FCC) a adopté cette nouvelle norme dans le cadre d’un règlement. En aout 1996, la FCC a adopté une norme hybride composée des normes IEEE et ANSI existantes et de lignes directrices publiées par le National Council of Radiation Protection and Measurements (NCRP).			
+Assurer le rendement optimal du téléphone			
+Il existe plusieurs solutions simples pour faire fonctionner le téléphone de façon appropriée et assurer un service sécuritaire et satisfaisant. Parlez directement dans le microphone.			
+Évitez d’exposer le téléphone et les accessoires à la pluie et aux autres liquides. Si le téléphone est aspergé d’un liquide quelconque, éteignez le téléphone immédiatement et retirez la pile. S’il ne fonctionne pas, rapportez-le à un magasin ou appelez le service à la clientèle.			
+Pour assurer le meilleur rendement de votre téléphone, l'entretien de votre téléphone et de ses accessoires doit être confié uniquement à un personnel autorisé. Un service de mauvaise qualité pourrait annuler la garantie.			
+			
+127			
+			
+Assurer une utilisation sécuritaire et un accès approprié au téléphone Une utilisation non conforme à ces règles pourrait causer des blessures corporelles graves et des dommages matériels.			
+Une exposition excessive aux sons à haut niveau sonore peut nuire à votre audition. Diminuez toujours le volume avant de brancher vos écouteurs dans la prise audio et utilisez les paramètres de volume minimal pour entendre votre interlocuteur ou votre musique.			
+			
+Utilisation du téléphone au volant			
+L’utilisation du téléphone au volant (ou l’utilisation du téléphone sans dispositif mains libres) est interdite dans certaines régions. Les lois varient d’un endroit à l’autre. Rappelez-vous que la sécurité est toujours prioritaire.			
+Lorsque vous utilisez le téléphone au volant :			
+Familiarisez-vous avec votre téléphone et ses fonctionnalités, comme la numérotation rapide et la recomposition.			
+Si possible, utilisez un dispositif mains libres.			
+Placez votre téléphone à portée de la main.			
+Dites à la personne à qui vous parlez que vous êtes au volant. Au besoin, interrompez l’appel quand la circulation est dense ou si les conditions météorologiques sont dangereuses.			
+Ne prenez pas de notes ou n’essayez pas de lire un numéro de téléphone en conduisant.			
+Composez les numéros de téléphone lentement et évaluez la circulation. Si possible, faites vos appels quand vous êtes arrêté ou avant de vous lancer dans la circulation.			
+Ne vous engagez pas dans des conversations stressantes ou émotives qui pourraient vous distraire.			
+			
+128			
+			
+Composez le 911 pour signaler des urgences graves. Ce service est gratuit avec votre téléphone sans fil.			
+Utilisez votre téléphone sans fil pour aider les autres en cas d’urgence.			
+Appelez l’assistance routière ou composez tout autre numéro spécial d’assistance non urgente, au besoin.			
+Règles de sécurité			
+Pour une utilisation sure et sécuritaire de votre téléphone, conformez-vous en tout temps aux règles et règlements spéciaux dans certains endroits. Éteignez votre téléphone dans les endroits où l’usage en est interdit ou lorsque cela peut causer de l’interférence ou du danger.			
+Utilisation du téléphone près d’autres appareils électroniques			
+La plupart des appareils électroniques modernes sont protégés contre les signaux RF. Cependant, certains			
+appareils peuvent ne pas être protégés contre les signaux RF émis par le téléphone. Les signaux RF peuvent nuire à des systèmes électroniques mal installés ou mal protégés dans des véhicules automobiles. Vérifiez auprès du fabricant ou des représentants pour savoir si ces systèmes sont protégés contre les signaux RF externes. Vous devriez également consulter le fabricant pour tout équipement que vous avez ajouté à votre véhicule.			
+Si vous utilisez des appareils médicaux, comme un stimulateur cardiaque ou un appareil auditif, consultez le fabricant pour savoir s’ils sont bien protégés contre les signaux RF externes.			
+Veuillez toujours éteindre le téléphone dans les établissements de soins de santé et demander la permission avant d'utiliser le téléphone près du matériel médical.			
+			
+129			
+			
+Mise en arrêt du téléphone avant de prendre l’avion Éteignez votre téléphone avant de monter à bord d’un avion. Pour éviter les interférences possibles avec les systèmes d’avionique, les règlements de la Federal Aviation Administration (FAA) exigent d’obtenir la permission de l’équipage avant d’utiliser votre téléphone dans un avion au sol. Pour prévenir tout risque d’interférence, ces règlements interdisent d’utiliser votre téléphone dans un avion en vol.			
+Mise en arrêt du téléphone dans les endroits dangereux			
+Pour éviter de nuire aux opérations de dynamitage, vous devez éteindre le téléphone dans les zones de dynamitage ou dans les zones affichant un avis Éteindre les émetteurs- récepteurs. Les travailleurs de la construction utilisent souvent des appareils RF à distance pour déclencher des explosions.			
+Éteignez le téléphone dans les zones à atmosphère explosive. Bien que cela arrive rarement, le téléphone et les accessoires peuvent produire des étincelles. Les étincelles pourraient causer une explosion ou un feu causant des blessures corporelles ou même la mort. Les zones à atmosphère potentiellement explosive sont souvent, mais pas toujours, bien indiquées. Elles comprennent :			
+Les zones de ravitaillement, comme les stations- services;			
+Les cales des bateaux;			
+Les établissements de transfert ou d’entreposage de carburant ou de produits chimiques;			
+Les zones où l’atmosphère contient des produits chimiques ou des particules de grain, de poussière ou des poudres métalliques;			
+Toute autre zone où on vous demanderait normalement d’arrêter le moteur de votre véhicule.			
+			
+130			
+			
+Dans votre véhicule, ne transportez ni n'entreposez jamais de gaz ou de liquides inflammables et d'explosifs dans le compartiment qui contient le téléphone et les accessoires			
+N’utilisez pas votre téléphone durant un orage électrique. Le téléphone pourrait mal fonctionner et le risque de décharge électrique est amplifié			
+			
+Restreindre l’accès des enfants au téléphone			
+Votre téléphone n’est pas un jouet. Les enfants ne devraient pas jouer avec le téléphone parce qu’ils pourraient se blesser et blesser les autres, endommager le téléphone, composer le 911 par erreur ou effectuer des appels qui augmenteront vos frais.			
+Avertissement concernant l’écran du téléphone			
+L’écran de votre appareil est fait de verre ou de résine acrylique et peut se briser si vous l’échappez ou le frappez.			
+N’utilisez pas votre appareil, si l’écran est brisé ou fissuré, car vous pourriez vous blesser.			
+Chargeur certifié UL Le chargeur de ce téléphone satisfait les exigences de sécurité UL. Veuillez suivre les consignes de sécurité suivantes données par UL.			
+UNE UTILISATION NON CONFORME À CES RÈGLES POURRAIT CAUSER DES BLESSURES CORPORELLES ET DES DOMMAGES MATÉRIELS IMPORTANTS. CONSIGNES DE SÉCURITÉ IMPORTANTES - À CONSERVER. DANGER - POUR RÉDUIRE LES RISQUES D'INCENDIE OU DE DÉCHARGE ÉLECTRIQUE, SUIVEZ ATTENTIVEMENT CES CONSIGNES. POUR BRANCHER L'APPAREIL À UNE SOURCE D'ALIMENTATION À L'EXTÉRIEUR DE L'AMÉRIQUE DU NORD, UTILISEZ UN CHARGEUR DE LA CONFIGURATION APPROPRIÉE À LA PRISE DE			
+			
+131			
+			
+COURANT. CE BLOC D'ALIMENTATION EST SUPPOSÉ ÊTRE ORIENTÉ CORRECTEMENT EN POSITION VERTICALE OU HORIZONTALE OU SUR PIEDS. Entretien de la pile			
+Protection de la pile			
+Voici les règles à suivre pour obtenir un rendement optimal de votre pile.			
+N’utilisez que les piles et les chargeurs approuvés par Samsung. Ces chargeurs sont conçus pour maximiser la durée utile de la pile. L’utilisation d’autres piles ou chargeurs pourrait annuler la garantie et causer des dommages.			
+Pour éviter de l’endommager, rechargez la pile à des températures comprises entre 0 °C et 45 °C (32 °F et 113 °F).			
+N’utilisez pas le chargeur au soleil ni dans des endroits très humides, comme la salle de bain.			
+Ne jetez pas la pile dans le feu.			
+Les contacts métalliques de la pile doivent toujours être propres.			
+N’essayez pas de démonter la pile ou de la court- circuiter.			
+Il sera peut-être nécessaire de recharger la pile si le téléphone n’a pas servi depuis longtemps.			
+Remplacez la pile lorsqu’elle n’offre plus un rendement acceptable. Elle peut être rechargée des centaines de fois avant qu’il soit nécessaire de la remplacer.			
+Ne rangez pas la pile à des températures élevées pendant de longues périodes. Suivez les règles de température de rangement ci-dessous :			
+Moins d’un mois : -20 °C et 60 °C (-4 °F et 140 °F) Plus d’un mois : -20 °C et 45 °C (-4 °F et 113 °F)			
+			
+132			
+			
+Mise au rebut des piles au lithium-ion (LiIon)			
+Pour vous débarrasser des piles au lithium-ion de façon sécuritaire, consultez votre centre de service local.			
+Assurez-vous de jeter votre pile de façon appropriée. Dans certaines régions, il se peut qu’il soit interdit de jeter les piles dans les ordures ménagères ou commerciales.			
+Pour des raisons de sécurité, ne manipulez pas une pile au lithium-ion endommagée ou qui fuit.			
+			
+Précautions spéciales et avis d’Industrie Canada			
+droit de l’utiliser. N’utilisez que les piles, les antennes et les chargeurs approuvés. L’utilisation d’accessoires non autorisés pourrait être dangereuse et invalidera la garantie du téléphone si lesdits accessoires ont causé des dommages ou une défectuosité au téléphone. Même si votre téléphone est plutôt robuste, c’est un appareil électronique complexe qui peut se briser. Évitez de l’échapper, de le frapper, de le plier ou de vous assoir dessus.			
+Renseignements destinés à l’utilisateur			
+Cet appareil a subi des tests et répond aux critères d’un dispositif numérique de classe B, d’après la partie 15 des			
+		directives de la FCC. Ces critères sont établis afin d’assurer	
+			
+une protection suffisante contre les interférences nocives à			
+			
+Mise en garde			
+Toute modification apportée à votre téléphone qui n’est pas expressément approuvée dans le présent document pourrait invalider la garantie du téléphone et annuler votre			
+l’intérieur d’une résidence. Cet appareil produit, utilise et peut émettre de l’énergie radioélectrique et peut occasionner des interférences nuisibles aux communications radio s’il n’est pas assemblé et utilisé selon			
+			
+133			
+			
+les directives. Cependant, il n’y a aucune garantie qu’il ne se produira pas d’interférence dans une installation			
+Débit d’absorption spécifique (DAS) des téléphones sans fil			
+			
+particulière. Si l’appareil nuit à la réception du signal radio			
+ou de télévision, ce qui peut être vérifié en éteignant puis en allumant de nouveau le téléphone, on recommande à l’utilisateur de prendre les mesures correctives suivantes :			
+Réorientez ou déplacez l’antenne réceptrice.			
+Augmentez la distance séparant le téléphone et le récepteur.			
+Branchez le téléphone à un circuit différent de celui où est branché le récepteur.			
+Consultez le marchand ou un technicien expérimenté en radio et télévision.			
+Le DAS est une valeur qui correspond à la quantité relative d’énergie RF absorbée par la tête de l’utilisateur du dispositif sans fil.			
+L’indice DAS d’un téléphone est obtenu par des tests, des mesures et des calculs complexes. Cet indice ne représente pas la quantité d’énergie RF émise par le téléphone. Tous ses modèles de téléphone sont testés en laboratoire à leur indice maximal dans des conditions rigoureuses. Lorsque le téléphone fonctionne, l’indice DAS du téléphone peut être légèrement inférieur au niveau indiqué à la FCC. Ce fait est lié à une variété de facteurs, comme la proximité de l’antenne d’une station, la conception du téléphone et d’autres facteurs. Ce qu’il faut retenir, c’est que chaque téléphone respecte des normes fédérales strictes. Les variations de l’indice DAS ne représentent pas des variations de la sécurité d’utilisation.			
+			
+134			
+			
+Tous les téléphones doivent respecter la norme fédérale, qui comprend une marge de sécurité substantielle. Comme indiqué plus haut, les variations de l’indice DAS entre les différents modèles de téléphone ne représentent pas des variations de la sécurité d’utilisation. Les indices DAS égaux ou inférieurs à la norme fédérale de 1,6 W/kg sont considérés comme sécuritaires pour le public.			
+Les indices DAS connus les plus élevés pour le modèle SGH-T959P sont :			
+GSM 850 : Tête : 0,156 W/Kg; Porté au corps : 0,552 W/kg WCDMA850 : Tête : 0,18 W/Kg; Porté au corps : 0,349 W/kg GSM 1900 : Tête : 0,173 W/Kg; Porté au corps : 0,622 W/kg WCDMA1900 :Tête : 0,413 W/kg; Porté au corps : 1,18 W/kg WLAN : Tête : 0,159 W/kg; Porté au corps : 0,184 W/kg			
+Renseignements pour le propriétaire			
+Les numéros de modèle, d’enregistrement et de série du téléphone sont inscrits sur une plaque dans le logement de la pile. Inscrivez ces renseignements dans l’espace ci- dessous. Ils vous seront utiles si vous devez nous téléphoner au sujet de votre téléphone.			
+Modèle :  SGH-T959P			
+			
+No de série :			
+			
+135			
+			
+Garantie du fabricant			
+Garantie limitée standard			
+Qu’est-ce qui est couvert et pour combien de temps?  SAMSUNG Electronics Canada inc. (SAMSUNG) garantit à l’acheteur initial (l’Acheteur) que les téléphones et accessoires SAMSUNG (les Produits) sont exempts de vices de matériaux et de fabrication, dans le cadre d’une utilisation et d’une exploitation normales, à compter de la date d’achat et pendant la durée précisée à partir de la date de l’achat :			
+			
+Téléphone	1 an		
+			
+Piles	1 an		
+			
+Pochette de cuir	90 jours		
+			
+Étui protecteur	90 jours		
+			
+Autres accessoires	1 an		
+			
+136			
+			
+Qu’est-ce qui n’est pas couvert?  La présente garantie limitée est valide à la condition que l’acheteur utilise le produit de façon adéquate. Elle ne couvre pas les éléments suivants : (a) les défectuosités ou les dommages découlant d’un accident, d’un usage abusif, d’une mauvaise utilisation, de négligence, de contraintes physiques, électriques ou électromécaniques inhabituelles, ou des modifications de l’une ou l’autre partie du produit, y compris l’antenne, ou les dommages d’ordre esthétique;			
+			
+(b) un équipement dont le numéro de série a été supprimé ou rendu illisible; (c) toutes les surfaces de plastique et autres pièces exposées qui sont égratignées ou endommagées à la suite d’un usage normal; (d) les vices de fonctionnement attribuables à l’utilisation du produit avec des accessoires, produits ou équipements auxiliaires ou périphériques qui ne sont ni fournis ni approuvés par SAMSUNG; (e) les défectuosités ou les dommages découlant d’essais, d’une utilisation, d’un entretien, d’une installation, d’un réglage ou d’une réparation inadéquats des produits; (f) l’installation, l’entretien et les services relatifs au produit, ou (g) les produits utilisés ou achetés à l’extérieur des États-Unis et du Canada.			
+La présente garantie limitée couvre les piles uniquement si leur capacité tombe à moins de 80 % de leur capacité nominale, ou si les piles ont des fuites, et cette garantie limitée ne couvre pas les piles (i) si elles ont été chargées au moyen d’un chargeur de pile que SAMSUNG n’a pas spécifié ou approuvé pour la recharge de ses piles, (ii) si l’un ou l’autre des joints d’étanchéité des piles est brisé ou présente des signes de manipulation non autorisée, ou (iii) si les piles ont été utilisées dans des équipements autres que les téléphones SAMSUNG pour lesquels elles sont destinées.			
+Quelles sont les obligations de SAMSUNG?  Pendant la période de garantie applicable, SAMSUNG réparera ou remplacera, à sa seule discrétion et sans frais pour l’acheteur, tout composant défectueux du téléphone ou de l’accessoire. Pour se prévaloir du service dans le cadre de la présente garantie limitée, l’acheteur doit retourner le produit à un réparateur de téléphone Samsung autorisé dans un contenant approprié pour l’expédition, accompagné de la facture de l’acheteur ou de toute autre preuve d’achat comparable sur laquelle sont indiqués la date de l’achat, le			
+			
+137			
+numéro de série du produit, ainsi que le nom et l’adresse du vendeur. Pour savoir où envoyer le téléphone ou l’accessoire, communiquez avec votre fournisseur de services ou avec le Centre d’assistance à la clientèle de Samsung au 1-800-SAMSUNG. SAMSUNG réparera rapidement le produit défectueux dès sa réception.			
+SAMSUNG pourra, à sa discrétion exclusive, utiliser des pièces ou des composants remis à neuf, remis en état ou neufs pour réparer un produit, ou encore remplacer ledit produit par un produit remis à neuf, remis en état ou neuf. Les étuis réparés ou remplacés seront garantis pour une période de 90 jours. Tous les autres produits réparés ou remplacés seront garantis pendant une période égale à la période résiduelle de la garantie limitée originale applicable au produit visé, ou pendant 90 jours, selon la plus longue de ces éventualités. Tous les composants, pièces, cartes et équipements remplacés deviendront la propriété de SAMSUNG. Si SAMSUNG établit qu’un produit n’est pas couvert par la présente garantie limitée, l’acheteur devra payer toutes les pièces ainsi que tous les frais d’expédition			
+et de main-d’oeuvre applicables à la réparation ou au retour dudit produit.			
+Quelles sont les limites à la responsabilité de SAMSUNG?  SAUF COMME STIPULÉ DANS LA GARANTIE EXPRESSE FIGURANT AUX PRÉSENTES, L’ACHETEUR PREND LE PRODUIT « TEL QUEL », ET SAMSUNG NE FAIT AUCUNE DÉCLARATION NI NE DONNE AUCUNE GARANTIE EXPRESSE OU TACITE QUE CE SOIT À L’ÉGARD DU PRODUIT, Y COMPRIS NOTAMMENT :			
+			
+À PROPOS DE LA QUALITÉ MARCHANDE DU PRODUIT OU DE SA CONVENANCE À UN USAGE PARTICULIER;			
+AUX GARANTIES LIÉES AUX TITRES DE PROPRIÉTÉ OU DE NON-VIOLATION;			
+À LA CONCEPTION, À L’ÉTAT, À LA QUALITÉ OU AU RENDEMENT DU PRODUIT;			
+À LA FABRICATION DU PRODUIT OU AUX COMPOSANTS QU’IL CONTIENT; OU			
+			
+138			
+			
+À LA CONFORMITÉ DU PRODUIT AUX EXIGENCES DE TOUTE LOI, DE TOUTE SPÉCIFICATION OU DE TOUT CONTRAT PERTINENT.			
+AUCUNE PARTIE DU PRÉSENT GUIDE D’UTILISATION NE POURRA ÊTRE INTERPRÉTÉE COMME CRÉANT UNE QUELCONQUE GARANTIE EXPRESSE À L’ÉGARD DU PRODUIT. TOUTES LES GARANTIES ET CONDITIONS TACITES POUVANT DÉCOULER DE L’APPLICATION DE LA LOI, Y COMPRIS, S’IL Y A LIEU, LES GARANTIES TACITES DE QUALITÉ MARCHANDE ET DE CONVENANCE À UN USAGE PARTICULIER, SONT PAR LA PRÉSENTE LIMITÉES À LA MÊME PÉRIODE QUE LA GARANTIE EXPRESSE ÉCRITE CONTENUE AUX PRÉSENTES. CERTAINES RÉGIONS NE PERMETTENT PAS L’EXCLUSION OU LA LIMITATION DES DOMMAGES INDIRECTS OU CONSÉCUTIFS, NI LA DÉFINITION DE LA DURÉE D’UNE GARANTIE TACITE. IL SE PEUT DONC QUE LES LIMITATIONS OU EXCLUSIONS CI- DESSUS NE S’APPLIQUENT PAS À VOTRE CAS. DE PLUS,			
+SAMSUNG NE POURRA ÊTRE TENUE RESPONSABLE DE TOUS DOMMAGES DÉCOULANT DE L’ACHAT, DE L’UTILISATION, DE L’USAGE ABUSIF OU DE L’INCAPACITÉ À UTILISER LE PRODUIT, OU DÉCOULANT DIRECTEMENT OU INDIRECTEMENT DE L’UTILISATION OU DE LA PRIVATION D’UTILISATION DU PRODUIT, OU D’UN NONRESPECT DE LA GARANTIE EXPRESSE, Y COMPRIS LES DOMMAGES SPÉCIAUX, INDIRECTS, CONSÉCUTIFS OU AUTRES DOMMAGES SIMILAIRES, DE TOUTE PERTE DE BÉNÉFICES OU D’AVANTAGES PRÉVUS, OU DE DOMMAGES DÉCOULANT DE TOUT DÉLIT (INCLUANT LA NÉGLIGENCE OU UNE FAUTE MAJEURE) OU DE TOUTE FAUTE COMMISE PAR SAMSUNG, SES AGENTS OU EMPLOYÉS, OU DE TOUTE INEXÉCUTION DE CONTRAT OU DE TOUTE RÉCLAMATION DÉPOSÉE CONTRE L’ACHETEUR PAR UNE AUTRE PARTIE. CERTAINES RÉGIONS NE PERMETTENT PAS L’EXCLUSION OU LA LIMITATION DES DOMMAGES INDIRECTS OU CONSÉCUTIFS.			
+139			
+			
+IL SE PEUT DONC QUE LES LIMITATIONS OU EXCLUSIONS CI-DESSUS NE S’APPLIQUENT PAS À VOTRE CAS. LA PRÉSENTE GARANTIE LIMITÉE VOUS CONFÈRE DES DROITS SPÉCIFIQUES. IL SE POURRAIT QUE VOUS AYEZ D’AUTRES DROITS, LESQUELS PEUVENT VARIER D’UNE PROVINCE À UNE AUTRE. LA PRÉSENTE GARANTIE LIMITÉE NE POURRA S’ÉTENDRE À TOUTE PERSONNE AUTRE QUE LE PREMIER ACHETEUR ET CONSTITUE LES RECOURS EXCLUSIFS DE L’ACHETEUR. SI UNE PARTIE DE LA PRÉSENTE GARANTIE LIMITÉE EST ILLÉGALE OU INAPPLICABLE EN RAISON D’UNE LOI, LADITE PARTIE ILLÉGALE OU INAPPLICABLE N’AURA AUCUN EFFET SUR L’APPLICABILITÉ DU RESTE DE LA GARANTIE LIMITÉE, QUE L’ACHETEUR RECONNAIT COMME ÉTANT ET DEVANT TOUJOURS ÊTRE JUGÉE LIMITÉE PAR SES MODALITÉS OU DANS LA MESURE PERMISE PAR LA LOI.			
+LES PARTIES COMPRENNENT QUE L’ACHETEUR PEUT UTILISER DES LOGICIELS OU DE L’ÉQUIPEMENT D’AUTRES FOURNISSEURS AVEC LE PRODUIT. SAMSUNG NE DONNE AUCUNE GARANTIE NI NE FAIT AUCUNE DÉCLARATION, ET IL N’EXISTE AUCUNE CONDITION, EXPRESSE OU TACITE, LÉGALE OU AUTRE QUANT À LA QUALITÉ, AUX POSSIBILITÉS, AU FONCTIONNEMENT, AU RENDEMENT OU À LA CONVENANCE DE TELS LOGICIELS OU ÉQUIPEMENT D’AUTRES FOURNISSEURS, QUE LESDITS LOGICIELS OU ÉQUIPEMENT SOIENT FOURNIS OU NON AVEC LE PRODUIT DISTRIBUÉ PAR SAMSUNG OU AUTREMENT, Y COMPRIS LA CAPACITÉ D’INTÉGRER LESDITS LOGICIELS OU ÉQUIPEMENT AU PRODUIT. LA RESPONSABILITÉ QUANT À LA QUALITÉ, AUX POSSIBILITÉS, AU FONCTIONNEMENT, AU RENDEMENT OU À LA CONVENANCE DE TELS LOGICIELS OU ÉQUIPEMENTS D’AUTRES FOURNISSEURS REPOSE ENTIÈREMENT SUR L’ACHETEUR ET LE FOURNISSEUR DIRECT, LE PROPRIÉTAIRE OU LE FOURNISSEUR DE TELS			
+			
+140			
+			
+LOGICIELS OU ÉQUIPEMENTS D’AUTRES FOURNISSEURS, SELON LE CAS.			
+La présente garantie limitée partage le risque des défectuosités de produit entre l’acheteur et SAMSUNG, et les prix des produits de SAMSUNG reflètent ce partage de risques et les limitations de responsabilité contenues dans la présente garantie limitée. Les agents, employés, distributeurs et marchands de SAMSUNG ne sont pas autorisés à apporter des modifications à la présente garantie limitée, ni à offrir des garanties additionnelles pouvant lier SAMSUNG. Par conséquent, les déclarations supplémentaires comme la publicité ou les représentations des marchands, verbales ou écrites, ne constituent pas des garanties de SAMSUNG et n’ont aucun effet.			
+Samsung Electronics Canadai inc.			
+©2011 Samsung Electronics Canada inc. Samsung est une marque de commerce déposée de Samsung Electronics Co. Ltd. et de ses sociétés affiliées. Toute reproduction totale ou partielle est interdite sans autorisation écrite préalable.			
+Les caractéristiques sont indiquées sous réserve de modification sans préavis.			
+			
+#861826 v2 | 4032342			
+			
+141			
+			
+Garantie du fabricant			
+			
+Index			
+AllShare  85			
+			
+Android Market  28  Appareil photo			
+			
+Mode Action  52			
+			
+Mode Beauté  50			
+			
+Mode Vintage  50  Prendre des photos  46			
+			
+Appareil vidéo			
+Saisir une vidéo  54			
+			
+Appel en attente  37  Appels			
+			
+À partir des contacts  33			
+			
+Appels manqués  35			
+			
+Faire un appel  32  Journaux d’appel  37  Options durant un appel  34  Rejet automatique  36  Rejeter un appel  33  Répondre à un appel 			
+33			
+			
+Utiliser un casque d’écoute  34			
+			
+Applications Accéder  19			
+			
+Organiser  20			
+			
+Bluetooth  81			
+			
+Paramètres  107			
+			
+Câble de données  10			
+			
+Calculatrice  95			
+			
+Calendrier  68			
+			
+Carte mémoire  10			
+			
+Formater  12			
+			
+Insérer  11			
+			
+Retirer  12			
+			
+Carte SIM  6  Cartes			
+			
+Trouver votre position  76			
+			
+Chargeur  9			
+			
+Clavier Samsung  26			
+			
+Commande vocale  99			
+			
+Connecter l’appareil à une télé  88  Contacts			
+			
+Créer  65			
+			
+Données			
+Synchronisation automatique  31			
+			
+Synchronisation manuelle  31			
+			
+Dragonne  13  Écran de veille			
+			
+Ajouter des éléments  17			
+			
+Ajouter ou retirer des panneaux  18			
+			
+Écran tactile Utiliser  15			
+			
+Entrer du texte  24  Galerie  58			
+			
+Visionner une vidéo  59			
+			
+Visualiser une photo  59			
+			
+Google Latitude  77  Google Maps			
+			
+Google Latitude  77			
+			
+Obtenir un itinéraire  77  Partager votre position  77  Trouver votre position  76			
+			
+Google Talk  44  Horloge			
+			
+Ajouter un fuseau horaire  94			
+			
+Minuteur  95			
+			
+Régler une alarme  93 ,  94 ,  95			
+			
+Interdiction d’appel  36  Internet			
+			
+Naviguer  73			
+			
+Kobo  101			
+			
+Layar  75			
+			
+Lecteur de musique  60			
+			
+Copier des fichiers musicaux  60			
+			
+Paramètres  63			
+			
+Lecteur vidéo  56			
+			
+Mémo vocal  71  Messages			
+			
+Envoyer un message multimédia			
+38			
+Envoyer un message texte  38  Mode Bureau  103			
+			
+Mode sortie TV  88			
+			
+Mode Voiture  102			
+			
+Modèle de déverrouillage  23  Outils  93			
+			
+Calculatrice  95			
+			
+Commande vocale  99			
+			
+Fichiers  97			
+			
+Horloge  93			
+			
+Kobo  101			
+			
+Mini journal  96			
+			
+Mode Bureau  103			
+			
+Mode Voiture  102			
+			
+ThinkFree Office  97			
+			
+Papier peint  21			
+			
+Paramètres  106			
+			
+À propos du téléphone  120			
+			
+Accessibilité  119			
+			
+Affichage  110			
+			
+Appels  108			
+			
+Applications  113			
+			
+Bluetooth  107			
+			
+Carte SD et mémoire  115  Clavier Samsung  117			
+			
+Clavier Swype  116			
+			
+Comptes  114			
+			
+Confidentialité  115  Date et heure  119  Langue  116			
+			
+Localisation  112			
+			
+Messagerie vocale  109			
+			
+Mode Hors-ligne  106  Point d’accès mobile  107  Réseaux mobiles  108			
+			
+Sécurité  112			
+			
+Son  110			
+			
+Wi-Fi  107			
+Pile			
+			
+Charger  8			
+			
+Installer  6			
+			
+Point d’accès mobile  87  Recherche Google  75			
+			
+Recherche vocale  100			
+			
+Social Hub  45  Sonnerie			
+			
+Changer  21			
+			
+Synchronisation  114  Téléphone			
+			
+Allumer et éteindre  14			
+			
+Personnaliser  20			
+			
+Vue arrière du téléphone  4  Vue avant du téléphone  4			
+			
+Texte			
+Entrer  24			
+			
+Wi-Fi  83			
+			
+Connexion  84			
+			
+Paramètres  84			
+			
+WLAN  83			
+			
+Write and go  99  YouTube  78			
