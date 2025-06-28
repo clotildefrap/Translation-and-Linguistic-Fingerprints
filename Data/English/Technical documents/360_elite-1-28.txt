@@ -1,0 +1,585 @@
+English
+
+Français
+
+Español
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i
+
+YOUR XBOX 3@0 VIDEO GAME AND ENTERTAINMENT SYSTEM
+
+
+Headset
+
+Instruction Manual (2)
+
+Xbox 360 Console and Controller
+Batteries
+
+
+Thanks for purchasing your Xbox 360™ video game and entertainment system from Microsoft. You’re now at the center of a customizable experience that brings your games, your friends, and your digital entertainment together in one powerful package.
+
+The Xbox 360 video game and entertainment system lets you play Xbox 360 games, DVD movies, and audio CDs.
+With high-speed Internet service, connect to millions of gamers on Xbox LIVE®. Instantly be a part of a community where you can play together, talk to your friends, and download new content.
+Stream pictures, music, and more to your Xbox 360 console by connecting to your Microsoft® Windows®-based PC or other devices such as digital cameras and portable music players.
+Enjoy music and other content pre-installed with your Xbox 360 Hard Drive. For more information about the Xbox 360 Hard Drive, go to  www.xbox.com.
+
+SELECT A LOCATION FOR YOUR CONSOLE
+
+Prevent the Console from Falling  If the Xbox 360 console falls and hits someone, especially a small child, it could
+
+cause serious injury. To reduce the risk of
+such injuries and damage to the Xbox 360 console, set up the Xbox 360 console according to these instructions. Place the console on a surface that:
+Is flat and level.
+Is stable and not likely to tip over.
+Allows all four feet of the console to be in contact with the surface.
+Is not likely to allow the console to slip or slide off.
+Is clean and free of dust and debris.
+If the surface or console feet become dirty or dusty, clean them with a dry cloth.
+If the console is positioned vertically, put it on a surface where it is not likely to fall if it tips over.
+Arrange all cables and cords so that people and pets are not likely to trip over or accidentally pull on them as they move around or walk through the area. When the console is not in use, you may need to disconnect all cables and cords from the front and rear of the console to keep them out of the reach of children and pets. Do not allow children to play with cables and cords.
+
+Prevent the Console from Overheating  Do not block any ventilation openings on the console or power supply. Do not place the console or power supply on a bed, sofa, or other soft surface that may block ventilation openings. Do not place the console or power supply in a confined space, such as a bookcase, rack, or stereo cabinet, unless the space is well ventilated.
+
+Do not place the console or power supply near any heat sources, such as radiators, heat registers, stoves, or amplifiers.
+Avoid Smoke and Dust
+Do not use the console in smoky or dusty locations. Smoke and dust can damage the console, particularly the DVD drive.
+
+CONNECT TO YOUR TV AND AUDIO SYSTEM
+
+
+IMPORTANT
+
+Stationary images in video games can “burn” into some TV screens, creating a permanent shadow. Consult your TV owner’s manual or manufacturer before playing games.
+Connegt the Component HD AV Cable  Use your component HD AV cable to connect your console to your TV.
+
+To connect to your standard TV:
+Connect the HD AV cable connector to the AV port on the console.
+Set the switch on the AV port connector to TV.
+Connect the yellow color-banded composite signal video connector on the HD AV cable to the yellow input on your TV. Leave the red, green, and blue color- banded video connectors unconnected.
+Connect the solid color left and right (white and red) audio connectors on the HD AV cable to the audio inputs on your TV or stereo receiver.
+For monaural (mono) TVs, which have only one audio input, connect either the right or left audio connector to the audio input.
+Select the appropriate video input on your TV (see No Picture under “Troubleshooting” for more information).
+NOTE
+Your Xbox 360 Component HD AV Cable has two distinct sets of connectors on the TV end grouped by audio and video. Do not confuse the red connector from the audio group with the red connector from the video group.
+
+
+
+To connect to your high definition TV:
+
+Connect the HD AV Cable connector to the AV port on the console.
+Set the switch on the AV port connector to TV or HDTV. The HDTV position should be selected if your TV supports high definition resolutions such as 480p, 720p, 1080i, or 1080p.
+Connect the red, green, and blue color- banded video connectors on the HD AV cable to the corresponding color inputs (Y, Cb/Pb, Cr/Pr) on your TV. Leave the yellow color-banded composite video connector unconnected.
+Connect the solid color left and right (white and red) audio connectors on the HD AV cable to the audio inputs on your TV or stereo receiver.
+Select the appropriate video input on your TV (see “No Picture” under “Troubleshooting” for further information).
+After you’ve set up your console, you can configure additional console audio settings and test your connection from the System area of the Xbox Dashboard. But before doing so, proceed through the steps in the following pages for connecting to power, connecting your controller, and other initial settings.
+Connegt to a Digital Audio System with the Component Cable
+If your system (typically, a receiver or amplifier) supports digital audio input, you can connect to digital audio rather than to the standard left and right audio. Digital audio should produce higher-quality sound.
+To connect to digital audio:
+Connect your video input as described in the preceding sections.
+Connect your digital audio cable (not included) to the digital audio output on your AV cable and to the digital audio input on your receiver.
+
+
+
+Connegt the HDMI AV Cable
+
+To connect to your high definition TV:
+Turn off your console.
+If another AV cable (such as the component HD AV cable) is already connected to your console’s AV port, disconnect it before continuing.
+Connect the HDMI AV cable connector to the HDMI AV port (not the standard AV port) on the console.
+Connect the other end of the HDMI AV cable to the HDMI input on your TV.
+Turn on your console. From the System area, select the appropriate high definition video setting for your TV.
+Connegt to a Stereo Audio System with the HDMI Cable
+HDMI supports audio through your TV. However, you might prefer to connect Xbox 360 audio to a different audio system, such as a stereo receiver or amplifier. To do so, connect the HDMI AV cable for video and the included audio adapter cable for audio.
+
+To connect to stereo audio:
+Connect the HDMI AV cable as described in “Connect the HDMI AV Cable.”
+Connect the audio adapter cable connector to the AV port (not the HDMI AV port) on your console. Leave the HDMI AV cable connected to your TV for video.
+Connect a standard stereo audio extension cable (sold separately) to the solid color
+left and right (white and red) audio connectors on the audio adapter cable. Connect the other end of the extension cable to the audio inputs on your stereo audio system.
+For monaural (mono) systems, which have only one audio jack, connect either the right or left audio connector to the audio jack.
+
+Connegt to a Digital Audio System with the HDMI Cable
+If your system (typically, a receiver or amplifier) has digital audio input, you can connect to digital audio rather than
+to the standard left and right audio inputs. Digital audio input should produce higher- quality sound than standard left and right stereo audio.
+To connect to digital audio:
+Connect the HDMI AV cable as described in “Connect the HDMI AV Cable.”
+Connect the audio adapter cable connector to the AV port (not the HDMI AV port) on your console. Leave the HDMI AV cable connected to your TV for video.
+Connect your digital audio cable (not included) to the digital audio output on the audio adapter cable. Connect the other end of your digital audio cable to the digital audio input on your receiver.
+Turn on your console. From the System area, you can change your audio and digital output settings. Select the appropriate digital audio setting for your system.
+
+Other AV Input
+You can also connect to additional TV input types by using the Xbox 360 S-Video AV Cable or the Xbox 360 VGA HD AV Cable (both sold separately). For more information,
+go to  www.xbox.com/setup.
+
+CONNECT THE CONSOLE TO POWER
+
+Elegtrigal Safety
+As with many other electrical devices, failure to take the following precautions can result in serious injury or death from electric shock or fire or damage to the Xbox 360 video game and entertainment system.
+Select an appropriate power source for your Xbox 360 console:
+Use only the power supply unit and AC power cord that came with your console or that you received from an authorized repair center. If you are not sure if you have the correct power supply unit, compare the model number on the power supply unit with the model number specified on your console. If you need a replacement power supply unit or AC power cord, contact Xbox Customer Support.
+Confirm that your electrical outlet provides the type of power indicated on the power supply unit (in terms of
+voltage [V] and frequency [Hz]). If you are not sure of the type of power supplied to your home, consult a qualified electrician.
+Do not use non-standard power sources, such as generators or inverters, even if the voltage and frequency appear acceptable. Only use AC power provided by a standard wall outlet.
+Do not overload your wall outlet, extension cord, power strip, or other electrical receptacle. Confirm that they are rated to handle the total current (in amps [A]) drawn by the Xbox 360 console (indicated on the power supply unit) and any other devices that are on the same circuit.
+Do not connect any other devices between the Xbox 360 power supply unit and the Xbox 360 console or between the power cord and the Xbox 360 power supply unit.
+
+
+
+
+To avoid damaging the power gords and power supply:
+
+Protect the power cords from being walked on.
+Protect cords from being pinched or sharply bent, particularly where they connect to the power outlet, the power supply unit, and the console.
+Do not jerk, knot, sharply bend, or otherwise abuse the power cords.
+Do not expose the power cords to sources of heat.
+Do not wrap power cords around the power supply unit.
+Keep children and pets away from the power cords. Do not allow them to bite or chew on them.
+When disconnecting the power
+cords, pull on the plug—do not pull on the cord.
+Do not let the power supply hang from either power cord.
+If a power cord or power supply becomes damaged in any way, stop using it immediately and contact Xbox Customer Support for a replacement.
+Unplug your Xbox 360 console during lightning storms or when unused for long periods of time.
+Always connect the power cords according to the following instructions:
+Fully insert the power supply cord into the Xbox 360 console.
+Plug the AC power cord into the power supply until it stops.
+Plug the other end of the AC power cord into the wall outlet.
+
+THE XBOX 3@0 WIRELESS CONTROLLER
+
+Your wireless controller lets you experience the ultimate in wireless freedom with the same precision, speed, and accuracy as a wired controller.
+Xbox Guide Button
+The Xbox Guide button in the center of your controller puts the Xbox 360 experience at your fingertips. Press the Xbox Guide button to turn your console on. Once on, pressing the Xbox Guide button gives you immediate access to the Xbox Guide. To turn off your console, press and hold the Xbox Guide button for three seconds and confirm your selection.
+Ring of Light
+Composed of four quadrants, the Ring of Light that surrounds the Xbox Guide button on the controller and the Power button on the console is the Xbox 360 status indicator.
+When you connect a controller to your
+console, it is assigned a specific quadrant,
+which glows green to indicate the controller’s number and position. Each subsequent controller connected to the console (up to four) is assigned an additional quadrant.
+If system problems should arise, the Ring of Light on the console will flash combinations of red. For more information, see “Troubleshooting.”
+Expansion Port
+The expansion port (with 2.5-mm audio connector) on your controller lets you connect expansion devices like the Xbox 360 Headset to your controller. For more information, see the instruction manual for your controller expansion device.
+Charge Port
+The charge port on the front of your controller works exclusively with the Xbox 360 Play & Charge Kit (sold separately).
+
+SET UP YOUR WIRELESS CONTROLLER
+
+Before you can use your Xbox 360 Wireless Controller with your Xbox 360 console, you need to insert a battery pack.
+Insert Batteries
+The wireless controller uses disposable batteries or the Xbox 360 Rechargeable Battery Pack (sold separately). If you plan to use disposable batteries, you should familiarize yourself with the “Disposable Battery Safety” section that follows
+
+Disposable Battery Safety  Improper use of batteries may result in battery fluid leakage, overheating, or
+
+explosion. Risk of fire if batteries are
+replaced by an incorrect type. Released battery fluid is corrosive and may be toxic. It can cause skin and eye burns, and is harmful if swallowed. To reduce the risk of injury:
+Keep batteries out of reach of children.
+Do not heat, open, puncture, mutilate,
+or dispose of batteries in fire.
+Use only alkaline batteries, type AA (LR6).
+Do not mix new and old batteries.
+Remove the batteries if they are worn out or before storing your controller
+for an extended period of time. Do not leave batteries in the AA battery pack when it is not installed in the controller.
+If a battery leaks, remove all batteries, taking care to keep the leaked fluid from touching your skin or clothes. If fluid from the battery comes into contact with skin or clothes, flush skin with water immediately. Before inserting new batteries, thoroughly clean the battery compartment with a damp paper towel, or follow the battery manufacturer’s recommendations for cleanup.
+Dispose of batteries in accordance with local and national disposal regulations (if any).
+
+Insert batteries according to the following instructions.
+To insert batteries into the wireless controller AA battery pack:
+Press the tab on the top of the AA battery pack and pull down to detach it from the controller.
+Insert two new AA (LR6) batteries with their positive (+) and negative (–) ends as shown on the underside of the battery pack. For best performance, AA rechargeable batteries are not recommended.
+Slide the AA battery pack back into place on the controller and push it in to lock.
+
+Connegt Your Wireless Controller to Your Console
+Your Xbox 360 Wireless Controller comes already wirelessly connected to your console, right out of the box. Should you need to reconnect your wireless controller to your console or connect to a different console,
+see “Add Wireless Controllers.”
+Turn Your Console and Wireless Controller On
+To turn your console and controller on, press and hold the Xbox Guide button on your controller.
+To turn on your console only, press the Power button on your console. To turn on your controller only, press the  Start  button on your controller.
+
+NOTE
+To avoid pinching your fingers when inserting, push only on the flat surface of the
+battery pack.
+Turn Your Console and Wireless Controller Off
+To turn your console and controller off, press and hold the Xbox Guide button on your controller for three seconds. Then select whether you want to turn off just your controller or both your controller and your console. (Selecting the console will turn off both the console and all connected controllers.)
+Pressing the power button on your console will turn off both the console and any connected wireless controllers.
+Selegt Language and Other Settings  The first time you turn on your Xbox 360 console, you’ll be prompted to enter a language. Follow the prompts to select a language for your console.
+
+You can change language and other console settings in the  System  area of the Xbox Dashboard, including time, audio, display, and automatic turn-off after six hours of non-use.
+
+XBOX 3@0 FAMILY SETTINGS
+The new Family Settings feature for Xbox 360 gives parents and caregivers the ability to provide age- appropriate entertainment through customized settings.
+Console settings can limit the games and movies that can be played on your console. Xbox LIVE settings can customize the Xbox LIVE experience for each child account, even when playing away from home.
+Apply Family Settings
+To apply Family Settings for your games and Xbox LIVE:
+Select  System ,  Family Settings .
+
+Choose the settings you want to apply to your console and your Xbox LIVE accounts.
+In the U.S. and Canada, Xbox 360 Family Settings for games are based on the ESRB (Entertainment Software Rating Board) rating system and movie settings are based on the MPAA (Motion Picture Association of America) rating system. By default, Xbox 360 Family Settings are set to Allow All for games and movies. For more information about game ratings, see  www.esrb.org.
+
+Not all movies have the rating encoded on the DVD. These DVD movies will play regardless of your settings.
+
+Xbox LIVE Settings
+You can make sure that your family has a positive experience on Xbox LIVE by setting limits for each child’s account. Manage up to eight settings for each account and set different limits for each account. Your child’s Xbox LIVE settings are pre-selected when their Xbox LIVE account is created. You can make changes at any time by selecting  System, Family Settings ,  Live Controls , and choosing the child’s account.
+
+Family Settings for Xbox LIVE includes these features:
+Parental approval for adding individuals to your child’s friends list.
+Limiting voice, video, and text chat to individuals on your child’s friends list.
+Blocking or limiting the display of your child’s profile information and online status.
+Blocking or limiting your child’s ability to view content created by other gamers.
+Blocking access to Xbox LIVE multiplayer games.
+Preventing your child from purchasing items on Xbox LIVE Marketplace.
+
+
+USING THE DISC DRIVE
+
+To insert a disc:
+Press the eject button to open the disc tray.
+Place the Xbox 360 game disc, audio CD, or DVD movie on the disc tray with the label facing up (to the right if the console is vertical).
+
+To eject a disc:
+Press the eject button to open the disc tray.
+Remove the disc.
+Press the eject button to close the disc tray.
+NOTE
+When the console is oriented vertically, make sure the disc is held in place by the tabs on the disc tray so that it doesn’t fall.
+
+
+IMPORTANT
+To avoid jamming the disc drive and damaging discs or the console:
+Remove discs before moving the console or tilting it between the horizontal and vertical positions.
+Never use cracked discs. They can shatter inside the console and jam or break internal parts.
+When the console is vertical, do not
+use discs that are smaller than standard DVDs and CDs. If the disc drive jams or is damaged, contact Xbox Customer Support to have your console repaired or exchanged.
+
+IMPORTANT HEALTH WARNINGS ABOUT PLAYING VIDEO GAMES
+Photosensitive Seizures
+A very small percentage of people may experience a seizure when exposed to certain visual images, including flashing lights or patterns that may appear in video games. Even people who have no history of seizures or epilepsy may have an undiagnosed condition that can cause these “photosensitive epileptic seizures” while watching video games.
+These seizures may have a variety of symptoms, including lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness. Seizures may also cause loss of consciousness or convulsions that can lead to injury from falling down or striking nearby objects.
+Immediately stop playing and consult a doctor if you experience any of these symptoms. Parents should watch for or ask their children about the above symptoms— children and teenagers are more likely than adults to experience these seizures. The risk of photosensitive epileptic seizures may be reduced by taking the following precautions:
+Sit farther from the TV screen.
+Use a smaller TV screen.
+Play in a well-lit room.
+Do not play when you are drowsy or fatigued.
+If you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing.
+Musguloskeletal Disorders
+Use of game controllers, keyboards, mice, or other electronic input devices may be linked to serious injuries or disorders.
+When playing video games, as with many activities, you may experience occasional discomfort in your hands, arms, shoulders,
+neck, or other parts of your body. However, if you experience symptoms such as persistent or recurring discomfort, pain, throbbing, aching, tingling, numbness, burning sensation, or stiffness, DO NOT IGNORE THESE WARNING SIGNS. PROMPTLY SEE A QUALIFIED HEALTH PROFESSIONAL,
+even if symptoms occur when you are not playing a video game. Symptoms such as these can be associated with painful and sometimes permanently disabling injuries or disorders of the nerves, muscles, tendons, blood vessels, and other parts of the body. These musculoskeletal disorders (MSDs) include carpal tunnel syndrome, tendonitis, tenosynovitis, vibration syndromes, and other conditions.
+While researchers are not yet able to answer many questions about MSDs, there is general agreement that many factors may be linked to their occurrence, including medical and physical conditions, stress and how one copes with it, overall health, and how a person positions and uses their body during work and other activities (including playing a video game). Some studies suggest that the amount of time a person performs an activity may also be a factor.
+Some guidelines that may help you work and play more comfortably and possibly reduce your risk of experiencing an MSD can be found in the Healthy Gaming Guide at  www.xbox.com.  These guidelines address topics such as:
+
+Positioning yourself to use comfortable, not awkward, postures.
+Keeping your hands, fingers, and other
+body parts relaxed.
+Taking breaks.
+Developing a healthy lifestyle.
+If you have questions about how your own lifestyle, activities, or medical or physical condition may be related to MSDs, see a qualified health professional.
+
+PLAY GAMES
+The Xbox 360 console can play only game discs licensed by Microsoft for the Xbox 360 video game and entertainment system.
+Licensed games bear this logo:
+
+For the latest information about Xbox 360 games, go to  www.xbox.com.
+
+To start a game:
+Press the eject button to open the disc tray.
+Place the Xbox 360 game disc on the disc tray with the label facing up (to the right if the console is vertical).
+Press the eject button to close the disc tray. The game will start.
+
+CONNECT TO XBOX LIVE
+You can instantly become an Xbox LIVE Silver member by simply connecting an Ethernet cable to the Ethernet port on the back of the console. With a Silver membership, you can create a gamertag, access the Xbox LIVE Marketplace, view gamer cards, participate in chats, get voice messages, make friends, and use Xbox LIVE Family Settings. Xbox LIVE Silver members get limited-time gameplay through special events like free Xbox LIVE Gold weekend play, Xbox LIVE Game with Fame, and Xbox LIVE Prime Time.
+If you’re ready for the full Xbox LIVE experience, sign up for an Xbox LIVE Gold membership. Xbox LIVE Gold gives you all the features of Xbox LIVE Silver, plus online multiplayer gaming, enhanced matchmaking and feedback tools, privileges and rewards on Xbox LIVE Marketplace, and media features such as music and photo sharing.
+
+Set Up Your Connegtion
+Set up your Xbox LIVE connection using one of the following connection types. You can also set up a wireless home network connection using the Xbox 360 Wireless Networking Adapter (sold separately). For more information about setting up your connection and further home networking options, go to  www.xbox.com/setup.
+
+NOTE
+You must have a high-speed (cable or DSL) Internet connection to play on Xbox LIVE. You must also have an Xbox 360 Hard Drive or Xbox 360 Memory Unit to store your Xbox LIVE account information.
+
+
+Modem Connegtion
+
+Choose a modem connection if you want the easiest way to set up and play and you don’t want to share your Internet connection with your PC (or other device).
+To set up a modem connection:
+Connect one end of an Ethernet cable to the Ethernet port on your high-speed modem and the other end to the Ethernet port on the back of your Xbox 360 console.
+Follow the on-screen instructions. You may need to enter information provided by your ISP in the System area of the Xbox Dashboard.
+
+
+Router Connegtion
+
+Choose a router connection if you want to share your Internet connection with your PC (or other device), your high-speed modem supports an Ethernet connection, and you want to be able to play on Xbox LIVE whether your PC is on or off.
+To set up a router connection:
+Connect one end of an Ethernet cable to the Ethernet port on your high-speed modem and the other end to the WAN or Uplink port on your router.
+Connect one end of an Ethernet cable to an Ethernet LAN port on your router and the other end to the Ethernet port on your
+PC (or other device). Follow the instructions from your ISP to use your PC’s browser or software to configure the router,
+then verify that your PC is connected to the Internet.
+Connect one end of an Ethernet cable to an Ethernet LAN port on your router and the other end to the Ethernet port on the back of your Xbox 360 console.
+NOTE
+Some modems and devices may require a network hub instead of a router.
+Follow the on-screen instructions. You may need to enter information provided by your ISP in the System area of the Xbox Dashboard.
+
+
+Gateway Connegtion
+
+Choose a gateway connection if your ISP has supplied you with an Ethernet gateway device. Like a router connection, you can share your Internet connection with your PC (or other device) and play on Xbox LIVE whether your PC is on or off.
+To set up a gateway connection:
+Connect your high-speed Internet connection to your gateway (using the coaxial cable jack for cable providers or telephone jack for DSL providers).
+Connect one end of an Ethernet cable to an Ethernet LAN port on your gateway and the other end to the Ethernet port on your PC (or other device). Follow the instructions from your ISP to use your PC’s browser or software to configure the gateway, then verify that your PC is connected to the Internet.
+Connect one end of an Ethernet cable to an Ethernet LAN port on your gateway and the other end to the Ethernet port on the back of your Xbox 360 console.
+Follow the on-screen instructions. You may need to enter information provided by your ISP in the System area of the Xbox Dashboard.
+Troubleshoot Your Connegtion
+If your Xbox 360 console cannot connect automatically, you may need to manually configure your network settings in the Xbox Dashboard. Some Internet service providers (ISPs) require specific settings, including host name, MAC address, and ISP user name and password (for PPPoE authentication). If you are unsure about whether you need this information, check with your ISP. For more information, go to  www.xbox.com/setup.
+
+Sign Up for Xbox Live
+To create your account, select  Xbox LIVE  from the Xbox Dashboard and follow the instructions on the screen.
+
+Communigate on Xbox Live
+Use your Xbox 360 Headset to chat and communicate with your friends while on Xbox LIVE.
+
+Connegt Your Headset to Your Controller
+To connect your headset:
+Turn down the volume by rotating the volume control all the way to the left. Insert the 2.5-mm headset connector into the controller expansion port at the back of your game controller.
+
+Put on your headset and adjust the microphone.
+NOTE
+Correct placement of the headset and microphone is critical to using your headset successfully. Make sure the headset goes over the top of your head, not around the back of your head. You may rotate the microphone and earpiece to your right or left side. Position the microphone about one inch (2.54 cm) from your mouth and off to one side. This will ensure that it doesn’t transmit your breathing into a chat session. As you adjust the microphone, make sure the microphone opening is pointed toward your mouth and not rotated on its axis.
+Now the headset is ready for a game or chat session. Start your game or chat and turn the volume up to a comfortable level.
+Use Your Headset
+To temporarily turn off voice transmission, slide the mute switch on the headset control. To adjust the listening volume of the headset, rotate the volume control knob. For more information about using your Xbox 360 Headset with a particular game, see your game manual.
+To chat and send voice messages, you need an Xbox LIVE membership.
+IMPORTANT
+To prevent damage to your headset, avoid sitting or stepping on the headset, its cable, or the cable connector.
+
+WATCH MOVIES
+Your Xbox 360 console plays DVD movies. To enhance your DVD movie playback experience, consider using the Xbox 360 Universal Media Remote (sold separately).
+To play DVD movies:
+Press the eject button to open the disc tray.
+Place the DVD movie on the disc tray with the label facing up (to the right if the console is vertical).
+Press the eject button to close the disc tray. The DVD movie will begin playing.
+
+Press any controller button other than the Xbox Guide button to show the DVD on- screen controls. Use your controller to control movie playback.
+The Xbox 360 console can only play region 1 DVDs that have this logo:
+
+PLAY CDs
+The Xbox 360 console can play audio CDs that have this logo:
+
+To play audio CDs:
+Press the eject button to open the disc tray.
+Place the audio CD on the disc tray with the label facing up (to the right if the console is vertical).
+Press the eject button to close the disc tray. The CD will begin playing.
+
+SHARE MEDIA FROM AN AUDIO PLAYER OR CAMERA
+
+
+Use your Xbox 360 console to play music, view pictures, and access media files from other devices. You can connect USB devices such as music players and digital cameras to the Xbox 360 USB ports. You can also connect your console to a Windows–based PC or a Windows Media Center–based PC.
+
+For a list of third-party devices supported by Xbox 360, go to  www.xbox.com/media.
+
+Stream Musig to Your Console
+To stream music from a personal audio player to your Xbox 360 console:
+Connect a USB cable (not provided) between the device and your console.
+Configure the device to play through the
+USB port.
+Select  Media, Musig ,  Portable Devige .
+
+Select the music or playlist you want to listen to.
+NOTE
+Recordings and programs may be protected by copyright. Microsoft does not authorise, support, or condone the use of its products for unauthorised copying. You may not copy, reproduce, distribute, publicly perform, or modify recordings unless authorised by the copyright owner or allowed by law.
+View Your Pigtures
+You can create slideshows and view pictures stored on your digital camera.
+To connect your digital camera:
+Set up your digital camera for viewing pictures. See your camera instructions for details about how to view pictures.
+With your console turned on, use a USB cable to connect your camera to a USB port on the console.
+The console will detect your digital camera. Follow the on-screen instructions to access your pictures.
+
+SHARE MEDIA FROM YOUR PC
+To access media files, including video, audio, and pictures, from a Windows XP–based PC, you need a simple Ethernet connection from the Ethernet port on the back of your Xbox 360 console to your PC. If your PC or home network is also connected to high-speed Internet, you can use this connection to connect to Xbox LIVE. For more information about home networking options, see “Connect to Xbox LIVE” or go to  www.xbox.com/setup.
+
+Windows Media Connect lets you connect your Xbox 360 console to a PC running Windows XP Service Pack 2 (SP2) or later. If you have a Windows Media Center–based PC, you can also use it with your connected Xbox 360 console.
+Along with normal DVD remote control functions, the Xbox 360 Universal Media Remote (sold separately) features a Windows Media Center button that lets you access a connected Windows Media Center–based PC.
+Windows Media Connegt
+Windows Media Connect lets your Xbox 360 console stream music and pictures stored on your Windows XP–based PC anywhere in your home. View slide shows on your TV, and play all your music through one sound system connected to your console through a digital audio receiver. To learn more about Windows Media Connect, go to  www.xbox.com/media.
+To set up Windows Media Connect:
+Go to  www.xbox.com/pcsetup  and download the Windows Media Connect software to a PC running Windows XP SP2 or later.
+
+Connect your console to your PC using one of the connection types described in “Connect to Xbox LIVE.”
+Select  Media , and then select pictures or music from your PC. Follow the on-screen instructions to finish Windows Media Connect setup.
+
+Windows Media Center
+Your Xbox 360 console can deliver the ultimate integration of gaming and room-to- room entertainment—including watching or recording TV shows, viewing your digital photos, and listening to your digital music library—from a Windows Media Center–based PC to any TV in your home. When you connect your console to the same network as your Windows Media Center–based PC, the experience is delivered to your Xbox 360 video game and entertainment system. (You can connect up to five consoles to a Windows Media Center–based PC.)
+To learn more about Windows Media Center for Xbox 360, go to  www.microsoft.com/extender.
+
+To set up Windows Media Center:
+Go to  www.xbox.com/pcsetup  and download the latest Windows Media Center software update to your Windows Media Center–based PC.
+
+Connect your console to your Windows Media Center–based PC using one of the connection types described in “Connect to Xbox LIVE.”
+On your Xbox 360 console, go to  Media , then select  Windows Media Center . Follow the on-screen instructions to finish Windows Media Center setup.
+
+
+STORAGE
+
+With the Xbox 360 Hard Drive (included) or an Xbox 360 Memory Unit (sold separately), you can save games and other media and enable Xbox LIVE sign-in.
+Remove and Reattagh Your Hard Drive  Your Xbox 360 console comes with a hard drive attached, but should you need to remove it, use the following procedures for removal and reattachment.
+
+To remove your hard drive:
+Turn off your console.
+
+Press the tab on the front of the hard drive and lift the unit from the console.
+IMPORTANT
+Avoid touching hard drive bay contacts and hard drive connector contacts with fingers or metal objects.
+To attach your hard drive:
+Turn off your console.
+
+Position the hard drive over the hard drive bay with the narrow end (the front)
+pointed toward the front of the console and the broad end (the back) pointed toward the back of the console.
+Place the back of the hard drive against the back of the hard drive bay. Make sure the ridge along the back of the hard drive rests beneath the lip on the back of the hard drive bay.
+Push the front end of the hard drive down until the tab clicks.
+
+Personalize Your Hard Drive
+You can personalize your hard drive by giving it a name.
+To give your hard drive a name:
+With the hard drive attached to the Xbox 360 console, select  System, Memory .
+
+Highlight your hard drive.
+Choose  Devige Options  and rename your hard drive.
+
+Once your hard drive has been personalized, you can identify it by its new name.
+Copy or Delete Saved Items
+You can copy items on your hard drive to a memory unit, connected PC, or a connected USB device. You can also free space on your hard drive by deleting items.
+To copy or delete an item from your hard drive:
+With the hard drive attached to the Xbox 360 console, select  System, Memory .
+
+Select your hard drive.
+Choose the type of item, then the specific item that you want to copy to another location or delete from the hard drive.
+NOTE
+If you delete content originally included with your hard drive, it cannot be restored. Make sure you do not want to keep any content before deletion.
+Memory Units  You can also connect up to two portable memory units (sold separately) to the
+
+memory unit ports on the front of your console for additional storage.
+Memory units are smaller
+than your hard drive, but extremely portable, letting you easily take your Xbox LIVE profile or saved games to other Xbox 360 consoles. You can also take your memory unit to participating retailers and download content from Xbox 360 demo kiosks.
+
+ADD WIRELESS CONTROLLERS
+Up to four controllers, wired and wireless, can be actively connected to a console at one time. Each connected controller gets a quadrant on the Ring of Light. Before you can connect a wireless controller, at least one quadrant must be free (unlit). To disconnect a
+
+wireless controller, press and hold the wireless controller Xbox Guide button for three seconds, then choose to turn it off. For a wired controller, disconnect the cable connector.
+
+To connect your wireless controller to your console:
+Press and hold down the Xbox Guide button until the controller turns on.
+
+
+Make sure the console is turned on. If not, press the Power button.
+
+
+Press and release the Connect button on the console.
+
+
+Press and release the Connect button on the controller.
+
+
+After the Ring of Light on the controller and console spin and flash once, the controller is connected. The quadrant that remains lit indicates the controller’s position.
+
+NOTES
+When you turn off your console, your controller will still be connected the next time you turn it on.
+Your controller is connected to only one console at a time. You can connect to a new console at any time, but your connection to the previously connected console will be lost.
+The Xbox 360 Wireless Controller works only within 33 feet (10 meters) of the console. Objects between the controller and the console can reduce this range.
+
+CONNECT ADDITIONAL ACCESSORIES
+The Xbox 360 video game and entertainment system is designed to work with a variety of accessories, including:
+Up to four wired and wireless controllers and other gameplay accessories (additional controllers sold separately).
+AV connectors such as component video cables and digital audio cables, including the Xbox 360 S-Video AV Cable and Xbox 360 VGA HD AV Cable (sold separately).
+Ethernet and wireless home networking devices such as the Xbox 360 Wireless Networking Adapter (sold separately).
+Storage devices such as your Xbox 360 Hard Drive (included), Xbox 360 Memory Units (sold separately), and USB-based storage devices.
+
+USB-based media devices such as music players and digital cameras.
+Custom Xbox 360 Faceplates (sold separately).
+
+Look for the Xbox Authentic Product logo for accessories from Microsoft for use with your Xbox 360 video game and entertainment system.
+
+For devices from other manufacturers, look for one of the following logos, which indicate that the device has been tested to meet stringent compatibility requirements to work with Xbox 360 or Xbox LIVE. For more information about compatible devices, go to  www.xbox.com.
+
+
+
+TROUBLESHOOTING
+Follow these steps to troubleshoot any difficulties you may have with the Xbox 360 video game and entertainment system. If the steps in this troubleshooting section do not solve your problem, go to  www.xbox.com/  support or call the Xbox Customer Support number provided on the back cover.
+
+Do not take your Xbox 360 console or its accessories to your retailer for repair or service unless instructed to do so by an Xbox Customer Support representative.
+
+No Power
+Confirm that you have an appropriate power source and check all connections between wall outlet and power supply, and power supply and console (see “Connect the Console to Power”). The power supply light should glow green when it is working properly.
+No Pigture
+Connect the appropriate AV cable (see “Connect to Your TV and Audio System”). Turn on the TV. Select the video input on the TV (or VCR, if connected to a VCR) that displays the Xbox 360 game. Common names for video input include Input Select, AUX, Line In, Line, In, Input, Source, and EXT, depending on your TV or VCR type. For more information, see your TV or VCR manual. Don’t connect both the component HD AV cable and the HDMI AV cable to the console at the same time.
+No Sound
+Check the AV connection (see “Connect to Your TV and Audio System”). If you’re using
+
+digital audio, make sure the receiver is turned on and the output in your console’s audio settings is set correctly. Don’t connect both the component HD AV cable and the HDMI AV cable to the console at the same time.
+Poor-Quality Sound
+Clean the disc as shown in the Xbox 360 Warranty manual (Volume 2). Check the AV connection (see “Connect to Your TV and Audio System”). Play Dolby® Digital audio only on audio systems that support Dolby Digital. Select the audio output that is supported by your system or TV: stereo or Dolby® Surround for stereo speakers, mono for monaural speakers. If sound is coming from only one speaker, check that all audio cables are connected correctly. Only connect the optional audio adapter cable for audio output while the HDMI AV cable is connected.
+Disg Tray Does Not Open
+Make sure the removable faceplate on the front of the console is fully connected and properly aligned. Check the connection to power (see “Connect to Power”). Turn on the console by pressing the Power button.
+Game, Movie, or Musig Does Not Start  Play only supported discs (Xbox 360 games, audio CDs, DVD movies). Insert the disc as instructed in this manual and close the disc tray. Clean the disc as shown in the Xbox 360 Warranty manual (Volume 2).
+
+Ring of Light Flashes
+The lights in the console Ring of Light should glow solid while the console is on and flash when you press the eject button. If the Ring of Light flashes differently during operation, the console has an internal problem:
+Two left lights on console flash red: The console is too hot and will not play games until cooled down. Place the console in a well-ventilated area away from other heat sources. Once the console cools, the flashing will stop and the Xbox 360 console can be played. For more information, see “Select a Location for the Console”.
+
+Four lights on controller periodically flash green: No Ring of Light quadrant assignment. The controller is not connected or all four quadrants are full.
+All other patterns: Internal problem requires service. Contact Xbox Customer Support at the phone number on the back cover of this manual.
+Wireless Controller Does Not Work  Turn on the wireless controller by pressing the Xbox Guide Button and connect the wireless controller to your console (see “Add Wireless Controllers”).
+
+If lights spin longer than 15 seconds when connecting:
+Move the controller closer to the console.
+Make sure the batteries are fresh.
+Keep the console and controller at least three feet away from large metal objects, such as file cabinets and refrigerators.
+Metallic decorations or stickers on the console or controller can interfere with wireless controller performance. Remove decorations and try connecting again.
+Make sure the front of the console is positioned in the direction of the controller and away from nearby walls.
+Cordless phones (2.4 GHz), wireless LANs, wireless video transmitters, microwave ovens, some mobile/cell phones, and Bluetooth headsets can interfere with the operation of the controller. Turn these off or unplug them and retry connecting.
+If nothing else works, turn off your console, remove and reinsert the AA batteries or Xbox 360 Rechargeable Battery Pack into the controller, and then repeat the steps given in “Add Wireless Controllers.”
+Headset Does Not Work
+If the headset isn’t emitting any sound or you are unable to transmit your voice:
+Make sure the headset connector is plugged in securely.
+Try adjusting the volume using the volume control on the headset connector.
+Make sure the mute button isn’t on.
+Make sure that voice isn’t turned off in the Xbox Guide.
+Check your game manual to determine whether you need to push a button while speaking.
+Aggessory Does Not Work
+Use Xbox 360-compatible gameplay accessories that have this logo:
+
+If an accessory is not supported by a specific
+game, the game may not play.
+Cannot Save Game
+The Xbox 360 Hard Drive or Memory Unit must have enough free space to save the game. Delete unwanted items from storage or attach an additional memory unit (sold separately) for more space.
+Hard Drive Not Listed as a Storage Devige
+If your hard drive is not listed as a storage device, try the following steps, in order.
+Make sure the hard drive is fully inserted into the hard drive bay and looks level. Turn the console off, then on again.
+Turn the console off and remove the hard drive. Turn the console on and then off again. Reattach the hard drive.
+If available, try the hard drive on another console, or try another hard drive on your console to pinpoint the problem.
+NOTE
+Damaged hard drives will not show up in the Xbox Guide and could harm your Xbox 360 console. Hard drives that have been crushed, immersed in liquids, or exposed to intense heat may be damaged beyond use and will not show up in your list of storage devices.
+
+© 2007 Microsoft Corporation. All rights reserved.
+Microsoft, Windows, Xbox, Xbox 360, Xbox LIVE, the Xbox logos, and the Xbox LIVE logo are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.
