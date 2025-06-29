@@ -1,905 +1,1177 @@
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''CONVENTION DEFINING THE STATUTE OF THE EUROPEAN SCHOOLS'''</div>
-
-<div style="margin-left:0in;margin-right:0in;">'''PREAMBLE'''</div>
-
-<div style="margin-left:0in;margin-right:0in;">THE HIGH CONTRACTING PARTIES, MEMBERS OF THE EUROPEAN COMMUNITIES AND THE EUROPEAN COMMUNITIES, hereinafter referred to as ‘the Contracting Parties’;</div>
-
-<div style="margin-left:0in;margin-right:0in;">considering that, for the education together of children of the staff of the European Communities in order to ensure the proper functioning of the European Institutions, establishments bearing the name ‘European School’, have been set up from 1957 onwards;</div>
-
-<div style="margin-left:0in;margin-right:0in;">considering that the European Communities are anxious to ensure the education together of these children and, for this purpose, make a contribution to the budget of the European Schools;</div>
-
-<div style="margin-left:0in;margin-right:0in;">considering that the European School system is ‘sui generis’; considering that it constitutes a form of cooperation between the Member States and between them and the European Communities while fully acknowledging the Member States' responsibility for the content of teaching and the organization of their educational system, and for their cultural and linguistic diversity;</div>
-
-<div style="margin-left:0in;margin-right:0in;">considering that:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| —
-|| the Statute of the European School, adopted in 1957, should be consolidated to take account of all the relevant texts adopted by the Contracting Parties;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| —
-|| it should be adapted, taking into account the development of the European Communities;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| —
-|| the decision-making procedure within the organs of the Schools should be modified;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| —
-|| experience in the operation of the Schools should be taken into account;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| —
-|| adequate legal protection against acts of the Board of Governors or the Administrative Boards should be provided to the teaching staff as well as other persons covered by it; to this end a Complaints Board should be created, with strictly limited jurisdiction;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| —
-|| the jurisdiction of the Complaints Board will be without prejudice to national courts' jurisdiction in relation to civil and criminal liability;
-|-
-|}
-<div style="margin-left:0in;margin-right:0in;">considering that a School has been opened in Munich on the basis of the Supplementary Protocol of 15 December 1975 for the education together of children of the staff of the European Patent Organization,</div>
-
-<div style="margin-left:0in;margin-right:0in;">HAVE AGREED AS FOLLOWS:</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''TITLE I'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''THE EUROPEAN SCHOOLS'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 1''</div>
-
-<div style="margin-left:0in;margin-right:0in;">This Convention defines the Statute of the European Schools (hereinafter referred to as ‘Schools’).</div>
-
-<div style="margin-left:0in;margin-right:0in;">The purpose of the Schools is to educate together children of the staff of the European Communities. Besides the children covered by the Agreements provided for in Articles 28 and 29, other children may attend the Schools within the limits set by the Board of Governors.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Schools are listed in Annex I, which may be amended by the Board of Governors to take account of decisions made under Articles 2, 28 and 31.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 2''</div>
-
-<div style="margin-left:0in;margin-right:0in;">1.&nbsp;&nbsp;&nbsp;The Board of Governors, acting unanimously, may decide to establish new Schools.</div>
-
-<div style="margin-left:0in;margin-right:0in;">2.&nbsp;&nbsp;&nbsp;It shall determine their location in agreement with the host Member State.</div>
-
-<div style="margin-left:0in;margin-right:0in;">3.&nbsp;&nbsp;&nbsp;Before a new School is opened in the territory of a Member State, an Agreement must be concluded between the Board of Governors and the host Member State concerning the free provision and maintenance of suitable premises for the new School.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 3''</div>
-
-<div style="margin-left:0in;margin-right:0in;">1.&nbsp;&nbsp;&nbsp;The instruction given in each School shall cover the course of studies up to the end of secondary school.</div>
-
-<div style="margin-left:0in;margin-right:0in;">It may comprise:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| —
-|| a nursery school;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| —
-|| five years of primary school;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| —
-|| seven years of secondary school.
-|-
-|}
-<div style="margin-left:0in;margin-right:0in;">Technical education requirements shall as far as possible be covered by the Schools in cooperation with the education system of the host country.</div>
-
-<div style="margin-left:0in;margin-right:0in;">2.&nbsp;&nbsp;&nbsp;Instruction shall be provided by teachers seconded or assigned by the Member States in accordance with decisions taken by the Board of Governors under the procedure laid down in Article 12 (4).</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 3.
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (a)
-|| Any proposal to modify the fundamental structureof a School shall require a unanimous vote of the Member State representatives on the Board of Governors.
-|- style="border:none;padding:0in;"
-|| (b)
-|| Any proposal to modify the official status of the teachers shall require a unanimous vote of the Board of Governors.
-|-
-|}
-
-|| 
-|-
-|}
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 4''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The education given in the Schools shall be organized on the following principles:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 1.
-|| the courses of study shall be undertaken in the languages specified in Annex II;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 2.
-|| that Annex may be amended by the Board of Governors to take account of decisions taken under Articles 2 and 32;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 3.
-|| in order to encourage the unity of the School, to bring pupils of the different language sections together and to foster mutual understanding, certain subjects shall be taught to joint classes of the same level. Any Community language may be used for these joint classes, insofar as the Board of Governors decides that circumstances justify its use;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 4.
-|| a particular effort shall be made to give pupils a thorough knowledge of modern languages;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 5.
-|| the European dimension shall be developed in the curricula;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 6.
-|| in education and instruction, the conscience and convictions of individuals shall be respected;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 7.
-|| measures shall be taken to facilitate the reception of children with special educational needs.
-|-
-|}
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 5''</div>
-
-<div style="margin-left:0in;margin-right:0in;">1.&nbsp;&nbsp;&nbsp;Years of study seccessfully completed at the School and diplomas and certificates in respect thereof shall be recognized in the territory of the Member States, in accordance with a table of equivalence, under conditions determined by the Board of Governors as laid down in Article 11 and subject to the agreement of the competent national authorities.</div>
-
-<div style="margin-left:0in;margin-right:0in;">2.&nbsp;&nbsp;&nbsp;The European baccalaureate, which is the subject of the Agreement of 11 April 1984 amending the Annex to the Statute of the European School laying down the regulations for the European baccalaureate, hereafter referred to as the ‘European baccalaureate Agreement’, shall be awarded upon completion of the cycle of secondary studies. The Board of Governors, acting by a unanimous vote of the Member State representatives, shall be able to make any adaptations to that Agreement which may prove necessary.</div>
-
-<div style="margin-left:0in;margin-right:0in;">Holders of the European baccalaureate obtained at the School shall:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (a)
-|| enjoy, in the Member State of which they are nationals, all the benefits attaching to the possession of the diploma or certificate awarded at the end of secondary school education in that country;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (b)
-|| be entitled to seek admission to any university in the territory of any Member State on the same terms as nationals of that Member State with equivalent qualifications.
-|-
-|}
-<div style="margin-left:0in;margin-right:0in;">For the purposes of this Convention, the word ‘university’ applies to:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (a)
-|| universities;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (b)
-|| institutions regarded as of university standing by the Member State in whose territory they are situated.
-|-
-|}
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 6''</div>
-
-<div style="margin-left:0in;margin-right:0in;">Each School shall have the legal personality necessary for the attainment of its purpose, as defined in Article 1. It shall for that purpose be free to manage the appropriations in its own section of the budget under the conditions laid down in the Financial Regulation referred to in Article 13 (1). It may be a party to legal proceedings. It may in particular acquire and dispose of movable and immovable property.</div>
-
-<div style="margin-left:0in;margin-right:0in;">As far as its rights and obligations are concerned, the School shall be treated in each Member State, subject to the specific provisions of this Convention, as an educational establishment governed by public law.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''TITLE II'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''ORGANS OF THE SCHOOLS'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 7''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The organs common to all the Schools shall be:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 1.
-|| the Board of Governors;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 2.
-|| the Secretary-General;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 3.
-|| the Boards of Inspectors;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 4.
-|| the Complaints Board;
-|-
-|}
-<div style="margin-left:0in;margin-right:0in;">Each School shall be administered by the Administrative Board and managed by the Headteacher.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''CHAPTER I'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''The Board of Governors'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 8''</div>
-
-<div style="margin-left:0in;margin-right:0in;">1.&nbsp;&nbsp;&nbsp;Subject to Article 28, the Board of Governors shall consist of the following members:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (a)
-|| the representative or representatives at ministerial level of each of the Member States of the European Communities authorised to commit the Government of that Member State, on the understanding that each Member State has only one vote;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (b)
-|| a member of the Commission of the European Communities;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (c)
-|| a representative designated by the Staff Committee (from among the teaching staff) in accordance with Article 22;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (d)
-|| a representative of the pupils' parents designated by the Parents' associations in accordance with Article 23.
-|-
-|}
-<div style="margin-left:0in;margin-right:0in;">2.&nbsp;&nbsp;&nbsp;The representatives at ministerial level of each of the Member States and the member of the Commission of the European Communities may appoint persons to represent them. Other members who are unable to attend shall be represented by their alternates.</div>
-
-<div style="margin-left:0in;margin-right:0in;">3.&nbsp;&nbsp;&nbsp;A representative of the pupils may be invited to attend meetings of the Board of Governors as an observer for items concerning the pupils.</div>
-
-<div style="margin-left:0in;margin-right:0in;">4.&nbsp;&nbsp;&nbsp;The Board of Governors shall be convened by its Chairman, on his own initiative or at the reasoned request of three members of the Board of Governors or of the Secretary-General. It shall meet at least once a year.</div>
-
-<div style="margin-left:0in;margin-right:0in;">5.&nbsp;&nbsp;&nbsp;The office of Chairman shall be held for one year by a representative of each Member State in turn, in the following order of Member States: Belgium, Denmark, Germany, Greece, Spain, France, Ireland, Italy, Luxembourg, Netherlands, Portugal, United Kingdom.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 9''</div>
-
-<div style="margin-left:0in;margin-right:0in;">1.&nbsp;&nbsp;&nbsp;Save in cases where unanimity is required by this Convention, decisions of the Board of Governors shall be adopted by a two-thirds majority of the members comprising it, subject to the following provisions:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (a)
-|| adoption of a decision affecting the specific interests of a Member State, such as the significant extension of the premises or the closure of a School established in its territory, shall require a favourable vote by the representative of that Member State;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (b)
-|| the closure of a School shall require a favourable vote by the Member of the Commission;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (c)
-|| the representative of an organization governed by public law who has obtained a seat and a vote on the Board of Governors pursuant to an agreement based on Article 28 shall vote on all matters relating to the School covered by such agreement;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (d)
-|| the right to vote of the representative of the Staff Committee mentioned in Article 8 (1) (c) and the representative of the pupils' parents mentioned in Article 8 (1) (d) shall be restricted to the adoption of decisions on educational matters under Article 11, with the exclusion of decisions concerning adaptations to the European baccalaureate Agreement and decisions having financial or budgetary effects.
-|-
-|}
-<div style="margin-left:0in;margin-right:0in;">2.&nbsp;&nbsp;&nbsp;In cases where unanimity is required by this Convention, the adoption of decisions of the Board of Governors shall not be prevented by abstentions by members who are present or represented.</div>
-
-<div style="margin-left:0in;margin-right:0in;">3.&nbsp;&nbsp;&nbsp;In all voting, each of the members present or represented shall have one vote, whithout prejudice to the specific provision in Article 8 (1) (a).</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 10''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Board of Governors shall supervise the implementation of this Convention; for this purpose, it shall have the necessary decision-making powers in educational, budgetary and administrative matters, and for the negotiation of the Agreements referred to in Articles 28 to 30. It may set up committees with responsibility for preparing its decisions.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Board of Governors shall lay down the General Rules of the Schools.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Board of Governors shall each year draw up, on the basis of a draft prepared by the Secretary-General, a report on the operation of the Schools and shall forward it to the European Parliament and to the Council.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 11''</div>
-
-<div style="margin-left:0in;margin-right:0in;">In educational matters, the Board of Governors shall determine which studies shall be undertaken and how they shall be organized. In particular, following the opinion of the appropriate Board of Inspectors, it shall:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 1.
-|| adopt harmonized curricula and timetables for each year's studies and for each section which it has set up and make recommendations as to which methods should be used;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 2.
-|| provide for supervision of the teaching by the Boards of Inspectors and fix the operating rules of the latter;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 3.
-|| determine the age for entry to the different levels. It shall lay down rules for the promotion of pupils to the next year of study or to the secondary school and, in order to enable pupils to return at any time to their national schools, rules for the validation of years of study at the School in accordance with Article 5. It shall draw up the table of equivalence referred to in Article 5 (1);
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 4.
-|| arrange for examinations to be held as a means of certifying the work done in the School; it shall lay down rules for the examinations, appoint examining boards and award diplomas. It shall ensure that the papers for the examination are set at such a level as to give effect to the provisions of Article 5.
-|-
-|}
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 12''</div>
-
-<div style="margin-left:0in;margin-right:0in;">In administrative matters, the Board of Governors shall:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 1.
-|| lay down the Service Regulations for the Secretary-General, the Headteachers, the teaching staff and, in accordance with Article 9 (1) (a), for the administrative and ancillary staff;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 2.
-|| appoint the Secretary-General and Deputy Secretary-General;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 3.
-|| appoint the Headteacher and Deputy Headteachers of each School;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 4.
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (a)
-|| determine each year, on a proposal from the Boards of Inspectors, the teaching staff requirements by creating or eliminating posts. It shall ensure a fair allocation of posts among the Member States. It shall settle with the Governments questions relating to the assignment or secondment of the secondary school teachers, primary school teachers and education counsellors of the School. Staff shall retain promotion and retirement rights guaranteed by their national rules;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (b)
-|| determine each year, on a proposal from the Secretary-General, the administrative and ancillary staff requirements;
-|-
-|}
-
-|| 
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 5.
-|| organize its operation and draw up its own Rules of Procedure.
-|-
-|}
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 13''</div>
-
-<div style="margin-left:0in;margin-right:0in;">1.&nbsp;&nbsp;&nbsp;In budgetary matters, the Board of Governors shall:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (a)
-|| adopt the Financial Regulation, specifying in particular the procedure for establishing and implementing the budget of the Schools;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (b)
-|| adopt the budget of the Schools for each financial year, in accordance with paragraph 4 below;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| (c)
-|| approve the annual revenue and expenditure account and forward it to the competent authorities of the European Communities.
-|-
-|}
-<div style="margin-left:0in;margin-right:0in;">2.&nbsp;&nbsp;&nbsp;The Board of Governors shall, by no later than 30 April of each year, establish an estimate of revenue and expenditure of the Schools for the following financial year and forward it forthwith to the Commission, which shall, on that basis, establish the necessary forecasts in the preliminary draft general budget of the European Communities.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The budgetary authority of the European Communities shall fix the amount of the European Communities' contribution under its budgetary procedure.</div>
-
-<div style="margin-left:0in;margin-right:0in;">3.&nbsp;&nbsp;&nbsp;The Board of Governors shall also forward the estimate of revenue and expenditure to the other organizations governed by public law provided for in Article 28 and to the organizations or institutions provided for in Article 29, whose financial contribution is such as to finance the bulk of a School's budget, so that they may determine the amount of their contributions.</div>
-
-<div style="margin-left:0in;margin-right:0in;">4.&nbsp;&nbsp;&nbsp;The Board of Governors shall finally adopt the budget of the Schools before the start of the budgetary year and shall adapt it if necessary to the contributions of the European Communities and of the organizations or institutions referred to in paragraph 3.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 14''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Secretary-General shall represent the Board of Governors and direct the Secretariat in accordance with the Service Regulations for the Secretary-General provided for in Article 12 (1). He shall represent the Schools in legal proceedings. He shall be responsible to the Board of Governors.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''CHAPTER 2'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''The Boards of Inspectors'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 15''</div>
-
-<div style="margin-left:0in;margin-right:0in;">Two Boards of Inspectors shall be set up for the purposes of the Schools: one for the nursery schools and the primary schools, the other for the secondary schools.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 16''</div>
-
-<div style="margin-left:0in;margin-right:0in;">Each Member State which is a Contracting Party shall be represented by one Inspector on each Board. He shall be appointed by the Board of Governors on a proposal from the Party concerned.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Boards of Inspectors shall be chaired by the representative on the Board of Inspectors of the Member State which holds the chairmanship of the Board of Governors.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 17''</div>
-
-<div style="margin-left:0in;margin-right:0in;">It shall be the task of the Boards of Inspectors to ensure the quality of the education provided by the Schools and to this end to ensure that the requisite inspections are carried out in the Schools.</div>
-
-<div style="margin-left:0in;margin-right:0in;">They shall submit to the Board of Governors the opinions and proposals provided for in Articles 11 and 12 respectively and, if need be, proposals for changes in curricula and for the organization of studies.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 18''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The task of the Inspectors shall be to:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 1.
-|| ensure, in their respective cycles of instruction, supervision of the work of teachers from their national administrations;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 2.
-|| compare views on the standard of work attained and the quality of the teaching methods;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 3.
-|| address to the Headteachers and the teaching staff the results of their inspections.
-|-
-|}
-<div style="margin-left:0in;margin-right:0in;">Taking into account needs evaluated by the Board of Governors, each Member State shall provide the Inspectors with the facilities necessary for carrying out fully their task in the Schools.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''CHAPTER 3'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''The Administrative Board'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 19''</div>
-
-<div style="margin-left:0in;margin-right:0in;">Subject to Articles 28 and 29, each Administrative Board provided for in Article 7 shall comprise eight members, as follows:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 1.
-|| the Secretary-General, who shall be Chairman;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 2.
-|| the Headteacher of the School;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 3.
-|| the representative of the Commission of the European Communities;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 4.
-|| two members of the teaching staff, one representing the staff of the secondary school and the other the staff of the primary and nursery schools jointly;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 5.
-|| two members representing the Parents' Association as provided for in Article 23;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 6.
-|| a representative of the administrative and ancillary staff.
-|-
-|}
-<div style="margin-left:0in;margin-right:0in;">A representative of the Member State in which the School is located may attend meetings of the Administrative Board as an observer.</div>
-
-<div style="margin-left:0in;margin-right:0in;">Two representatives of the pupils shall be invited to attend meetings of the Administrative Board of their School as observers for items of business which concern them.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 20''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Administrative Board shall:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 1.
-|| prepare the estimates of revenue and expenditure of the School in accordance with the Financial Regulation;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 2.
-|| supervise the implementation of the School's section of the budget and draw up its annual revenue and expenditure account;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 3.
-|| ensure that suitable physical conditions and an atmosphere conducive to the proper operation of the School are maintained;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 4.
-|| perform such other administrative duties as may be entrusted to it by the Board of Governors.
-|-
-|}
-<div style="margin-left:0in;margin-right:0in;">The procedures for the convening of meetings and for decision-making by the Administrative Boards shall be laid down in the General Rules of the Schools provided for in Article 10.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''CHAPTER 4'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''The Headteacher'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 21''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Headteacher shall discharge his duties in accordance with the General Rules provided for in Article 10. He shall have authority over the staff assigned to the School in accordance with the procedures stipulated in Article 12 (4) (a) and (b).</div>
-
-<div style="margin-left:0in;margin-right:0in;">He shall have the competence and the qualifications required in his country for directing an educational establishment providing a leaving certificate entitling the holder to university entrance. He shall be responsible to the Board of Governors.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''TITLE III'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''STAFF REPRESENTATION'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 22''</div>
-
-<div style="margin-left:0in;margin-right:0in;">A Staff Committee shall be established comprising elected representatives of the teaching staff and of the administrative and ancillary staff of each School.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Committee shall contribute to the proper functioning of the Schools by enabling the opinion of the staff to emerge and be expressed.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The procedures for the election and operation of the Staff Committee shall be determined in the Service Regulations for the teaching staff and for the administrative and ancillary staff provided for in Article 12 (1).</div>
-
-<div style="margin-left:0in;margin-right:0in;">Once a year the Staff Committee shall designate a member and an alternate from among the teaching staff to represent the staff on the Board of Governors.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''TITLE IV'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''THE PARENTS' ASSOCIATION'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 23''</div>
-
-<div style="margin-left:0in;margin-right:0in;">For the purpose of maintaining relations between the pupils' parents and the School authorities, the Board of Governors shall recognize for each School the Association which is representative of the pupils' parents.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Parents' Association so recognized shall designate each year two representatives on the Administrative Board of the School concerned.</div>
-
-<div style="margin-left:0in;margin-right:0in;">Once a year the Parents' Associations of the Schools shall designate a member and an alternate to represent the Associations on the Board of Governors.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''TITLE V'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''THE BUDGET'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 24''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The financial year of the Schools shall correspond to the calendar year.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 25''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The budget of the Schools shall be financed by:</div>
-
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 1.
-|| contributions from the Member States through the continuing payment of the remuneration for seconded or assigned teaching staff and, where appropriate, a financial contribution decided on by the Board of Governors acting unanimously;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 2.
-|| the contribution from the European Communities, which is intended to cover the difference between the total amount of expenditure by the Schools and the total of other revenue;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 3.
-|| contributions from non-Community organizations with which the Board of Governors has concluded an Agreement;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 4.
-|| the School's own revenue, notably the school fees charged to parents by the Board of Governors;
-
-
-|-
-|}
-
-{| style="border-spacing:0;"
-|- style="border:none;padding:0in;"
-|| 5.
-|| miscellaneous revenue.
-|-
-|}
-<div style="margin-left:0in;margin-right:0in;">The arrangements for making available the contribution from the European Communities shall be laid down in a special agreement between the Board of Governors and the Commission.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''TITLE VI'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''DISPUTES'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 26''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Court of Justice of the European Communities shall have sole jurisdiction in disputes between Contracting Parties relating to the interpretation and application of this Convention which have not been resolved by the Board of Governors.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 27''</div>
-
-<div style="margin-left:0in;margin-right:0in;">1.&nbsp;&nbsp;&nbsp;A Complaints Board is hereby established.</div>
-
-<div style="margin-left:0in;margin-right:0in;">2.&nbsp;&nbsp;&nbsp;The Complaints Board shall have sole jurisdiction in the first and final instance, once all administrative channels have been exhausted, in any dispute concerning the application of this Convention to all persons covered by it with the exception of administrative and ancillary staff, and regarding the legality of any act based on the Convention or rules made under it, adversely affecting such persons on the part of the board of Governors of the Administrative Board of a school in the exercise of their powers as specified by this Convention. When such disputes are of a financial character, the Complaints Board shall have unlimited jurisdiction.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The conditions and the detailed rules relative to these proceedings shall be laid down, as appropriate, by the Service Regulations for the teaching staff or by the conditions of employment for part-time teachers, or by the General Rules of the Schools.</div>
-
-<div style="margin-left:0in;margin-right:0in;">3.&nbsp;&nbsp;&nbsp;The members of the Complaints Board shall be persons whose independence is beyond doubt and who are recognized as being competent in law.</div>
-
-<div style="margin-left:0in;margin-right:0in;">Only persons on a list to be compiled by the Court of Justice of the European Communities shall be eligible for membership of the Complaints Board.</div>
-
-<div style="margin-left:0in;margin-right:0in;">4.&nbsp;&nbsp;&nbsp;The Statue of the Complaints Board shall be adopted by the Board of Governors, acting unanimously.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Statute of the Complaints Board shall determine the number of members of the Board, the procedure for their appointment by the Board of Governors, the duration of their term of office and the financial arrangements applicable to them. The Statute shall specify the manner in which the Board is to operate.</div>
-
-<div style="margin-left:0in;margin-right:0in;">5.&nbsp;&nbsp;&nbsp;The Complaints Board shall adopt its rules of procedure, which shall contain such provisions as are necessary for applying the Statute.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The rules of procedure shall require the unanimous approval of the Board of Governors.</div>
-
-<div style="margin-left:0in;margin-right:0in;">6.&nbsp;&nbsp;&nbsp;The judgments of the complaints Board shall be binding on the parties and, should the latter fail to implement them, rendered enforceable by the relevant authorities of the Member States in accordance with their respective national laws.</div>
-
-<div style="margin-left:0in;margin-right:0in;">7.&nbsp;&nbsp;&nbsp;Other disputes to which the Schools are party shall fall within national jurisdiction. In particular, national courts' jurisdiction with regard to matters of civil and criminal liability is not affected by this Article.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''TITLE VII'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">'''SPECIAL PROVISIONS'''</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 28''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Board of Governors, acting unanimously, may conclude participation Agreements concerning an existing School or one to be established in accordance with Article 2 with any organizations governed by public law which, by reason of their location, have an interest in the operation of the Schools. By concluding such an Agreement, any such organization may then have a set and a vote on the Board of Governors for all matters regarding the School in question if its financial contribution is such as to finance the bulk of the School's budget. It may also obtain a seat and a vote on the Administrative Board of the School in question.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 29''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Board of Governors, acting unanimously, may also negotiate agreements other than participation Agreements with organizations or institutions governed by public or private law which have an interest in the operation of one of the Schools.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Board of Governors may grant them a seat and a vote on the Administrative Board of the School in question.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 30''</div>
-
-<div style="margin-left:0in;margin-right:0in;">The Board of Governors may negotiate with the Government of a country in which a School is located any additional Agreement required to ensure that the School can operate under the best possible conditions.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 31''</div>
-
-<div style="margin-left:0in;margin-right:0in;">1.&nbsp;&nbsp;&nbsp;Any Contracting Party may denounce this Convention by written notification to the Luxembourg Government; the latter shall inform the other Contracting Parties upon receipt of the notification. Denunciation shall be notified by 1 September of any year in order to take effect on 1 September the following year.</div>
-
-<div style="margin-left:0in;margin-right:0in;">2.&nbsp;&nbsp;&nbsp;A Contracting Party which denounces this Convention shall abandon any share in the assets of the Schools. The Board of Governors shall decide which organizational measures, including staff measures, are to be taken as a result of denunciation by any of the Contracting Parties.</div>
-
-<div style="margin-left:0in;margin-right:0in;">3.&nbsp;&nbsp;&nbsp;The Board of Governors, acting in accordance with the voting method set out in Article 9, may decide to close a School. It shall, by the same procedure, take such steps in regard to that School as it considers necessary, in particular as regards the situation of teaching, administrative and service staff and the distribution of the assets of the School.</div>
-
-<div style="margin-left:0in;margin-right:0in;">4.&nbsp;&nbsp;&nbsp;Any Contracting Party may request that this Convention be amended. To that end, it shall notify the Luxembourg Government of its request. The Luxembourg Government shall make the necessary arrangements with the Contracting Party holding the Presidency of the Council of the European Communities to convene an Intergovernmental Conference.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 32''</div>
-
-<div style="margin-left:0in;margin-right:0in;">Applications for the accession to this Convention of any State becoming a member of the Community shall be made in writing to the Luxembourg Government, which shall inform each of the other Contracting Parties thereof.</div>
-
-<div style="margin-left:0in;margin-right:0in;">Accession shall take effect on 1 September following the day on which the instruments of accession are deposited with the Luxembourg Government.</div>
-
-<div style="margin-left:0in;margin-right:0in;">From that date, the composition of the organs of the Schools shall be altered accordingly.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 33''</div>
-
-<div style="margin-left:0in;margin-right:0in;">This Convention shall be ratified by the Member States as Contracting Parties in accordance with their respective constitutional requirements. As regards the European Communities, it shall be concluded in accordance with the Treaties establishing them. The instruments of ratification and the acts notifiying the conclusion of this Convention shall be deposited with the Luxembourg Government, as depositary of the Statute of the European Schools. That Government shall inform all the other Contracting Parties of the deposit.</div>
-
-<div style="margin-left:0in;margin-right:0in;">This Convention shall enter into force on the first day of the month following the deposit of all instruments of ratification by the Member States and of the acts notifying conclusion by the European Communities.</div>
-
-<div style="margin-left:0in;margin-right:0in;">This Convention, drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Italian, Portuguese and Spanish languages, all nine texts being equally authentic, shall be deposited in the archives of the Luxembourg Government, which shall transmit a certified copy to each of the other Contracting Parties.</div>
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;">''Article 34''</div>
-
-<div style="margin-left:0in;margin-right:0in;">This Convention cancels and replaces the Statute of 12 April 1957 and the Protocol thereto of 13 April 1962.</div>
-
-<div style="margin-left:0in;margin-right:0in;">Save as otherwise provided in this Convention, the European baccalaureate Agreement shall remain in force.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The supplementary Protocol concerning the Munich School, drawn up with reference to the Protocol of 13 April 1962 and signed at Luxembourg on 15 December 1975, shall be unaffected by this Convention.</div>
-
-<div style="margin-left:0in;margin-right:0in;">The references in the acts previous to this Convention which concern the Schools shall be understood as relating to the corresponding Articles of this Convention.</div>
-
-<div style="margin-left:0.5626in;margin-right:0.5626in;">Hecho en Luxemburgo, el veintiuno de junio de mil novecientos noventa y cuatro.</div>
-
-<div style="margin-left:0.5626in;margin-right:0.5626in;">Udfærdiget i Luxembourg den enogtyvende juni nitten hundrede og fire og halvfems.</div>
-
-<div style="margin-left:0.5626in;margin-right:0.5626in;">Geschehen zu Luxemburg am einundzwanzigsten Juni neunzehnhundertvierundneunzig.</div>
-
-<div style="margin-left:0.5626in;margin-right:0.5626in;">Έγινε στο Λουξεμβούργο, στις είκοσι μία Ιουνίου χίλια εννιακόσια ενενήντα τέσσερα.</div>
-
-<div style="margin-left:0.5626in;margin-right:0.5626in;">Done at Luxembourg on the twenty-first day of June in the year one thousand nine hundred and ninety-four.</div>
-
-<div style="margin-left:0.5626in;margin-right:0.5626in;">Fait à Luxembourg, le vingt-et-un juin mil neuf cent quatre-vingt-quatorze.</div>
-
-<div style="margin-left:0.5626in;margin-right:0.5626in;">Fatto a Lussemburgo, addì ventuno giugno millenovecentonovantaquattro.</div>
-
-<div style="margin-left:0.5626in;margin-right:0.5626in;">Gedaan te Luxemburg, de eenentwintigste juni negentienhonderd vierennegentig.</div>
-
-<div style="margin-left:0.5626in;margin-right:0.5626in;">Feito no Luxemburgo, em vinte e um de Junho de mil novecentos e noventa e quatro.</div>
-
-<div style="text-align:center;color:#000000;margin-left:3.3437in;margin-right:1.1252in;">Pour le royaume de Belgique</div>
-
-<div style="text-align:center;color:#000000;margin-left:3.3437in;margin-right:1.1252in;">Voor het Koninkrijk België</div>
-
-<div style="text-align:center;color:#000000;margin-left:3.3437in;margin-right:1.1252in;">Für das Königreich Belgien</div>
-
-
-<div style="text-align:center;margin-left:0in;margin-right:0in;"></div>
+Official Journal						
+of the European Union						
+ISSN 1725-2555						
+						
+English edition Contents						
+Legislation						
+Volume 53						
+7 April 2010						
+						
+Legislative acts						
+						
+DECISIONS						
+						
+★ Decision No 283/2010/EU of the European Parliament and of the Council of 25 March 2010 establishing a European Progress Microfinance Facility for employment and social inclusion	1					
+						
+★ Decision No 284/2010/EU of the European Parliament and of the Council of 25 March 2010 amending Decision No 1672/2006/EC establishing a Community Programme for Employment						
+and Social Solidarity — Progress	6					
+						
+Non-legislative acts						
+INTERNATIONAL AGREEMENTS 2010/195/EU:						
+★ Council Decision of 25 January 2010 on the signing and provisional application of an Agreement between the European Union and the Swiss Confederation establishing the terms and conditions for the participation of the Swiss Confederation in the ‘Youth in Action’						
+programme and in the action programme in the field of lifelong learning (2007-2013)	7					
+						
+Agreement between the European Union and the Swiss Confederation establishing the terms and conditions for the participation of the Swiss Confederation in the ‘Youth in Action’ programme and in						
+the action programme in the field of lifelong learning (2007-2013)	9					
+						
+Price: EUR 3						
+EN						
+						
+(Continued overleaf)						
+						
+Acts whose titles are printed in light type are those relating to day-to-day management of agricultural matters, and are generally valid for a limited period.						
+The titles of all other acts are printed in bold type and preceded by an asterisk.						
+						
+Contents (continued)						
+						
+REGULATIONS						
+						
+★ Commission Regulation (EU) No 285/2010 of 6 April 2010 amending Regulation (EC)						
+No 785/2004 of the European Parliament and of the Council on insurance requirements for						
+air carriers and aircraft operators	19					
+						
+★ Commission Regulation (EU) No 286/2010 of 6 April 2010 amending Regulation (EC)						
+No 88/2007 as regards communication of statistics concerning quantities of pasta products	21					
+						
+Commission Regulation (EU) No 287/2010 of 6 April 2010 establishing the standard import values						
+for determining the entry price of certain fruit and vegetables	22					
+						
+Commission Regulation (EU) No 288/2010 of 6 April 2010 amending the representative prices and additional import duties for certain products in the sugar sector fixed by Regulation (EC) No 877/2009						
+for the 2009/10 marketing year	24					
+						
+Commission Regulation (EU) No 289/2010 of 6 April 2010 amending Regulation (EU) No 281/2010 fixing the import duties in the cereals sector applicable from 1 April 2010	26					
+						
+★ Commission Regulation (EU) No 290/2010 of 6 April 2010 amending for the 123rd time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network						
+and the Taliban	29					
+						
+DECISIONS						
+2010/196/EU, Euratom:						
+★ Council Decision of 16 March 2010 on the allocation of financial intermediation services indirectly measured (FISIM) for the establishment of the gross national income (GNI) used						
+for the purposes of the European Union’s budget and its own resources	31					
+						
+★ Council Decision 2010/197/CFSP of 31 March 2010 on the launch of a European Union military mission to contribute to the training of Somali security forces (EUTM Somalia)	33					
+						
+2010/198/EU:						
+★ Commission Decision of 6 April 2010 releasing Latvia from certain obligations to apply Council Directives 66/402/EEC and 2002/57/EC in respect of Avena strigosa Schreb., Brassica nigra (L.) Koch and Helianthus annuus L.  (notified under document C(2010) 2042)  (1)	34					
+						
+(1) Text with EEA relevance						
+						
+I						
+						
+(Legislative acts)						
+						
+DECISIONS						
+						
+DECISION No 283/2010/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL						
+of 25 March 2010						
+						
+establishing a European Progress Microfinance Facility for employment and social inclusion						
+						
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,						
+						
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 175(3) thereof,						
+						
+Having regard to the proposal from the European Commission,						
+						
+Having regard to the opinion of the European Economic and Social Committee (1),						
+						
+Having regard to the opinion of the Committee of the Regions (2),						
+						
+Acting in accordance with the ordinary legislative procedure (3),						
+						
+Whereas:						
+						
+On 7 April 2000 the Commission adopted a communi- cation entitled ‘Acting locally for employment — a local dimension for the European employment strategy’.						
+						
+The Commission communication of 13 November 2007 entitled ‘A European initiative for the development of microcredit in support of growth and employment’ identified four priority areas for action: improving the legal and institutional environment in the Member States, changing the climate in favour of employment and entrepreneurship, promoting best practices and providing additional financial capital for microfinance						
+OJ C 318, 23.12.2009, p. 80.						
+Opinion delivered on 7 October 2009 (not yet published in the Official Journal).						
+3						
+institutions. As a first step in implementing this agenda, the Commission and the European Investment Bank (EIB) created Jasmine (Joint action to support microfinance institutions in Europe) in 2008 which provides mentoring for non-bank microcredit finance institutions and a financing window for a global amount of EUR 20 million offered by the EIB.						
+						
+The Commission communication of 24 May 2006 entitled ‘Promoting decent work for all — the EU contribution to the implementation of the decent work agenda in the world’ set out the importance of decent work for all as did the European Parliament resolution of 23 May 2007 on promoting decent work for all (4).						
+						
+The leaders’ statement following the G-20 Summit in Pittsburgh on 24 and 25 September 2009 contained a commitment to improving access to financial services for the poor, for example through microfinance. The leaders also committed themselves to launching an international financial inclusion expert group which will identify lessons learned on innovative approaches to providing financial services to the poor, promote successful regu- latory and policy approaches and elaborate standards on access to financing, financial literacy, and consumer protection.						
+						
+The European Parliament in its resolution of 24 March 2009 with recommendations to the Commission on a European initiative for the development of microcredits in support of growth and employment requested that the Commission strengthen its efforts to develop micro- credits in support of growth and employment. Furthermore, the European Parliament approved an addi- tional EUR 4 million of support for a pilot action to be implemented in the context of the Jasmine framework. The European Parliament also called on the Commission						
+to co-finance projects for microcredits in particular for disadvantaged target groups.						
+						
+( ) Position of the European Parliament of 15 December 2009 (not yet						
+published in the Official Journal) and decision of the Council of						
+8 March 2010.	(4) OJ C 102 E, 24.4.2008, p. 321.					
+						
+The ongoing efforts of the Union and of the Member States need to be strengthened to increase the access to, and availability of, microfinance to a sufficient scale and within a reasonable time-frame so as to address the high demand of those who need it most in this period of crisis						
+— that is, those who have lost their job, those at risk of losing their job or who have difficulties entering or re- entering the labour market, as well as those who are facing the threat of social exclusion or vulnerable people who are in a disadvantaged position with regard to access to the conventional credit market and who want to start or further develop their own micro- enterprise, including self-employment — whilst actively promoting equal opportunities for women and men.						
+						
+The Commission communication of 3 June 2009 entitled ‘A shared commitment for employment’ underlined the need to offer a new chance to unemployed persons and open the road to entrepreneurship for some of Europe’s most disadvantaged groups who have difficulty in accessing the conventional credit market. In addition to existing instruments, specific action is needed to further strengthen economic and social cohesion by reinforcing activities undertaken by the EIB and the European Investment Fund (EIF) and other international financial institutions without prejudice to the activities of the Member States. The Commission therefore announced a proposal for a new EU-wide microfinance facility (here- inafter the Facility) to extend the outreach of microfinance to particular at-risk groups and to further support the development of entrepreneurship, the social economy and micro-enterprises. In order for the Facility to be effective, to have a long-lasting impact, to reach the potential beneficiaries and to serve as a proactive element for both economic and local development policies, Member States can establish a national contact point to promote, coordinate, assess and monitor all the actions taken under the Facility in their respective territories.						
+						
+An increasing amount of microfinance to vulnerable people who are in a disadvantaged position with regard to access to the conventional credit market in the European Union is provided by non-commercial microfinance institutions, credit unions and banks imple- menting corporate social responsibility. The Facility should help these providers, which supplement the commercial banking market, by increasing the availability of microfinance to meet the current levels of demand.						
+						
+In many cases the providers of microfinance in the European Union are commercial banks and should become important partners in the Facility, with a view						
+Public and private bodies providing microfinance under this Decision should comply with principles of responsible lending and thereby avoid, in particular, over-indebtedness of persons and undertakings.						
+						
+In addition to the difficulty of gaining access to finance, social exclusion and the uncertainties of the transition from unemployment or social welfare to self- employment are among the main obstacles to setting up and developing micro-enterprises. European microfi- nancing instruments can help to support the structures of the social economy which assist people who are excluded with social reintegration and which help them to develop the minimum skills required in order to undertake a lasting business project.						
+						
+Using Union resources is appropriate and responds to the abovementioned resolution of the European Parliament of 24 March 2009. Furthermore, a single EU-wide facility will concentrate leverage from international financial institutions and avoid a dispersed approach thus increasing microfinance supply in all Member States. In order to capitalise on the experience of inter- national financial institutions and in particular the EIB and the EIF, the Facility should be established on the basis of joint management.						
+						
+The actions financed by the Facility should be coherent and compatible with other Union policies and comply with the provisions of the Treaty and of acts adopted under it. The activities of the Facility should be comple- mentary to other Union interventions, in particular the Competitiveness and Innovation Framework Programme (CIP) financial instruments, Jasmine, European Agri- cultural Fund for Rural Development (EAFRD), European Regional Development Fund (ERDF), Jeremie (Joint European resources for micro to medium enter- prises initiative) and the European Social Fund (ESF).						
+						
+For the purposes of this Decision, ‘microfinance’ should include guarantees, microcredit, equity and quasi-equity extended to persons and micro-enterprises covered by this Decision, microcredit being defined as loans under EUR 25 000. The Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (1) defines a ‘micro-enterprise’ as an enterprise employing less than 10 people, including self-employment, and whose annual turnover and/or annual balance sheet total does not exceed EUR 2 million, which should be an appropriate definition for the purposes of this Decision.						
+						
+to re-establishing trust in the credit market and with a						
+						
+focus mainly on customers with no credit standing.						
+(1) OJ L 124, 20.5.2003, p. 36.						
+						
+For the purposes of this Decision and in line with national provisions, ‘micro-enterprise in the social economy’ should mean a micro-enterprise which produces goods and services with a clear social mission or which provides services to members of the community with a non-profit purpose.						
+						
+The Facility should be implemented through an appro- priate range of actions that include risk-sharing, guar- antees, equity and debt instruments offered by inter- national financial institutions to providers of microfinance. In order to increase its effectiveness, the Facility should be coordinated and implemented consistently with European and national financial instruments and national financial institutions,						
+						
+HAVE ADOPTED THIS DECISION:						
+						
+Article 1						
+						
+Establishment						
+						
+A European microfinance facility for employment and social inclusion, called the European Progress Microfinance Facility (hereinafter the Facility), is hereby established.						
+						
+Article 2						
+						
+Objective						
+						
+The Facility shall provide Union resources to increase access to, and availability of, microfinance for:						
+						
+persons who have lost or are at risk of losing their job, or who have difficulties entering or re-entering the labour market, as well as persons who are facing the threat of social exclusion or vulnerable persons who are in a disad- vantaged position with regard to access to the conventional credit market and who want to start or further develop their own micro-enterprise, including self-employment;						
+						
+micro-enterprises, especially in the social economy, as well as micro-enterprises which employ persons referred to in point (a).						
+						
+The Facility shall provide Union resources for access to microfinance, and actively promote equal opportunities for women and men.						
+						
+Article 3						
+Budget						
+						
+The financial contribution from the Union budget for the Facility for the period from 1 January 2010 to 31 December 2013 shall be EUR 100 million.						
+						
+The annual appropriations shall be decided during the						
+and the Commission on budgetary discipline and sound financial management (1), or by other means provided for in that Agreement.						
+						
+The total budget for support measures referred to in point						
+(d) of Article 4(1) shall not exceed 1 % of the budget of the Facility set out in paragraph 1 of this Article.						
+						
+The financial contribution shall cover the full cost of the Facility, including management fees for international financial institutions referred to in Article 5(2) managing the Union contribution as well as any other eligible costs.						
+						
+Article 4						
+						
+Eligible actions and beneficiaries						
+						
+The Facility shall be implemented by using the following types of actions, as appropriate:						
+						
+guarantees and risk-sharing instruments;						
+						
+equity instruments;						
+						
+debt instruments;						
+						
+support measures, such as communication activities, moni- toring, control, audit and evaluation which are directly necessary for the effective and efficient implementation of this Decision and for the achievement of its objectives.						
+						
+The Facility shall be open to public and private bodies established on national, regional and local levels in the Member States which provide microfinance to persons and micro-enterprises in the Member States.						
+						
+In order to reach the final beneficiaries and to create competitive and viable micro-enterprises, the public and private bodies referred to in paragraph 2 shall cooperate closely with organisations engaged in representing the interests of the final beneficiaries of microcredit and with organisations, in particular those supported by the ESF, who provide mentoring and training programmes to those final beneficiaries.						
+						
+Article 5						
+						
+Management						
+						
+The Commission shall manage the Facility in accordance with Council Regulation (EC, Euratom) No 1605/2002 of						
+25 June 2002 on the Financial Regulation applicable to the general budget of the European Communities (2).						
+						
+annual budgetary procedure, including, if necessary, by appli-						
+						
+cation of point 37 of the Interinstitutional Agreement of 17 May 2006 between the European Parliament, the Council						
+OJ C 139, 14.6.2006, p. 1.						
+OJ L 248, 16.9.2002, p. 1.						
+						
+To implement the actions referred to in Article 4(1), with the exception of the support measures referred to in point (d) of Article 4(1), the Commission shall conclude agreements with international financial institutions, in particular with the EIB and the EIF, in accordance with Article 53d of Regulation (EC, Euratom) No 1605/2002 and Article 43 of Commission Regulation (EC, Euratom) No 2342/2002 of 23 December 2002 laying down detailed rules for the implementation of Council Regulation (EC, Euratom) No 1605/2002 (1). Those agreements shall contain detailed provisions for the implementation of the tasks entrusted to those financial institutions, including provisions specifying the need to ensure additionality and coor- dination with existing European and national financial instruments, and to promote a comprehensive and balanced coverage between the Member States.						
+						
+In order to meet the objective set out in Article 2 and implement the actions set out in Article 4, the agreements referred to in paragraph 2 of this Article shall, furthermore, include an obligation on the part of the international financial institutions to re-invest the resources and proceeds, including dividends and reimbursements, in actions referred to under points (a), (b) or (c) of Article 4(1) for a period of six years after the starting date of the Facility.						
+						
+Upon closure of the Facility, the remaining balance due to the European Union shall be repaid to the general budget of the European Union.						
+						
+The international financial institutions referred to in paragraph 2 of this Article shall conclude written agreements with the public and private providers of microfinance referred to in Article 4(2) laying down their obligations to use the resources made available from the Facility in accordance with the objectives set out in Article 2 and to provide information for the establishment of the annual reports referred to in Article 8(1).						
+						
+The budget for support measures referred to in point (d) of Article 4(1) shall be managed by the Commission.						
+						
+Article 6						
+						
+Compliance						
+						
+Actions financed by the Facility shall comply with the provisions of the Treaty and of acts adopted under it.						
+						
+Article 7						
+						
+Protection of the Union’s financial interests						
+						
+The Commission shall ensure that, when actions financed under this Decision are implemented, the financial interests of the Union are protected by the application of measures to						
+OJ L 357, 31.12.2002, p. 1.						
+prevent fraud, corruption and any other illegal activities, by effective checks and by the recovery of amounts unduly paid and, if irregularities are detected, by effective, proportional and dissuasive penalties, in accordance with Council Regulation (EC, Euratom) No 2988/95 of 18 December 1995 on the protection of the European Communities financial interests (2), Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities’ financial interests against fraud and other irregularities (3), and Regulation (EC) No 1073/1999 of the European Parliament and of the Council of 25 May 1999 concerning investigations conducted by the European Anti-Fraud Office (OLAF) (4).						
+						
+For the Union actions financed under this Decision, OLAF has the power to carry out investigations on the basis of Regu- lation (EC, Euratom) No 2988/95 and Regulation (Euratom, EC) No 2185/96, which shall apply to any infringement of a provision of Union law, including infringements of a contractual obligation stipulated on the basis of the Facility, resulting from an act or omission by an economic operator, which has, or would have, the effect of prejudicing the general budget of the European Union or budgets managed by it, by an unjustified item of expenditure.						
+						
+All implementing measures resulting from this Decision shall include a reference to paragraphs 1 and 2 of this Article and provide, in particular, for supervision and financial control by the Commission or any representative authorised by it, and by audits by the European Court of Auditors, including, if necessary, on-the-spot audits.						
+						
+Article 8						
+						
+Annual report						
+						
+The international financial institutions referred to in Article 5(2) shall transmit to the Commission annual implemen- tation reports setting out the supported activities in terms of financial implementation, distribution and accessibility of funding with regard to sectors and type of beneficiaries, appli- cations accepted or rejected, contracts concluded, actions funded and results.						
+						
+No later than 8 April 2011 and each year thereafter, the Commission shall present to the European Parliament and to the Council a quantitative and qualitative annual report on the activities undertaken under this Decision in the previous year. The annual report shall be based on the implementation reports referred to in paragraph 1. It shall, in particular, contain information relating to applications adopted or rejected, contracts concluded, actions funded, the total number and type of beneficiaries and the distribution of amounts geographically and per sector.						
+OJ L 312, 23.12.1995, p. 1.						
+OJ L 292, 15.11.1996, p. 2.						
+OJ L 136, 31.5.1999, p. 1.						
+						
+The annual report shall moreover contain information on the impact and sustainability of the Facility expressed by the total number of persons and micro-enterprises which are still employed or in business at the end of the period of support provided to them through the Facility. Finally the annual report will include information on complementarity with other Union interventions, notably the ESF.						
+						
+Following the presentation of the third annual report and on the basis of a proposal by the Commission, the European Parliament and the Council may review this Decision.						
+						
+The annual report referred in paragraph 2 will be trans- mitted, for information, to the European Economic and Social Committee and the Committee of the Regions.						
+						
+Based on the annual report referred to in paragraph 2 of this Article, the Commission shall make efforts to ensure that the Facility meets the objective set out in Article 2 and is accessible across the European Union to those who are at risk of social exclusion or who are finding it difficult to access the conventional credit market.						
+the international financial institutions referred to in Article 5(2). The interim evaluation shall be completed four years after the start of the Facility and the final evaluation at the latest one year after the end of the mandate(s) given to the international financial institutions referred to in Article 5(2). The final evaluation shall, in particular, examine the extent to which the Facility as a whole has achieved its objectives.						
+						
+2. The results of the evaluations will be transmitted, for information, to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions.						
+						
+Article 10						
+						
+Entry into force						
+						
+This Decision shall enter into force on the day following its publication in the  Official Journal of the European Union .						
+						
+Done at Brussels, 25 March 2010.						
+						
+Article 9						
+						
+Evaluation						
+						
+1.	The Commission shall carry out interim and final evaluations at its own initiative and in close cooperation with					
+						
+For the European Parliament The President						
+J. BUZEK						
+For the Council The President						
+D. LÓPEZ GARRIDO						
+						
+DECISION No 284/2010/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL						
+of 25 March 2010						
+						
+amending Decision No 1672/2006/EC establishing a Community Programme for Employment and Social Solidarity — Progress						
+						
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,						
+						
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 19(2), Article 149 and Article 153(2)(a) thereof,						
+						
+Having regard to the proposal from the European Commission,						
+						
+Having regard to the opinion of the European Economic and Social Committee (1),						
+						
+Having regard to the opinion of the Committee of the Regions (2),						
+						
+Acting in accordance with the ordinary legislative procedure (3), Whereas:						
+On 3 June 2009, the Commission adopted a communi- cation entitled ‘A shared commitment for employment’ with the aim of stepping up cooperation between the European Union and the Member States as well as between EU social partners, on three key priorities: main- taining employment, creating jobs and promoting mobility; upgrading skills and matching labour market needs; and increasing access to employment.						
+						
+To give unemployed people the chance of a new start and to open the way to entrepreneurship for some of Europe’s most disadvantaged groups, including women and the young, the Commission has proposed a new European microfinance facility for employment and social inclusion in a joint initiative with international financial institutions, in particular the European Investment Bank Group, to develop micro-enterprises and the social economy.						
+Social Solidarity — Progress set up by Decision No 1672/2006/EC of the European Parliament and of the Council (5) to finance the new European progress microfinance facility for employment and social inclusion, established by Decision No 283/2010/EU of the European Parliament and of the Council (6).						
+						
+After examining all options, the amount of EUR 60 million should be reallocated from the Progress programme, to the new European progress microfinance facility.						
+						
+Decision No 1672/2006/EC should be amended accordingly,						
+						
+HAVE ADOPTED THIS DECISION:						
+						
+Article 1						
+Article 17(1) of Decision No 1672/2006/EC is replaced by the following:						
+						
+‘1.	The financial envelope for implementing the Union activities referred to in this Decision for the period from					
+						
+1 January 2007 to 31 December 2013 is hereby set at						
+EUR 683 250 000.’						
+						
+Article 2						
+This Decision shall enter into force on the day following its publication in the  Official Journal of the European Union .						
+						
+Done at Brussels, 25 March 2010.						
+						
+In line with the Interinstitutional Agreement of 17 May 2006 between the European Parliament, the Council and the Commission on budgetary discipline and sound financial management (4), funds should be reallocated from the Community Programme for Employment and						
+For the European Parliament The President						
+J. BUZEK						
+For the Council The President						
+D. LÓPEZ GARRIDO						
+						
+OJ C 318, 23.12.2009, p. 84.						
+Opinion delivered on 7 October 2009 (not yet published in the Official Journal).						
+Position of the European Parliament of 11 February 2010 (not yet						
+published in the Official Journal) and decision of the Council of						
+						
+8 March 2010.						
+OJ C 139, 14.6.2006, p. 1.						
+OJ L 315, 15.11.2006, p. 1.						
+See page 1 of this Official Journal.						
+						
+II						
+						
+(Non-legislative acts)						
+						
+INTERNATIONAL AGREEMENTS						
+						
+COUNCIL DECISION						
+of 25 January 2010						
+						
+on the signing and provisional application of an Agreement between the European Union and the Swiss Confederation establishing the terms and conditions for the participation of the Swiss Confederation in the ‘Youth in Action’ programme and in the action programme in the field of lifelong learning (2007-2013)						
+(2010/195/EU)						
+						
+THE COUNCIL OF THE EUROPEAN UNION,						
+						
+Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 165(4) and 166(4), in conjunction with Article 218(5) thereof,						
+						
+Having regard to the proposal from the European Commission,						
+						
+Whereas:						
+						
+Decision No 1719/2006/EC of the European Parliament and of the Council of 15 November 2006 establishing the ‘Youth in Action’ programme for the period 2007 to 2013 (1), and in particular Article 5 thereof, provides that this programme shall be open to the participation of the Swiss Confederation subject to the conclusion of a bilateral agreement with that country.						
+						
+Decision No 1720/2006/EC of the European Parliament and of the Council of 15 November 2006 establishing an action programme in the field of lifelong learning for the period 2007 to 2013 (2) and in particular Article 7 thereof, provides that this programme shall be open to the participation of the Swiss Confederation subject to the conclusion of a bilateral agreement with that country.						
+						
+The Council has authorised the Commission to negotiate, on behalf of the European Union, an Agreement to enable the Swiss Confederation to participate in these programmes.						
+OJ L 327, 24.11.2006, p. 30.						
+OJ L 327, 24.11.2006, p. 45.						
+The negotiations were concluded on 6 August 2009 by the initialling of a draft Agreement.						
+						
+Article 5 of the Agreement provides for its provisional application pending completion of the ratification or conclusion procedures.						
+						
+The Agreement should be signed,						
+						
+HAS ADOPTED THIS DECISION:						
+						
+Article 1						
+						
+The President of the Council is hereby authorised to appoint the person(s) empowered to sign the Agreement between the European Union and the Swiss Confederation establishing the terms and conditions for the participation of the Swiss Confed- eration in the ‘Youth in Action’ programme and in the action programme in the field of lifelong learning (2007-2013) (here- inafter referred to as ‘the Agreement’), subject to its conclusion at a later date.						
+						
+The text of the Agreement is attached to this Decision.						
+						
+Article 2						
+						
+The Agreement shall be applied provisionally for the activities financed under the general budget of the European Union of the year following its signature and at the earliest under the 2011 budget.						
+						
+Article 3						
+						
+In the event of the cessation of the provisional application of the Agreement, the Commission shall be authorised to settle with Switzerland the consequences of such cessation in accordance with Article 5 of the Agreement.						
+						
+Article 4						
+						
+This Decision shall be published in the  Official Journal of the European Union .						
+						
+Done at Brussels, 25 January 2010.						
+						
+For the Council The President						
+M. Á. MORATINOS						
+						
+AGREEMENT						
+						
+between the European Union and the Swiss Confederation establishing the terms and conditions for the participation of the Swiss Confederation in the ‘Youth in Action’ programme and in the action programme in the field of lifelong learning (2007-2013)						
+						
+THE EUROPEAN UNION, ereinafter referred to as ‘the Union’, of the one part, and						
+THE SWISS CONFEDERATION, hereinafter referred to as ‘Switzerland’, of the other part,						
+together hereinafter referred to as ‘the Parties’, Whereas:						
+The Joint Declaration attached to the seven agreements signed on 21 June 1999 between the European Community and Switzerland provides for the future negotiation of an agreement for Switzerland’s participation in training and youth programmes.						
+						
+The ‘Youth in Action’ programme for the period 2007 to 2013 and the action programme in the field of lifelong learning were established respectively by Decision No 1719/2006/EC (1) and Decision No 1720/2006/EC (2) of the European Parliament and of the Council of 15 November 2006.						
+						
+Article 5 of Decision No 1719/2006/EC and Article 7 of Decision No 1720/2006/EC provide for the participation of Switzerland subject to the conclusion of a bilateral agreement with that country,						
+						
+HAVE AGREED ON THE FOLLOWING PROVISIONS:						
+						
+Article 1						
+						
+Switzerland shall participate in the ‘Youth in Action’ programme and in the action programme in the field of lifelong learning (hereinafter referred to as ‘the Programmes’) in accordance with the arrangements and conditions laid down in this Agreement and in Annexes I, II and III, which form an integral part thereof.						
+						
+Article 2						
+						
+This Agreement shall apply to the territories to which the Treaties on which the Union is founded are applicable, under the conditions laid down in those Treaties, and to the territory of Switzerland.						
+						
+Article 3						
+						
+This Agreement is concluded for the duration of the Programmes in progress. Nevertheless, without prejudice to the second paragraph of this Article, if the Union decides to extend the duration of the Programmes without changing them, this Agreement will also be automatically extended accordingly, unless one of the Parties informs the other, within 30 days following the decision to extend the Programmes, that it does						
+OJ L 327, 24.11.2006, p. 30.						
+OJ L 327, 24.11.2006, p. 45.						
+not wish to extend the cooperation. During the extension, Swit- zerland shall make an annual financial contribution identical to its financial contribution for 2013.						
+						
+This Agreement will not be extended in the event of termi- nation or denunciation of the Agreement of 21 June 1999 between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other, on the Free Movement of Persons.						
+						
+Either the Union or Switzerland may terminate this Agreement by notifying the other Party of its decision. The Agreement shall cease to apply from the budget year following notification, if the latter is before 1 October. If not, it shall cease to apply from the second budget year following notification.						
+						
+The projects and activities financed in the budget years preceding that in which the Agreement ceases to apply shall be continued until completion under the conditions laid down in this Agreement and its Annexes and in accordance with the contractual provisions applying to these projects and activities. The Parties shall settle by common consent any other conse- quences of termination.						
+						
+Article 4						
+						
+The representatives of the Commission and the representatives of the national authority appointed as observers in the Programme committees shall consult with each other when necessary at the request of one of them on the activities covered by this Agreement. Following these consultations, the Joint Committee established under the Agreement of						
+21 June 1999 between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other, on the Free Movement of Persons shall be auth- orised to amend the Annexes to this Agreement, as a general rule by written procedure, if necessary, to take account of the rules applying to the Programmes or the development of Swit- zerland’s take-up capacity. Amendments to the Annexes shall enter into force the day after the adoption of the relevant decision by the Joint Committee. However, if the Parties agree to any changes in the provisions of this Agreement, these shall enter into force after completion of the Parties’ respective internal procedures.						
+						
+Article 5						
+						
+This Agreement shall be ratified or concluded by the Parties in accordance with their respective internal procedures. It shall enter into force on the first day of the second month following the date of the last notification by the Parties of the completion of their respective procedures.						
+Pending completion of the procedures referred to in the first paragraph, the Parties shall provisionally apply this Agreement for the activities financed under the general budget of the European Union of the year following its signature, and at the earliest under the 2011 budget, provided the conditions referred to under point 2 of Annex I are observed.						
+						
+In the event of one of the Parties notifying the other that it will not ratify or conclude the signed Agreement, provisional appli- cation shall end from the budget year following notification. Notification terminating provisional application shall not affect the Parties’ obligations concerning the projects and activities financed under the general budget of the European Union of the year of notification, nor payment by Switzerland of its contribution for the year of notification.						
+						
+Article 6						
+						
+This Agreement is drawn up in duplicate in the Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish languages, each of those texts being equally authentic.						
+						
+Съставено в Брюксел на петнайсети февруари две хиляди и десета година. Hecho en Bruselas, el quince de febrero de dos mil diez.						
+V Bruselu dne patnáctého února dva tisíce deset.						
+						
+Udfærdiget i Bruxelles den femtende februar to tusind og ti. Geschehen zu Brüssel am fünfzehnten Februar zweitausendzehn.						
+Kahe tuhande kümnenda aasta veebruarikuu viieteistkümnendal päeval Brüsselis.						
+						
+Έγινε στις Βρυξέλλες, στις δέκα πέντε Φεβρουαρίου δύο χιλιάδες δέκα.						
+						
+Done at Brussels on the fifteenth day of February in the year two thousand and ten. Fait à Bruxelles, le quinze février deux mille dix.						
+Fatto a Bruxelles, addì quindici febbraio duemiladieci. Briselē, divi tūkstoši desmitā gada piecpadsmitajā februārī.						
+Priimta du tūkstančiai dešimtų metų vasario penkioliktą dieną Briuselyje.						
+						
+Kelt Brüsszelben, a kétezer-tizedik év február havának tizenötödik napján. Magħmul fi Brussell, fil-ħmistax-il jum ta’ Frar tas-sena elfejn u għaxra. Gedaan te Brussel, de vijftiende februari tweeduizend tien.						
+Sporządzono w Brukseli dnia piętnastego lutego roku dwa tysiące dziesiątego. Feito em Bruxelas, em quinze de Fevereiro de dois mil e dez.						
+Întocmit la Bruxelles, la cincisprezece februarie două mii zece. V Bruseli dňa pätnásteho februára dvetisícdesať.						
+V Bruslju, dne petnajstega februarja leta dva tisoč deset.						
+						
+Tehty Brysselissä viidentenätoista päivänä helmikuuta vuonna kaksituhattakymmenen. Som skedde i Bryssel den femtonde februari tjugohundratio.						
+						
+За Европейския съюз Por la Unión Europea Za Evropskou unii						
+For Den Europæiske Union Für die Europäische Union Euroopa Liidu nimel						
+Για την Ευρωπαϊκή Ένωση For the European Union Pour l'Union européenne Per l'Unione europea Eiropas Savienības vārdā Europos Sajungos vardu Az Európai Unió részéről Għall-Unjoni Ewropea Voor de Europese Unie						
+						
+W imieniu Unii Europejskiej Pela União Europeia						
+Pentru Uniunea Europeană Za Európsku úniu						
+Za Evropsko unijo Euroopan unionin puolesta För Europeiska unionen						
+						
+За Конфедерация Швейцария Por la Confederación Suiza Za Švýcarskou konfederaci For Det Schweiziske Forbund						
+Für die Schweizerische Eidgenossenschaft Šveitsi Konföderatsiooni nimel						
+Για την Ελβετική Συνομοσπονδία For the Swiss Confederation Pour la Confédération suisse Per la Confederazione svizzera Šveices Konfederācijas vārdā Šveicarijos Konfederacijos vardu						
+						
+A Svájci Államszövetség részéről Għall-Konfederazzjoni Żvizzera Voor de Zwitserse Bondsstaat						
+W imieniu Konfederacji Szwajcarskiej Pela Confederação Suíça						
+Pentru Confederația Elvețiană Za Švajčiarskou konfederáciu Za Švicarsko konfederacijo Sveitsin valaliiton puolesta För Schweiziska edsförbundet						
+						
+ANNEX I						
+						
+Terms and conditions for the participation of Switzerland in the ‘Youth in Action’ programme and in the action programme in the field of lifelong learning						
+						
+Switzerland shall participate in the ‘Youth in Action’ programme and in the action programme in the field of lifelong learning (hereinafter referred to as ‘the Programmes’) and, unless otherwise provided by this Agreement, this shall take place with due regard for the objectives, criteria, procedures and deadlines laid down by Decision No 13719/2006/EC and Decision No 1720/2006/EC.						
+						
+In accordance with the arrangements laid down in Article 8 of Decision No 1719/2006/EC and Article 6 of Decision No 1720/2006/EC, and in accordance with the Commission Decisions on the respective responsibilities of the Member States, the Commission and the National Agencies in the performance of the Programmes, Switzerland:						
+						
+shall be responsible for establishing or designating, and monitoring, an appropriate structure (Swiss National Agency) for the coordinated management of the implementation of the Programmes’ actions at national level,						
+						
+shall assume responsibility for the sound management by the Swiss National Agency of the appropriations paid to it as aid for projects, and						
+						
+shall take any measures necessary to ensure the appropriate financing, auditing and financial monitoring of the Swiss National Agency, which shall receive from the Commission a contribution to its management and imple- mentation costs.						
+						
+Switzerland shall take all other necessary steps for the efficient running of the Programmes at national level.						
+						
+To participate in the Programmes, Switzerland shall make an annual financial contribution to the general budget of the European Union, in accordance with the arrangements set out in Annex II.						
+						
+The terms and conditions for the submission, assessment and selection of applications from eligible institutions, organisations and individuals from Switzerland shall be the same as those applicable to eligible institutions, organi- sations and individuals from the Union.						
+						
+With a view to ensuring the Union dimension of the Programmes, in order to be eligible for financial support from the Union, projects and activities will have to include at least one partner from one of the Member States of the Union.						
+						
+The percentage of the Swiss contribution referred to in point 3 that will be allocated to the measures which, according to the rules of the Programmes, have to be managed by the Swiss National Agency shall reflect the share of these measures in the budget of the Programmes at Union level. The contribution to the costs of the Swiss National Agency for the management and implementation of the Programmes shall be calculated in accordance with the criteria applied to the Member States of the Union.						
+						
+The Member States of the Union and Switzerland shall make every effort, within the framework of existing provisions, to facilitate the free movement and residence of students, teachers, trainees, instructors, university administrators, young people and other eligible persons moving between Switzerland and the Member States of the Union for the purpose of participating in activities covered by this Agreement.						
+						
+Without affecting the responsibilities of the Commission and the Court of Auditors of the European Union regarding the monitoring and evaluation of programmes, the participation of Switzerland in the Programmes shall be subject to constant monitoring by the Commission and Switzerland in partnership. Switzerland shall submit the necessary reports to the Commission and be involved in other specific measures taken by the Union in that context.						
+						
+The Commission’s Decisions regarding the respective responsibilities of the Member States, the Commission and the National Agencies in the performance of the Programmes and the common standards set out in the Guide for National Agencies, which will be annexed to contracts between the Commission and the Swiss National Agency, shall be applicable to relations between Switzerland, the Commission and the Swiss National Agency.						
+						
+Agreements between the Commission and the Swiss National Agency or Swiss beneficiaries and between the Swiss National Agency and Swiss beneficiaries shall be based on the relevant provisions of the Financial Regulation applicable to the general budget of the European Union and on the detailed rules for its implementation, in particular regarding grant awards and the conclusion of agreements. These provisions shall apply to Swiss participants in the same way as they apply to all participants in the Programmes.						
+						
+Additional rules concerning financial control, recovery and other antifraud measures are laid down in Annex III.						
+						
+In the event of irregularity, negligence or fraud attributable to the Swiss National Agency, if the Commission cannot fully recover the sums owed to it by the Swiss National Agency, the Swiss authorities shall be responsible for the funds not recovered.						
+						
+The language to be used in all contacts with the Commission, as regards the application process, contracts, reports to be submitted and other administrative arrangements for the Programmes, shall be one of the official languages of the institutions of the Union.						
+						
+ANNEX II						
+						
+Switzerland’s financial contribution to the ‘Youth in Action’ programme and the action programme in the field of lifelong learning						
+						
+Youth in Action						
+						
+Switzerland’s financial contribution to the general budget of the European Union for participating in the ‘Youth in Action’ programme shall be the following (in million euros):						
+						
+Year 2011	Year 2012	Year 2013				
+1,7	1,8	1,9				
+						
+Action programme in the field of lifelong learning						
+						
+Switzerland’s financial contribution to the general budget of the European Union for participating in the action programme in the field of lifelong learning shall be the following (in million euros):						
+						
+Year 2011	Year 2012	Year 2013				
+14,2	14,9	15,6				
+						
+Travel and subsistence expenses incurred by representatives and experts from Switzerland for taking part as observers in the work of the committees referred to in Article 9 of Decision No 1719/2006/EC and Article 10 of Decision No 1720/2006/EC or in other meetings related to the implementation of the Programmes shall be refunded by the Commission on the same basis and according to the same procedures as for the representatives and experts from the Member States of the Union.						
+						
+Following the entry into force or provisional application of this Agreement, and at the beginning of each subsequent year, the Commission shall send to Switzerland a request for funds corresponding to its contribution to each of the Programmes covered by this Agreement.						
+						
+Switzerland’s contribution shall be expressed and paid in euros.						
+						
+Switzerland shall pay its contribution before 1 March if the Commission’s request for funds arrives before 1 February or at the latest 30 days after the request for funds if it arrives after 1 February.						
+						
+Any delay in the payment of the contribution shall entail the payment of interest by Switzerland on the outstanding amount from the due date. The rate of such interest shall be the rate applied by the European Central Bank to its principal refinancing operations, as published in the C series of the  Official Journal of the European Union , in force on the first calendar day of the month in which the due date falls, increased by three and a half percentage points.						
+						
+ANNEX III						
+						
+FINANCIAL CONTROL, RECOVERY AND OTHER ANTIFRAUD MEASURES						
+						
+Audits and antifraud measures by the Union						
+The Commission shall communicate directly with Programme participants established in Switzerland and with their subcontractors. These may submit directly to the Commission all relevant information and documentation which they are required to provide on the basis of the instruments referred to in this Agreement and of the contracts concluded to implement them.						
+						
+In accordance with Council Regulation (EC, Euratom) No 1605/2002 of 25 June 2002 on the Financial Regulation applicable to the general budget of the European Communities (1), as last amended by Regulation (EC, Euratom) No 1995/2006 of 13 December 2006 (2), and Commission Regulation (EC, Euratom) No 2342/2002 of						
+23 December 2002 laying down detailed rules for the implementation of Council Regulation (EC, Euratom) No 1605/2002 on the Financial Regulation applicable to the general budget of the European Communities (3), as last amended by Regulation (EC, Euratom) No 478/2007 of 23 April 2007 (4), and with the other rules referred to in this Agreement, the grant agreements concluded with Programme beneficiaries established in Switzerland shall provide for financial or other audits to be conducted at any time on the premises of the beneficiaries or their subcontractors by Commission staff or by other persons mandated by the Commission.						
+						
+The accounts and operations of the Swiss National Agency may be checked by Commission staff or by other persons mandated by the Commission. These checks may also relate to the ability of the structure set up by Switzerland to apply the Programme rules referred to in the Agreement and to meet the requirements of sound financial management according to the criteria of the relevant Articles of Regulation (EC, Euratom) No 1605/2002, as last amended by Regulation (EC, Euratom) No 1995/2006 of 13 December 2006, and Regulation (EC, Euratom) No 2342/2002, as last amended by Regulation (EC, Euratom) No 478/2007 of 23 April 2007.						
+						
+Commission staff and other persons mandated by the Commission shall have appropriate access to sites, works and documents and to any information required in order to carry out such audits, including information in electronic form. This right of access shall be stated explicitly in the contracts concluded to implement the instruments referred to in this Agreement. The European Court of Auditors shall have the same rights as the Commission.						
+						
+Audits may be conducted after the Programmes or this Agreement expires, on the terms laid down in the contracts in question.						
+						
+Within the framework of this Agreement, the Commission/the European Anti-Fraud Office (OLAF) shall be authorised to carry out on-the-spot checks and inspections on Swiss territory, in accordance with the procedural provisions of Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities’ financial interests against fraud and other irregularities (5).						
+						
+These checks and inspections shall be prepared and conducted in close collaboration with the competent Swiss authorities designated by Switzerland, which shall be notified in good time of the object, purpose and legal basis of the checks and inspections, so that they can provide all the requisite help.						
+						
+If the Swiss authorities concerned so wish, the on-the-spot checks and inspections may be carried out jointly with them.						
+						
+Where the participants in the Programmes resist an on-the-spot check or inspection, the Swiss authorities, acting in accordance with national rules, shall give Commission/OLAF inspectors such assistance as they need to allow them to discharge their duty in carrying out an on-the-spot check or inspection.						
+						
+The Commission/OLAF shall report without delay to the Swiss authorities any fact or suspicion relating to an irregularity which has come to its notice in the course of an on-the-spot check or inspection. In any event the Commission/OLAF shall be required to inform the above-mentioned authorities of the result of such checks and inspections.						
+OJ L 248, 16.9.2002, p. 1.						
+OJ L 390, 30.12.2006, p. 1.						
+OJ L 357, 31.12.2002, p. 1.						
+OJ L 111, 28.4.2007, p. 13.						
+OJ L 292, 15.11.1996, p. 2.						
+						
+Audits and antifraud measures by Switzerland						
+Appropriate financial control of the implementation of the Programmes shall be carried out by the competent national financial control authority in Switzerland, in accordance with Article 8 of the Commission Decisions on the respective responsibilities of the Member States, the Commission and the National Agencies in the performance of the ‘Youth in Action’ programme and the action programme for lifelong learning (2007-2013) and the common standards set out in the Guide for National Agencies annexed to contracts between the Commission and the Swiss National Agency. Any suspected or actual cases of fraud and irregularity and any measures concerning them taken by the Swiss National Agency and by the national authorities shall be notified immediately to the Commission. Switzerland shall ensure investigation and satisfactory treatment of suspected and actual cases of fraud and irregularity following national or Union inspections.						
+						
+‘Irregularity’ shall mean any infringement of a relevant provision of Union law applicable under this Agreement or the contractual obligations pursuant to it, as a result of an act or omission by an economic operator, which has, or would have, the effect of prejudicing the general budget of the European Union or budgets managed by it, by an unjustified item of expenditure.						
+						
+‘Fraud’ shall mean any intentional act or omission relating to:						
+						
+the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the misappropriation or wrongful retention of funds from the general budget of the European Union or budgets managed by, or on behalf of, the European Union,						
+						
+non-disclosure of information in violation of a specific obligation, with the same effect,						
+						
+the misapplication of such funds for purposes other than those for which they are originally granted.						
+						
+The Swiss authorities shall take appropriate measures to prevent and counter any corrupt practices — active or passive — at any stage of the procurement or grant award procedures or during implementation of the corre- sponding agreements.						
+						
+‘Active corruption’ shall mean any deliberate action of whosoever promises or gives, directly or through an intermediary, an advantage of any kind whatsoever to an official for himself or for a third party for him to act or to refrain from acting in accordance with his duty or in the exercise of his functions in breach of his official duties in a way which damages or is likely to damage the European Union’s financial interests.						
+						
+‘Passive corruption’ shall mean any deliberate action of an official who, directly or through an intermediary, requests or receives advantages of any kind whatsoever, for himself or a third party, or accepts a promise of such advantage, to act or to refrain from acting in accordance with his duty or in the exercise of his functions in breach of his official duties in a way which damages or is likely to damage the European Union’s financial interests.						
+						
+The Swiss authorities and the staff responsible for implementing the Programmes shall take any precautions necessary to avoid any risk of a conflict of interests and shall inform the Commission immediately of any such conflict of interests or any situation likely to give rise to one.						
+						
+Confidentiality						
+Information communicated or acquired in any form whatsoever pursuant to this Annex shall be covered by profes- sional secrecy and protected in the same way as similar information is protected by Swiss law and by the corre- sponding provisions applicable to the Union institutions. Such information may not be communicated to persons other than those within the Union institutions or in the Member States or Switzerland whose functions require them to know it, nor may it be used for purposes other than to ensure effective protection of the Parties’ financial interests.						
+						
+Administrative measures and penalties						
+Without prejudice to application of Swiss criminal law, administrative measures and penalties may be imposed by the Commission in accordance with Regulation (EC, Euratom) No 1605/2002, as last amended by Regulation (EC, Euratom) No 1995/2006 of 13 December 2006, with Regulation (EC, Euratom) No 2342/2002, as last amended by Regulation (EC, Euratom) No 478/2007 of 23 April 2007, and with Council Regulation (EC, Euratom) No 2988/95 of 18 December 1995 on the protection of the European Communities’ financial interests (1).						
+(1) OJ L 312, 23.12.1995, p. 1.						
+						
+Recovery						
+For indirect centralised management measures, the Swiss National Agency shall be responsible for issuing requests for the recovery of funds and for implementing any legal action required regarding beneficiaries in consultation with the Commission. In the event of irregularity, negligence or fraud attributable to the Swiss National Agency, the Swiss authorities shall be responsible for the funds not recovered.						
+						
+For centralised management measures carried out directly by the Commission, decisions taken by the Commission within the scope of this Agreement which impose a pecuniary obligation on persons other than States shall be enforceable in Switzerland. Enforcement shall be governed by the rules of civil procedure in force in Switzerland. The order for its enforcement shall be appended to the decision, without other formality than verification of the auth- enticity of the decision by the authority which the Government of Switzerland shall designate for this purpose and shall make known to the Commission. When these formalities have been completed on application by the Commission, the latter may proceed to enforcement in accordance with the national law, by bringing the matter directly before the competent authority. The legality of the Commission decision shall be subject to control by the Court of Justice of the European Union.						
+						
+Judgments given by the Court of Justice of the European Union pursuant to an arbitration clause in a contract within the scope of this Agreement shall be enforceable on the same terms.						
+						
+COUNCIL DECLARATION ON SWISS ATTENDANCE OF COMMITTEE MEETINGS						
+						
+The Council agrees that Switzerland’s representatives shall, in so far as the items concern them, attend meetings of the committees of the ‘Youth in Action’ programme and the action programme in the field of lifelong learning (2007-2013). Switzerland’s representatives shall not be present when these committees vote.						
+						
+REGULATIONS						
+						
+COMMISSION REGULATION (EU) No 285/2010						
+of 6 April 2010						
+						
+amending Regulation (EC) No 785/2004 of the European Parliament and of the Council on insurance requirements for air carriers and aircraft operators						
+						
+THE EUROPEAN COMMISSION,						
+						
+Having regard to the Treaty on the Functioning of the European Union,						
+						
+Having regard to Regulation (EC) No 785/2004 of the European Parliament and of the Council of 21 April 2004 on insurance requirements for air carriers and aircraft operators (1), and in particular Article 6(5) thereof,						
+						
+Whereas:						
+						
+By Council Decision 2001/539/EC (2) the Community concluded the Convention for the Unification of Certain Rules for International Carriage by Air, agreed at Montreal on 28 May 1999 (Montreal Convention), which lays down rules on liability in respect of the inter- national carriage by air of persons, baggage and cargo.						
+						
+Regulation (EC) No 785/2004 established minimum insurance requirements in respect of liability for passengers, baggage and cargo at a level to ensure that air carriers are adequately insured to cover their liability under the Montreal Convention.						
+						
+The limits of liability of air carriers under the Montreal Convention have recently been reviewed by the Inter- national Civil Aviation Organization (ICAO) by reference to an inflation factor which corresponds to the accumulated rate of inflation since the date of entry into force of the Montreal Convention.						
+						
+It has been determined by ICAO that the inflation factor since 4 November 2003, the date of entry into force of the Montreal Convention, has exceeded 10 per cent, the threshold for triggering an adjustment of the limits of liability. Therefore, the limits of liability have been revised accordingly.						
+						
+The minimum insurance requirements in respect of liability for passengers, baggage and cargo, established						
+OJ L 138, 30.4.2004, p. 1.						
+by Regulation (EC) No 785/2004, should be timely adjusted to the revised limits of liability under the Montreal Convention which have become effective on 30 December 2009.						
+						
+For liability in respect of passengers the minimum insurance requirements of Regulation (EC) No 785/2004 have been set at a level significantly exceeding the revised limits of liability under the Montreal Convention.						
+						
+In respect of liability for baggage and cargo the minimum insurance requirements of Regulation (EC) No 785/2004 should be increased to the level of the revised limits of liability under the Montreal Convention.						
+						
+Regulation (EC) No 785/2004 should therefore be amended accordingly.						
+						
+The measures provided for in this Regulation are in accordance with the opinion of the Committee estab- lished by Article 25 of Regulation (EC) No 1008/2008 of the European Parliament and the Council of						
+24 September 2008 on common rules for the operation of air services in the Community (3),						
+						
+HAS ADOPTED THIS REGULATION:						
+						
+Article 1						
+						
+In Article 6 of Regulation (EC) No 785/2004, paragraphs (2) and (3) are replaced by the following:						
+						
+‘2. For liability in respect of baggage, the minimum insurance cover shall be 1 131 SDRs per passenger in commercial operations.						
+						
+For liability in respect of cargo, the minimum insurance cover shall be 19 SDRs per kilogram in commercial operations.’						
+						
+OJ L 194, 18.7.2001, p. 38.	(3) OJ L 293, 31.10.2008, p. 3.					
+						
+Article 2						
+						
+This Regulation shall enter into force on the day following its publication in the  Official Journal of the European Union .						
+						
+This Regulation shall be binding in its entirety and directly applicable in all Member States.						
+						
+Done at Brussels, 6 April 2010.						
+						
+For the Commission The President						
+José Manuel BARROSO						
+						
+COMMISSION REGULATION (EU) No 286/2010						
+of 6 April 2010						
+						
+amending Regulation (EC) No 88/2007 as regards communication of statistics concerning quantities of pasta products						
+						
+THE EUROPEAN COMMISSION,						
+						
+Having regard to the Treaty on the Functioning of the European Union,						
+						
+Having regard to Council Regulation (EC) No 1216/2009 of						
+30 November 2009 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products (1), and in particular Article 8(3) and Article 19 thereof,						
+						
+Whereas:						
+						
+Commission  Regulation  (EC)  No  88/2007  of						
+12 December 2006 laying down special detailed rules for the application of the system of export refunds on cereals exported in the form of pasta products falling within CN codes 1902 11 00 and 1902 19 (2) provides for pasta products falling within the abovementioned codes and exported to the United States to be accom- panied by a certificate (P2 certificate) stating whether or not they qualify for a rate of refund applicable, in the case of exports to the United States of America, to the basic cereal products used in their manufacture. This Regulation also requires the competent authorities in the Member States to communicate the necessary statistics to the Commission.						
+						
+In the interests of reducing the administrative burden, provision should be made for the possibility for the competent authorities in the Member States not to communicate the statistics where the refund applicable to the basic products of the cereal sector used to manu- facture pasta products falling within the abovementioned CN codes is either suspended or is equal to zero.						
+						
+Regulation (EC) No 88/2007 should therefore be amended accordingly.						
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee on horizontal questions concerning trade in processed agricultural products not listed in Annex I to the Treaty,						
+						
+HAS ADOPTED THIS REGULATION:						
+						
+Article 1						
+						
+Article 6 of Regulation (EC) No 88/2007 is replaced by the following:						
+‘Article 6						
+The competent authorities of the Member States shall communicate to the Commission, by the end of each month at the latest, the statistics relating to the quantities of pasta products, by CN codes, specifying the quantities which qualify for an export refund and the quantities which do not qualify for an export refund, in respect of which certificates have been issued in the course of the previous month, at the following address:						
+European Commission						
+Directorate-General for Enterprise and Industry Non-Annex I products						
+B-1049 Brussels.						
+Where the refund applicable to the basic products of the cereal sector used to manufacture pasta products falling within CN codes 1902 11 00 and 1902 19 is either suspended or is equal to zero, the competent authorities of the Member States may refrain from communicating the statistics referred to in paragraph 1.’						
+Article 2						
+						
+This Regulation shall enter into force on the 20th day following its publication in the  Official Journal of the European Union .						
+						
+This Regulation shall be binding in its entirety and directly applicable in all Member States.						
+						
+Done at Brussels, 6 April 2010.						
+						
+For the Commission The President						
+José Manuel BARROSO						
+						
+OJ L 328, 15.12.2009, p. 10.						
+OJ L 21, 30.1.2007, p. 16.						
+						
+COMMISSION REGULATION (EU) No 287/2010						
+of 6 April 2010						
+						
+establishing the standard import values for determining the entry price of certain fruit and vegetables						
+						
+THE EUROPEAN COMMISSION,						
+						
+Having regard to the Treaty on the Functioning of the European Union,						
+						
+Having regard to Council Regulation (EC) No 1234/2007 of 22 October 2007 establishing a common organisation of agri- cultural markets and on specific provisions for certain agri- cultural products (Single CMO Regulation) (1),						
+						
+Having regard to Commission Regulation (EC) No 1580/2007 of 21 December 2007 laying down implementing rules for Council Regulations (EC) No 2200/96, (EC) No 2201/96 and (EC) No 1182/2007 in the fruit and vegetable sector (2), and in particular Article 138(1) thereof,						
+Whereas:						
+Regulation (EC) No 1580/2007 lays down, pursuant to the outcome of the Uruguay Round multilateral trade negotiations, the criteria whereby the Commission fixes the standard values for imports from third countries, in respect of the products and periods stipulated in Annex XV, Part A thereto,						
+HAS ADOPTED THIS REGULATION:						
+						
+Article 1						
+						
+The standard import values referred to in Article 138 of Regu- lation (EC) No 1580/2007 are fixed in the Annex hereto.						
+Article 2						
+						
+This Regulation shall enter into force on 7 April 2010.						
+						
+This Regulation shall be binding in its entirety and directly applicable in all Member States.						
+						
+Done at Brussels, 6 April 2010.						
+						
+For the Commission, On behalf of the President,						
+Jean-Luc DEMARTY						
+						
+Director-General for Agriculture and Rural Development						
+						
+OJ L 299, 16.11.2007, p. 1.						
+OJ L 350, 31.12.2007, p. 1.						
+						
+ANNEX						
+						
+Standard import values for determining the entry price of certain fruit and vegetables						
+						
+(EUR/100 kg)						
+CN code	Third country code (1)	Standard import value				
+0702 00 00	IL	160,8				
+	JO	96,4				
+	MA	126,5				
+	TN	138,4				
+	TR	106,2				
+	ZZ	125,7				
+0707 00 05	JO	92,1				
+	MA	106,5				
+	MK	87,5				
+	TR	127,4				
+	ZZ	103,4				
+0709 90 70	MA	98,1				
+	TR	105,7				
+	ZZ	101,9				
+0805 10 20	EG	51,1				
+	IL	63,4				
+	MA	51,3				
+	TN	48,0				
+	TR	67,5				
+	ZZ	56,3				
+0805 50 10	TR	64,3				
+	ZA	71,7				
+	ZZ	68,0				
+0808 10 80	AR	101,4				
+	BR	88,1				
+	CL	85,5				
+	CN	73,4				
+	MK	22,4				
+	US	140,5				
+	UY	74,3				
+	ZA	85,5				
+	ZZ	83,9				
+0808 20 50	AR	97,2				
+	CL	102,5				
+	CN	92,0				
+	UY	106,8				
+	ZA	100,4				
+	ZZ	99,8				
+						
+Nomenclature of countries laid down by Commission Regulation (EC) No 1833/2006 (OJ L 354, 14.12.2006, p. 19). Code ‘ZZ’ stands for ‘of other origin’.						
+						
+COMMISSION REGULATION (EU) No 288/2010						
+of 6 April 2010						
+						
+amending the representative prices and additional import duties for certain products in the sugar sector fixed by Regulation (EC) No 877/2009 for the 2009/10 marketing year						
+						
+THE EUROPEAN COMMISSION,						
+						
+Having regard to the Treaty on the Functioning of the European Union,						
+						
+Having regard to Council Regulation (EC) No 1234/2007 of 22 October 2007 establishing a common organisation of agri- cultural markets and on specific provisions for certain agri- cultural products (single CMO Regulation) (1),						
+						
+Having regard to Commission Regulation (EC) No 951/2006 of						
+30 June 2006 laying down detailed rules for the implemen- tation of Council Regulation (EC) No 318/2006 as regards trade with third countries in the sugar sector (2), and in particular Article 36(2), second subparagraph, second sentence thereof,						
+						
+Whereas:						
+						
+The representative prices and additional duties applicable to imports of white sugar, raw sugar and certain syrups						
+for the 2009/10 marketing year are fixed by Commission Regulation (EC) No 877/2009 (3). These prices and duties have been last amended by Commission Regulation (EU) No 282/2010 (4).						
+The data currently available to the Commission indicate that those amounts should be amended in accordance with the rules and procedures laid down in Regulation (EC) No 951/2006,						
+HAS ADOPTED THIS REGULATION:						
+						
+Article 1						
+						
+The representative prices and additional duties applicable to imports of the products referred to in Article 36 of Regulation (EC) No 951/2006, as fixed by Regulation (EC) No 877/2009 for the 2009/10, marketing year, are hereby amended as set out in the Annex hereto.						
+Article 2						
+						
+This Regulation shall enter into force on 7 April 2010.						
+						
+This Regulation shall be binding in its entirety and directly applicable in all Member States.						
+						
+Done at Brussels, 6 April 2010.						
+						
+For the Commission, On behalf of the President,						
+Jean-Luc DEMARTY						
+						
+Director-General for Agriculture and Rural Development						
+						
+	OJ L 299, 16.11.2007, p. 1.					
+OJ L 178, 1.7.2006, p. 24.						
+OJ L 253, 25.9.2009, p. 3.						
+OJ L 86, 1.4.2010, p. 27.						
+						
+ANNEX						
+						
+Amended representative prices and additional import duties applicable to white sugar, raw sugar and products covered by CN code 1702 90 95 from 7 April 2010						
+						
+(EUR)						
+CN code	Representative price per 100 kg net of the product concerned	Additional duty per 100 kg net of the product concerned				
+1701 11 10 (1)	35,27	0,70				
+1701 11 90 (1)	35,27	4,32				
+1701 12 10 (1)	35,27	0,57				
+1701 12 90 (1)	35,27	4,03				
+1701 91 00 (2)	35,76	7,35				
+1701 99 10 (2)	35,76	3,61				
+1701 99 90 (2)	35,76	3,61				
+1702 90 95 (3)	0,36	0,31				
+						
+For the standard quality defined in point III of Annex IV to Regulation (EC) No 1234/2007.						
+For the standard quality defined in point II of Annex IV to Regulation (EC) No 1234/2007.						
+Per 1 % sucrose content.						
+						
+COMMISSION REGULATION (EU) No 289/2010						
+of 6 April 2010						
+						
+amending Regulation (EU) No 281/2010 fixing the import duties in the cereals sector applicable from 1 April 2010						
+						
+THE EUROPEAN COMMISSION,						
+						
+Having regard to the Treaty on the Functioning of the European Union,						
+						
+Having regard to Council Regulation (EC) No 1234/2007 of 22 October 2007 establishing a common organisation of agri- cultural markets and on specific provisions for certain agri- cultural products (Single CMO Regulation) (1),						
+						
+Having regard to Commission Regulation (EC) No 1249/96 of 28 June 1996 laying down detailed rules for the application of Council Regulation (EEC) No 1766/92 in respect of import duties in the cereals sector (2), and in particular Article 2(1) thereof,						
+						
+Whereas:						
+						
+The import duties in the cereals sector applicable from 1 April 2010 were fixed by Commission Regulation (EU) No 281/2010 (3).						
+As the average of the import duties calculated differs by more than EUR 5/tonne from that fixed, a corresponding adjustment must be made to the import duties fixed by Regulation (EU) No 281/2010.						
+						
+Regulation (EU) No 281/2010 should therefore be amended accordingly,						
+						
+HAS ADOPTED THIS REGULATION:						
+						
+Article 1						
+						
+Annexes I and II to Regulation (EU) No 281/2010 are hereby replaced by the text in the Annex to this Regulation.						
+						
+Article 2						
+						
+This Regulation shall enter into force on the day of its publi- cation in the  Official Journal of the European Union .						
+						
+It shall apply from 7 April 2010.						
+						
+This Regulation shall be binding in its entirety and directly applicable in all Member States.						
+						
+Done at Brussels, 6 April 2010.						
+						
+For the Commission, On behalf of the President,						
+Jean-Luc DEMARTY						
+						
+Director-General for Agriculture and Rural Development						
+						
+OJ L 299, 16.11.2007, p. 1.						
+OJ L 161, 29.6.1996, p. 125.						
+OJ L 86, 1.4.2010, p. 24.						
+						
+ANNEX I						
+						
+Import duties on the products referred to in Article 136(1) of Regulation (EC) No 1234/2007 applicable from 7 April 2010						
+						
+						
+CN code	Description	Import duties (1) (EUR/t)				
+1001 10 00	Durum wheat, high quality	0,00				
+	medium quality	0,00				
+	low quality	0,00				
+1001 90 91	Common wheat seed	0,00				
+ex 1001 90 99	High quality common wheat, other than for sowing	0,00				
+1002 00 00	Rye	28,77				
+1005 10 90	Maize seed other than hybrid	22,20				
+1005 90 00	Maize, other than seed (2)	22,20				
+1007 00 90	Grain sorghum other than hybrids for sowing	28,77				
+						
+For goods arriving in the Community via the Atlantic Ocean or via the Suez Canal the importer may benefit, under Article 2(4) of Regulation (EC) No 1249/96, from a reduction in the duty of:						
+3 EUR/t, where the port of unloading is on the Mediterranean Sea, or on the Black Sea,						
+2 EUR/t, where the port of unloading is in Denmark, Estonia, Ireland, Latvia, Lithuania, Poland, Finland, Sweden, the United Kingdom or the Atlantic coast of the Iberian peninsula.						
+The importer may benefit from a flatrate reduction of EUR 24 per tonne where the conditions laid down in Article 2(5) of Regulation (EC) No 1249/96 are met.						
+						
+ANNEX II						
+						
+Factors for calculating the duties laid down in Annex I						
+5.4.2010						
+						
+Averages over the reference period referred to in Article 2(2) of Regulation (EC) No 1249/96:						
+(EUR/t)						
+	"
+Common wheat (1)"	"
+Maize"	"
+Durum wheat, high quality"	Durum wheat, medium quality (2)	"
+Durum wheat, low quality (3)"	"
+Barley"
+Exchange	Minnéapolis	Chicago	—	—	—	—
+Quotation	151,61	101,07	—	—	—	—
+Fob price USA	—	—	169,70	159,70	139,70	76,11
+Gulf of Mexico premium	49,68	12,42	—	—	—	—
+Great Lakes premium	—	—	—	—	—	—
+						
+(1) Premium of 14 EUR/t incorporated (Article 4(3) of Regulation (EC) No 1249/96).						
+(2) Discount of 10 EUR/t (Article 4(3) of Regulation (EC) No 1249/96).						
+(3) Discount of 30 EUR/t (Article 4(3) of Regulation (EC) No 1249/96).						
+						
+Averages over the reference period referred to in Article 2(2) of Regulation (EC) No 1249/96:						
+						
+Freight costs: Gulf of Mexico–Rotterdam:	25,62 EUR/t					
+						
+Freight costs: Great Lakes–Rotterdam:	56,43 EUR/t					
+						
+COMMISSION REGULATION (EU) No 290/2010						
+of 6 April 2010						
+						
+amending for the 123rd time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban						
+						
+THE EUROPEAN COMMISSION,						
+Having regard to the Treaty on the Functioning of the European Union,						
+Having regard to Council Regulation (EC) No 881/2002 of						
+27 May 2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban, and repealing Council Regulation (EC) No 467/2001 prohibiting the export of certain goods and services to Afghanistan, strengthening the flight ban and extending the freeze of funds and other financial resources in respect of the Taliban of Afghanistan, (1) and in particular Article 7(1)(a) and 7a(1) (2) thereof,						
+Whereas:						
+Annex I to Regulation (EC) No 881/2002 lists the persons, groups and entities covered by the freezing of funds and economic resources under that Regulation.						
+On 25 March 2010 the Sanctions Committee of the United Nations Security Council decided to add one natural person to its list of persons, groups and entities to whom the freezing of funds and economic resources should apply and to amend one entry of the list.						
+Annex I to Regulation (EC) No 881/2002 should therefore be updated accordingly,						
+						
+HAS ADOPTED THIS REGULATION:						
+						
+Article 1						
+						
+Annex I to Regulation (EC) No 881/2002 is hereby amended as set out in the Annex to this Regulation.						
+Article 2						
+						
+This Regulation shall enter into force on the day of its publication in the  Official Journal of the European Union .						
+						
+This Regulation shall be binding in its entirety and directly applicable in all Member States.						
+						
+Done at Brussels, 6 April 2010.						
+						
+For the Commission, On behalf of the President,						
+João VALE DE ALMEIDA						
+						
+Director-General for External Relations						
+						
+OJ L 139, 29.5.2002, p. 9.						
+Article 7a was inserted by Regulation (EU) No 1286/2009 (OJ L 346, 23.12.2009, p. 42).						
+						
+ANNEX						
+						
+Annex I to Regulation (EC) No 881/2002 is amended as follows:						
+						
+The following entry shall be added under the heading ‘Natural persons’:						
+						
+Muthanna Harith  Al-Dari  ( alias  (a) Dr. Muthanna  Al Dari , (b) Muthana Harith  Al Dari , (c) Muthanna Harith Sulayman  Al-Dari , (d) Muthanna Harith Sulayman  Al-Dhari , (e) Muthanna Hareth 						
+Al-Dhari , (f) Muthana Haris  Al-Dhari , (g) Doctor Muthanna Harith Sulayman Al Dari Al-Zawba’, (h) Muthanna Harith Sulayman Al-Dari Al- Zobai, (i) Muthanna Harith Sulayman Al-Dari al-Zawba’i, (j) Muthanna Hareth  al-Dari , (k) Muthana Haris  al-Dari , (l) Doctor Muthanna  al-Dari , (m) Dr. Muthanna Harith al-Dari al-Zowbai). Title: Doctor. Address: (a) Amman, Jordan, (b) Khan Dari, Iraq (previous address), (c) Asas Village, Abu Ghurayb, Iraq (previous address), (d) Egypt (previous address). Date of birth: 16.6.1969. Place of birth: Iraq. Nationality: Iraqi. Date of designation referred to in Article 2a (4) (b): 25.3.2010.						
+						
+The entry ‘Global Relief Foundation (GRF) ( alias  (a) Fondation Secours Mondial (FSM), (b) Secours mondial de France (SEMONDE), (c) Fondation Secours Mondial — Belgique a.s.b.l., (d) Fondation Secours Mondial v.z.w, (e) FSM, (f) Stichting Wereldhulp — België, v.z.w., (g) Fondation Secours Mondial — Kosova, (h) Fondation Secours Mondial ‘World Relief’). Address: (a) 9935 South 76th Avenue, Unit 1, Bridgeview, Illinois 60455, U.S.A.; (b) PO Box 1406, Bridgeview, Illinois 60455, U.S.A.; (c) 49 rue du Lazaret, 67100 Strasbourg, France; (d) Vaatjesstraat 29, 2580 Putte, Belgium; (e) Rue des Bataves 69, 1040 Etterbeek (Brussels), Belgium; (f) PO Box 6, 1040 Etterbeek 2 (Brussels), Belgium; (g) Mula Mustafe Baseskije Street 72, Sarajevo, Bosnia and Herzegovina; (h) Put Mladih Muslimana Street 30/A, Sarajevo, Bosnia and Herzegovina; (i) 64 Potur Mahala Street, Travnik, Bosnia and Herzegovina; (j) Rr. Skenderbeu 76, Lagjja Sefa, Gjakova, Kosovo; (k) Ylli Morina Road, Djakovica, Kosovo; (l) Rruga e Kavajes, Building No. 3, Apartment No 61, PO Box 2892, Tirana, Albania; (m) House 267 Street No 54, Sector F — 11/4, Islamabad, Pakistan. Other information: (a) Other foreign locations: Afghanistan, Azerbaijan, Bangladesh, China, Eritrea, Ethiopia, Georgia, India, Iraq, Jordan, Lebanon, West Bank and Gaza, Sierra Leone, Somalia and Syria; (b) U.S. Federal Employer Identification: 36-3804626; (c) V.A.T. Number: BE 454419759; (d) Belgian addresses are those of Fondation Secours Mondial — Belgique a.s.b.l and Fondation Secours Mondial vzw. and Stichting Wereldhulp — België, v.z.w since 1998. Date of designation referred to in Article 2a (4) (b): 22.10.2002’ under the heading ‘Legal persons, groups and entities’ shall be replaced by the following:						
+						
+Global Relief Foundation (GRF) ( alias  (a) Fondation Secours Mondial (FSM), (b) Secours mondial de France (SEMONDE), (c) Fondation Secours Mondial — Belgique a.s.b.l., (d) Fondation Secours Mondial v.z.w, (e) FSM, (f) Stichting Wereldhulp — België, v.z.w., (g) Fondation Secours Mondial — Kosova, (h) Fondation Secours Mondial ‘World Relief’). Address: (a) 9935 South 76th Avenue, Unit 1, Bridgeview, Illinois 60455, U.S.A.; (b) PO Box 1406, Bridgeview, Illinois 60455, U.S.A.; (c) 49 rue du Lazaret, 67100 Strasbourg, France; (d) Vaatjesstraat 29, 2580 Putte, Belgium; (e) Rue des Bataves 69, 1040 Etterbeek (Brussels), Belgium; (f) PO Box 6, 1040 Etterbeek 2 (Brussels), Belgium; (g) Rr. Skenderbeu 76, Lagjja Sefa, Gjakova, Kosovo; (h) Ylli Morina Road, Djakovica, Kosovo; (i) Rruga e Kavajes, Building No 3, Apartment No 61, PO Box 2892, Tirana, Albania; (j) House 267 Street No 54, Sector F — 11/4, Islamabad, Pakistan. Other information: (a) Other foreign locations: Afghanistan, Azerbaijan, Bangladesh, China, Eritrea, Ethiopia, Georgia, India, Iraq, Jordan, Lebanon, West Bank and Gaza, Sierra Leone, Somalia and Syria; (b) U.S. Federal Employer Identification: 36-3804626; (c) V.A.T. Number: BE 454419759; (d) Belgian addresses are those of Fondation Secours Mondial — Belgique a.s.b.l and Fondation Secours Mondial vzw. and Stichting Wereldhulp — België, v.z.w since 1998. Date of designation referred to in Article 2a (4) (b): 22.10.2002.						
+						
+DECISIONS						
+						
+COUNCIL DECISION						
+of 16 March 2010						
+						
+on the allocation of financial intermediation services indirectly measured (FISIM) for the establishment of the gross national income (GNI) used for the purposes of the European Union’s budget and its own resources						
+(2010/196/EU, Euratom)						
+						
+THE COUNCIL OF THE EUROPEAN UNION,						
+						
+Having regard to Council Decision 2007/436/EC, Euratom of 7 June 2007 on the system of the European Communities’ own resources (1), and in particular the second subparagraph of Article 2(7) thereof,						
+						
+Having regard to the proposal from the European Commission,						
+						
+Having regard to the opinion of the European Parliament,						
+						
+Whereas:						
+						
+Article 8(1) of Council Regulation (EC) No 448/98 of 16 February 1998 completing and amending Regulation (EC) No 2223/96 with respect to the allocation of financial intermediation services indirectly measured (FISIM) within the European system of national and regional accounts (ESA) (2) provides that the decision to allocate FISIM for the establishment of the gross national product used for the purposes of the Community’s budget and its own resources shall be adopted by the Council. With effect from 1 January 2002 the concept of gross national product was replaced by the concept of gross national income (GNI), pursuant to the first subparagraph of Article 2(7) of Council Decision 2000/597/EC, Euratom of 29 September 2000 on the system of the European Communities’ own resources (3).						
+						
+The second subparagraph of Article 2(7) of Decision 2007/436/EC, Euratom provides that where modifi- cations to the European system of national and regional accounts (ESA 95) result in significant changes in the GNI as provided by the Commission, the Council shall decide whether those modifications shall apply for the purposes of that Decision.						
+OJ L 163, 23.6.2007, p. 17.						
+OJ L 58, 27.2.1998, p. 1.						
+OJ L 253, 7.10.2000, p. 42.						
+It is appropriate to use the most recent statistical concepts for the purposes of the Union’s budget and its own resources, in particular as far as the establishment of the GNI as provided by the Commission in application of ESA 95 is concerned. FISIM should therefore be allocated for the establishment of the GNI for the purposes of the Union’s budget and its own resources.						
+						
+By October 2008, all EU-27 Member States had trans- mitted their data including on FISIM allocation according to the new methodology. The assessment of those data indicated that the allocation of FISIM results in a significant change in the sense of the second subparagraph of Article 2(7) of Decision 2007/436/EC, Euratom since it increases GNI by more than 1 % on average and implies, when applying the method described in Article 3 of that Decision, a change in the ceilings set by Article 3.						
+						
+Therefore the allocation of FISIM should apply for the purposes of Decision 2007/436/EC, Euratom.						
+						
+It is deemed appropriate that the ensuing changes apply as from the financial year 2010,						
+						
+HAS ADOPTED THIS DECISION:						
+						
+Article 1						
+						
+Financial intermediation services indirectly measured (FISIM) shall be allocated for the establishment of the gross national income for the purposes of the Union’s budget and its own resources.						
+						
+Article 2						
+						
+The allocation of FISIM pursuant to Article 1 shall apply for the purposes of Decision 2007/436/EC, Euratom from 1 January 2010.						
+						
+Article 3						
+This Decision shall enter into force on the day of its publication in the  Official Journal of the European Union . It shall apply from 1 January 2010.						
+						
+Article 4						
+						
+This Decision shall be published in the  Official Journal of the European Union .						
+						
+Done at Brussels, 16 March 2010.						
+						
+For the Council The President						
+E. SALGADO						
+						
+COUNCIL DECISION 2010/197/CFSP						
+of 31 March 2010						
+						
+on the launch of a European Union military mission to contribute to the training of Somali security forces (EUTM Somalia)						
+						
+THE COUNCIL OF THE EUROPEAN UNION,						
+						
+Having regard to the Treaty on European Union, and in particular Articles 28 and 43(2) thereof,						
+						
+Having regard to Council Decision 2010/96/CFSP of 15 February 2010 on a European Union military mission to contribute to the training of Somali security forces (1), and in particular Article 4 thereof,						
+						
+Having regard to the proposal by the High Representative of the Union for Foreign Affairs and Security Policy,						
+						
+Whereas:						
+						
+In its Resolution 1872 (2009) on the situation in Somalia, adopted on 26 May 2009, the United Nations Security Council (UNSC) stressed the importance of the re-establishment, training, equipping and retention of Somali security forces, and urged Member States and regional and international organisations to offer technical assistance for the training and equipping of the Somali security forces. In its Resolution 1897 (2009), adopted on 30 November 2009, the UNSC recalled its previous resolutions and reaffirmed its respect for the sovereignty, territorial integrity, political independence and unity of Somalia.						
+						
+By letter dated 5 January 2010, the Minister of Defence of Uganda welcomed the Union's envisaged mission in support of the Somali security sector and invited the Union to participate in the training of Somali security forces in Uganda for a period of at least one year.						
+						
+In accordance with Article 5 of the Protocol on the position of Denmark, annexed to the Treaty on						
+European Union and to the Treaty on the Functioning of the European Union, Denmark does not participate in the elaboration and implementation of decisions and actions of the Union which have defence implications. Denmark does not, therefore, participate in the financing of this mission,						
+						
+HAS ADOPTED THIS DECISION:						
+						
+Article 1						
+						
+The Mission Plan for the EU military mission to contribute to the training of Somali security forces, hereinafter referred to as ‘EUTM Somalia’, is approved.						
+						
+Article 2						
+						
+EUTM Somalia shall be launched on 7 April 2010.						
+						
+Article 3						
+						
+The EU Mission Commander of EUTM Somalia is hereby au- thorised with immediate effect to release the activation order (ACTORD) in order to execute the deployment of the forces and start execution of the mission.						
+						
+Article 4						
+						
+This Decision shall enter into force on the day of its adoption. Done at Brussels, 31 March 2010.						
+For the Council The President						
+M. Á. MORATINOS						
+						
+OJ L 44, 19.2.2010, p. 16.						
+						
+COMMISSION DECISION						
+of 6 April 2010						
+						
+releasing Latvia from certain obligations to apply Council Directives 66/402/EEC and 2002/57/EC in respect of Avena strigosa Schreb., Brassica nigra (L.) Koch and Helianthus annuus L.						
+(notified under document C(2010) 2042)  (Only the Latvian text is authentic) (Text with EEA relevance)  (2010/198/EU)						
+						
+THE EUROPEAN COMMISSION,						
+						
+Having regard to the Treaty on the Functioning of the European Union,						
+						
+Having regard to Council Directive 66/402/EEC of 14 June 1966 on the marketing of cereal seed (1), and in particular Article 23a thereof,						
+						
+Having regard to Council Directive 2002/57/EC of 13 June 2002 on the marketing of seed of oil and fibre plants (2), and in particular Article 28 thereof,						
+						
+Having regard to the application submitted by Latvia, Whereas:						
+Directives 66/402/EEC and 2002/57/EC set out certain provisions for the marketing of cereal seed and seed of oil and fibre plants. Those Directives also provide that, subject to certain conditions, Member States may be wholly or partially released from the obligation to apply the provisions of those Directives in respect of certain species.						
+						
+Latvia has applied for release from their obligations in respect of  Avena strigosa  Schreb.,  Brassica nigra  (L.) Koch, and partially in respect of  Helianthus annuus  L.						
+						
+The seed of  Avena strigosa  Schreb,  Brassica nigra  (L.) Koch and  Helianthus annuus  L. is not normally reproduced or marketed in Latvia. In addition, its economic importance in the abovementioned country is not significant. Due to climatic conditions, no production of seed of  Helianthus annuus  L. exists in Latvia; the seed for sowing is imported from other countries and the yield is used for feed purposes only.						
+						
+As long as those conditions remain, the relevant Member State should be released from the obligation to apply the provisions of Directives 66/402/EEC and 2002/57/EC to the species in question.						
+						
+The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agri- culture, Horticulture and Forestry,						
+						
+HAS ADOPTED THIS DECISION:						
+						
+Article 1						
+						
+Latvia is released from the obligation to apply Directive 66/402/EEC, with the exception of Article 14(1), in respect of the species of  Avena strigosa  Schreb.						
+						
+Article 2						
+						
+Latvia is released from the obligation to apply Directive 2002/57/EC, with the exception of Article 17, in respect of the species of  Brassica nigra  (L.) Koch.						
+						
+Latvia is released from the obligation to apply Directive 2002/57/EC, with the exception of Articles 17 and 22(1), in respect of the species of  Helianthus annuus  L.						
+						
+Article 3						
+						
+This Decision is addressed to the Republic of Latvia.						
+						
+Done at Brussels, 6 April 2010.						
+						
+For the Commission						
+John DALLI						
+						
+Member of the Commission						
+						
+OJ 125, 11.7.1966, p. 2309.						
+OJ L 193, 20.7.2002, p. 74.						
+						
+						
+    2010 SUBSCRIPTION PRICES (excluding VAT, including normal transport charges)   						
+						
+EU Official Journal, L + C series, paper edition only	22 official EU languages	EUR 1 100 per year				
+EU Official Journal, L + C series, paper + annual CD-ROM	22 official EU languages	EUR 1 200 per year				
+EU Official Journal, L series, paper edition only	22 official EU languages	EUR 770 per year				
+EU Official Journal, L + C series, monthly CD-ROM (cumulative)	22 official EU languages	EUR 400 per year				
+Supplement to the Official Journal (S series), tendering procedures for public contracts, CD-ROM, two editions per week	"multilingual:
+23 official EU languages"	EUR 300 per year				
+EU Official Journal, C series — recruitment competitions	Language(s) according to competition(s)	EUR 50 per year				
+						
+Subscriptions to the  Official Journal of the European Union , which is published in the official languages of the European Union, are available for 22 language versions. The Official Journal comprises two series, L (Legislation) and C (Information and Notices).						
+						
+A separate subscription must be taken out for each language version.						
+In accordance with Council Regulation (EC) No 920/2005, published in Official Journal L 156 of 18 June 2005, the institutions of the European Union are temporarily not bound by the obligation to draft all acts in Irish and publish them in that language. Irish editions of the Official Journal are therefore sold separately.						
+Subscriptions to the Supplement to the Official Journal (S Series — tendering procedures for public contracts) cover all 23 official language versions on a single multilingual CD-ROM.						
+On request, subscribers to the  Official Journal of the European Union  can receive the various Annexes to the Official Journal. Subscribers are informed of the publication of Annexes by notices inserted in the 						
+Official Journal of the European Union .						
+						
+CD-Rom formats will be replaced by DVD formats during 2010.						
+		Sales and subscriptions				
+						
+Subscriptions to various priced periodicals, such as the subscription to the  Official Journal of the European Union , are available from our commercial distributors. The list of commercial distributors is available at:						
+						
+http://publications.europa.eu/others/agents/index_en.htm						
+						
+EN						
